@@ -1,0 +1,2306 @@
+Category,Setting,Diagnosis,Year,Month,Date,Count
+Cancer,Ambulatory Surgery,Primary,2020,3,Mar-20,1
+Cancer,Ambulatory Surgery,Primary,2020,8,Aug-20,1
+Cancer,Ambulatory Surgery,Primary,2020,10,Oct-20,1
+Cancer,Ambulatory Surgery,Primary,2021,7,Jul-21,1
+Cancer,Ambulatory Surgery,Primary,2021,10,Oct-21,1
+Cardiac Arrest,Ambulatory Surgery,Primary,2020,4,Apr-20,2
+Cardiac Arrest,Ambulatory Surgery,Primary,2020,10,Oct-20,4
+Cardiac Arrest,Ambulatory Surgery,Primary,2020,11,Nov-20,1
+Cardiac Arrest,Ambulatory Surgery,Primary,2020,12,Dec-20,1
+Cardiac Arrest,Ambulatory Surgery,Primary,2021,1,Jan-21,1
+Cardiac Arrest,Ambulatory Surgery,Primary,2021,4,Apr-21,1
+Cardiac Arrest,Ambulatory Surgery,Primary,2021,6,Jun-21,2
+Cardiac Arrest,Ambulatory Surgery,Primary,2021,11,Nov-21,2
+Diabetes,Ambulatory Surgery,Primary,2021,4,Apr-21,1
+Diabetes,Ambulatory Surgery,Primary,2021,10,Oct-21,1
+Diabetes,Ambulatory Surgery,Primary,2021,12,Dec-21,1
+Hypertension,Ambulatory Surgery,Primary,2020,12,Dec-20,1
+Hypertension,Ambulatory Surgery,Primary,2021,4,Apr-21,1
+Hypertension,Ambulatory Surgery,Primary,2021,5,May-21,1
+Hypertension,Ambulatory Surgery,Primary,2021,12,Dec-21,1
+Pneumonia,Ambulatory Surgery,Primary,2020,1,Jan-20,1
+Sepsis,Ambulatory Surgery,Primary,2020,1,Jan-20,1
+Sepsis,Ambulatory Surgery,Primary,2020,4,Apr-20,1
+Sepsis,Ambulatory Surgery,Primary,2020,7,Jul-20,1
+Sepsis,Ambulatory Surgery,Primary,2020,12,Dec-20,1
+Sepsis,Ambulatory Surgery,Primary,2021,1,Jan-21,1
+Sepsis,Ambulatory Surgery,Primary,2021,2,Feb-21,3
+Sepsis,Ambulatory Surgery,Primary,2021,6,Jun-21,1
+Sepsis,Ambulatory Surgery,Primary,2021,8,Aug-21,1
+Anxiety,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2020,2,Feb-20,1
+Anxiety,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2020,3,Mar-20,1
+Anxiety,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2020,4,Apr-20,1
+Anxiety,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2020,7,Jul-20,1
+Anxiety,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2020,10,Oct-20,1
+Anxiety,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2021,2,Feb-21,2
+Anxiety,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2021,3,Mar-21,1
+Anxiety,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2021,5,May-21,1
+Anxiety,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2021,8,Aug-21,1
+Anxiety,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2021,12,Dec-21,3
+Asthma,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2020,6,Jun-20,1
+Asthma,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2020,7,Jul-20,1
+Asthma,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2021,4,Apr-21,1
+Asthma,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2021,6,Jun-21,1
+Asthma,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2021,12,Dec-21,1
+Cancer,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2020,3,Mar-20,1
+Cancer,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2020,4,Apr-20,1
+Cancer,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2020,7,Jul-20,1
+Cancer,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2020,8,Aug-20,1
+Cancer,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2020,10,Oct-20,1
+Cancer,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2020,12,Dec-20,1
+Cancer,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2021,4,Apr-21,1
+Cancer,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2021,5,May-21,1
+Cancer,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2021,6,Jun-21,1
+Cancer,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2021,7,Jul-21,1
+Cancer,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2021,8,Aug-21,1
+Cancer,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2021,10,Oct-21,1
+Cancer,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2021,11,Nov-21,2
+Cardiac Arrest,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2020,1,Jan-20,1
+Cardiac Arrest,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2020,2,Feb-20,2
+Cardiac Arrest,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2020,3,Mar-20,2
+Cardiac Arrest,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2020,4,Apr-20,2
+Cardiac Arrest,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2020,5,May-20,2
+Cardiac Arrest,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2020,6,Jun-20,1
+Cardiac Arrest,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2020,8,Aug-20,1
+Cardiac Arrest,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2020,9,Sep-20,1
+Cardiac Arrest,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2020,11,Nov-20,2
+Cardiac Arrest,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2020,12,Dec-20,3
+Cardiac Arrest,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2021,1,Jan-21,3
+Cardiac Arrest,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2021,2,Feb-21,5
+Cardiac Arrest,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2021,3,Mar-21,4
+Cardiac Arrest,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2021,4,Apr-21,3
+Cardiac Arrest,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2021,5,May-21,3
+Cardiac Arrest,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2021,6,Jun-21,2
+Cardiac Arrest,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2021,7,Jul-21,4
+Cardiac Arrest,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2021,8,Aug-21,1
+Cardiac Arrest,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2021,9,Sep-21,1
+Cardiac Arrest,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2021,10,Oct-21,3
+Cardiac Arrest,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2021,11,Nov-21,3
+Cardiac Arrest,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2021,12,Dec-21,3
+Chronic Obstructive Pulmonary Disease (COPD),Ambulatory Surgery,Secondary (COVID-19 Not Primary),2020,2,Feb-20,1
+Chronic Obstructive Pulmonary Disease (COPD),Ambulatory Surgery,Secondary (COVID-19 Not Primary),2020,3,Mar-20,2
+Chronic Obstructive Pulmonary Disease (COPD),Ambulatory Surgery,Secondary (COVID-19 Not Primary),2020,4,Apr-20,1
+Chronic Obstructive Pulmonary Disease (COPD),Ambulatory Surgery,Secondary (COVID-19 Not Primary),2020,8,Aug-20,1
+Chronic Obstructive Pulmonary Disease (COPD),Ambulatory Surgery,Secondary (COVID-19 Not Primary),2020,10,Oct-20,1
+Chronic Obstructive Pulmonary Disease (COPD),Ambulatory Surgery,Secondary (COVID-19 Not Primary),2020,11,Nov-20,3
+Chronic Obstructive Pulmonary Disease (COPD),Ambulatory Surgery,Secondary (COVID-19 Not Primary),2020,12,Dec-20,3
+Chronic Obstructive Pulmonary Disease (COPD),Ambulatory Surgery,Secondary (COVID-19 Not Primary),2021,2,Feb-21,1
+Chronic Obstructive Pulmonary Disease (COPD),Ambulatory Surgery,Secondary (COVID-19 Not Primary),2021,4,Apr-21,1
+Chronic Obstructive Pulmonary Disease (COPD),Ambulatory Surgery,Secondary (COVID-19 Not Primary),2021,8,Aug-21,1
+Chronic Obstructive Pulmonary Disease (COPD),Ambulatory Surgery,Secondary (COVID-19 Not Primary),2021,9,Sep-21,1
+Chronic Obstructive Pulmonary Disease (COPD),Ambulatory Surgery,Secondary (COVID-19 Not Primary),2021,10,Oct-21,1
+Chronic Obstructive Pulmonary Disease (COPD),Ambulatory Surgery,Secondary (COVID-19 Not Primary),2021,12,Dec-21,1
+Depression,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2020,2,Feb-20,1
+Depression,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2020,4,Apr-20,2
+Depression,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2021,1,Jan-21,1
+Depression,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2021,2,Feb-21,1
+Depression,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2021,7,Jul-21,1
+Depression,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2021,8,Aug-21,1
+Depression,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2021,12,Dec-21,1
+Diabetes,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2020,1,Jan-20,1
+Diabetes,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2020,2,Feb-20,2
+Diabetes,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2020,3,Mar-20,3
+Diabetes,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2020,4,Apr-20,3
+Diabetes,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2020,5,May-20,2
+Diabetes,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2020,6,Jun-20,2
+Diabetes,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2020,7,Jul-20,3
+Diabetes,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2020,8,Aug-20,2
+Diabetes,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2020,10,Oct-20,1
+Diabetes,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2020,11,Nov-20,1
+Diabetes,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2020,12,Dec-20,3
+Diabetes,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2021,1,Jan-21,1
+Diabetes,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2021,2,Feb-21,5
+Diabetes,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2021,3,Mar-21,5
+Diabetes,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2021,4,Apr-21,3
+Diabetes,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2021,5,May-21,4
+Diabetes,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2021,6,Jun-21,2
+Diabetes,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2021,8,Aug-21,4
+Diabetes,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2021,10,Oct-21,3
+Diabetes,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2021,12,Dec-21,2
+Hypertension,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2020,1,Jan-20,2
+Hypertension,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2020,2,Feb-20,1
+Hypertension,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2020,3,Mar-20,9
+Hypertension,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2020,4,Apr-20,5
+Hypertension,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2020,5,May-20,2
+Hypertension,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2020,6,Jun-20,3
+Hypertension,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2020,7,Jul-20,4
+Hypertension,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2020,8,Aug-20,2
+Hypertension,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2020,9,Sep-20,3
+Hypertension,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2020,10,Oct-20,6
+Hypertension,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2020,11,Nov-20,7
+Hypertension,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2020,12,Dec-20,5
+Hypertension,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2021,1,Jan-21,3
+Hypertension,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2021,2,Feb-21,7
+Hypertension,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2021,3,Mar-21,6
+Hypertension,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2021,4,Apr-21,4
+Hypertension,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2021,5,May-21,5
+Hypertension,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2021,6,Jun-21,5
+Hypertension,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2021,7,Jul-21,3
+Hypertension,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2021,8,Aug-21,3
+Hypertension,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2021,9,Sep-21,1
+Hypertension,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2021,10,Oct-21,4
+Hypertension,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2021,11,Nov-21,5
+Hypertension,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2021,12,Dec-21,8
+Mood Disorders (Excluding Depression),Ambulatory Surgery,Secondary (COVID-19 Not Primary),2020,12,Dec-20,1
+Mood Disorders (Excluding Depression),Ambulatory Surgery,Secondary (COVID-19 Not Primary),2021,6,Jun-21,1
+Non-Mood Psychotic Disorders,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2020,3,Mar-20,1
+Non-Mood Psychotic Disorders,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2021,7,Jul-21,1
+Obesity,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2020,1,Jan-20,1
+Obesity,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2020,2,Feb-20,1
+Obesity,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2020,3,Mar-20,2
+Obesity,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2020,5,May-20,1
+Obesity,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2020,6,Jun-20,2
+Obesity,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2020,7,Jul-20,2
+Obesity,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2020,10,Oct-20,1
+Obesity,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2020,12,Dec-20,1
+Obesity,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2021,1,Jan-21,1
+Obesity,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2021,2,Feb-21,3
+Obesity,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2021,4,Apr-21,1
+Obesity,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2021,5,May-21,2
+Obesity,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2021,6,Jun-21,2
+Obesity,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2021,7,Jul-21,2
+Obesity,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2021,10,Oct-21,3
+Pneumonia,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2020,4,Apr-20,1
+Pneumonia,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2020,6,Jun-20,1
+Pneumonia,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2021,1,Jan-21,2
+Pneumonia,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2021,2,Feb-21,2
+Pneumonia,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2021,6,Jun-21,2
+Respiratory Arrest/Failure,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2020,1,Jan-20,1
+Respiratory Arrest/Failure,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2020,2,Feb-20,1
+Respiratory Arrest/Failure,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2020,3,Mar-20,1
+Respiratory Arrest/Failure,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2020,4,Apr-20,4
+Respiratory Arrest/Failure,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2020,7,Jul-20,1
+Respiratory Arrest/Failure,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2020,8,Aug-20,1
+Respiratory Arrest/Failure,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2020,10,Oct-20,3
+Respiratory Arrest/Failure,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2020,12,Dec-20,2
+Respiratory Arrest/Failure,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2021,1,Jan-21,3
+Respiratory Arrest/Failure,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2021,2,Feb-21,1
+Respiratory Arrest/Failure,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2021,3,Mar-21,3
+Respiratory Arrest/Failure,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2021,4,Apr-21,1
+Respiratory Arrest/Failure,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2021,5,May-21,2
+Respiratory Arrest/Failure,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2021,6,Jun-21,2
+Respiratory Arrest/Failure,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2021,7,Jul-21,2
+Respiratory Arrest/Failure,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2021,8,Aug-21,1
+Respiratory Arrest/Failure,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2021,9,Sep-21,1
+Respiratory Arrest/Failure,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2021,10,Oct-21,3
+Respiratory Arrest/Failure,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2021,11,Nov-21,2
+Respiratory Arrest/Failure,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2021,12,Dec-21,2
+Sepsis,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2020,1,Jan-20,1
+Sepsis,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2020,4,Apr-20,1
+Sepsis,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2020,7,Jul-20,1
+Sepsis,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2020,12,Dec-20,1
+Sepsis,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2021,2,Feb-21,2
+Sepsis,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2021,7,Jul-21,1
+Sepsis,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2021,8,Aug-21,1
+Sepsis,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2021,9,Sep-21,1
+Sepsis,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2021,12,Dec-21,1
+Substance Use Disorders,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2020,8,Aug-20,1
+Substance Use Disorders,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2020,10,Oct-20,1
+Substance Use Disorders,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2020,11,Nov-20,1
+Substance Use Disorders,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2021,2,Feb-21,3
+Substance Use Disorders,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2021,4,Apr-21,2
+Substance Use Disorders,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2021,5,May-21,1
+Substance Use Disorders,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2021,6,Jun-21,2
+Substance Use Disorders,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2021,11,Nov-21,1
+Substance Use Disorders,Ambulatory Surgery,Secondary (COVID-19 Not Primary),2021,12,Dec-21,1
+Anxiety,Emergency Dept,Primary,2020,1,Jan-20,1
+Anxiety,Emergency Dept,Primary,2020,8,Aug-20,1
+Anxiety,Emergency Dept,Primary,2021,5,May-21,1
+Anxiety,Emergency Dept,Primary,2021,7,Jul-21,1
+Asthma,Emergency Dept,Primary,2020,1,Jan-20,1
+Asthma,Emergency Dept,Primary,2020,7,Jul-20,1
+Asthma,Emergency Dept,Primary,2020,11,Nov-20,1
+Asthma,Emergency Dept,Primary,2021,1,Jan-21,2
+Asthma,Emergency Dept,Primary,2021,12,Dec-21,1
+Cancer,Emergency Dept,Primary,2020,1,Jan-20,13
+Cancer,Emergency Dept,Primary,2020,2,Feb-20,14
+Cancer,Emergency Dept,Primary,2020,3,Mar-20,16
+Cancer,Emergency Dept,Primary,2020,4,Apr-20,3
+Cancer,Emergency Dept,Primary,2020,5,May-20,7
+Cancer,Emergency Dept,Primary,2020,6,Jun-20,10
+Cancer,Emergency Dept,Primary,2020,7,Jul-20,10
+Cancer,Emergency Dept,Primary,2020,8,Aug-20,12
+Cancer,Emergency Dept,Primary,2020,9,Sep-20,7
+Cancer,Emergency Dept,Primary,2020,10,Oct-20,10
+Cancer,Emergency Dept,Primary,2020,11,Nov-20,8
+Cancer,Emergency Dept,Primary,2020,12,Dec-20,20
+Cancer,Emergency Dept,Primary,2021,1,Jan-21,16
+Cancer,Emergency Dept,Primary,2021,2,Feb-21,12
+Cancer,Emergency Dept,Primary,2021,3,Mar-21,8
+Cancer,Emergency Dept,Primary,2021,4,Apr-21,13
+Cancer,Emergency Dept,Primary,2021,5,May-21,12
+Cancer,Emergency Dept,Primary,2021,6,Jun-21,10
+Cancer,Emergency Dept,Primary,2021,7,Jul-21,15
+Cancer,Emergency Dept,Primary,2021,8,Aug-21,22
+Cancer,Emergency Dept,Primary,2021,9,Sep-21,9
+Cancer,Emergency Dept,Primary,2021,10,Oct-21,17
+Cancer,Emergency Dept,Primary,2021,11,Nov-21,11
+Cancer,Emergency Dept,Primary,2021,12,Dec-21,15
+Cardiac Arrest,Emergency Dept,Primary,2020,1,Jan-20,1081
+Cardiac Arrest,Emergency Dept,Primary,2020,2,Feb-20,925
+Cardiac Arrest,Emergency Dept,Primary,2020,3,Mar-20,999
+Cardiac Arrest,Emergency Dept,Primary,2020,4,Apr-20,956
+Cardiac Arrest,Emergency Dept,Primary,2020,5,May-20,987
+Cardiac Arrest,Emergency Dept,Primary,2020,6,Jun-20,932
+Cardiac Arrest,Emergency Dept,Primary,2020,7,Jul-20,1140
+Cardiac Arrest,Emergency Dept,Primary,2020,8,Aug-20,1068
+Cardiac Arrest,Emergency Dept,Primary,2020,9,Sep-20,933
+Cardiac Arrest,Emergency Dept,Primary,2020,10,Oct-20,979
+Cardiac Arrest,Emergency Dept,Primary,2020,11,Nov-20,1036
+Cardiac Arrest,Emergency Dept,Primary,2020,12,Dec-20,1466
+Cardiac Arrest,Emergency Dept,Primary,2021,1,Jan-21,1412
+Cardiac Arrest,Emergency Dept,Primary,2021,2,Feb-21,1035
+Cardiac Arrest,Emergency Dept,Primary,2021,3,Mar-21,1017
+Cardiac Arrest,Emergency Dept,Primary,2021,4,Apr-21,897
+Cardiac Arrest,Emergency Dept,Primary,2021,5,May-21,831
+Cardiac Arrest,Emergency Dept,Primary,2021,6,Jun-21,870
+Cardiac Arrest,Emergency Dept,Primary,2021,7,Jul-21,870
+Cardiac Arrest,Emergency Dept,Primary,2021,8,Aug-21,1005
+Cardiac Arrest,Emergency Dept,Primary,2021,9,Sep-21,920
+Cardiac Arrest,Emergency Dept,Primary,2021,10,Oct-21,992
+Cardiac Arrest,Emergency Dept,Primary,2021,11,Nov-21,941
+Cardiac Arrest,Emergency Dept,Primary,2021,12,Dec-21,1087
+Chronic Obstructive Pulmonary Disease (COPD),Emergency Dept,Primary,2020,2,Feb-20,1
+Chronic Obstructive Pulmonary Disease (COPD),Emergency Dept,Primary,2020,3,Mar-20,2
+Chronic Obstructive Pulmonary Disease (COPD),Emergency Dept,Primary,2020,5,May-20,1
+Chronic Obstructive Pulmonary Disease (COPD),Emergency Dept,Primary,2020,6,Jun-20,1
+Chronic Obstructive Pulmonary Disease (COPD),Emergency Dept,Primary,2020,10,Oct-20,1
+Chronic Obstructive Pulmonary Disease (COPD),Emergency Dept,Primary,2020,12,Dec-20,1
+Chronic Obstructive Pulmonary Disease (COPD),Emergency Dept,Primary,2021,3,Mar-21,1
+Chronic Obstructive Pulmonary Disease (COPD),Emergency Dept,Primary,2021,5,May-21,2
+COVID-19,Emergency Dept,Primary,2020,4,Apr-20,41
+COVID-19,Emergency Dept,Primary,2020,5,May-20,23
+COVID-19,Emergency Dept,Primary,2020,6,Jun-20,34
+COVID-19,Emergency Dept,Primary,2020,7,Jul-20,68
+COVID-19,Emergency Dept,Primary,2020,8,Aug-20,51
+COVID-19,Emergency Dept,Primary,2020,9,Sep-20,29
+COVID-19,Emergency Dept,Primary,2020,10,Oct-20,20
+COVID-19,Emergency Dept,Primary,2020,11,Nov-20,53
+COVID-19,Emergency Dept,Primary,2020,12,Dec-20,300
+COVID-19,Emergency Dept,Primary,2021,1,Jan-21,259
+COVID-19,Emergency Dept,Primary,2021,2,Feb-21,53
+COVID-19,Emergency Dept,Primary,2021,3,Mar-21,24
+COVID-19,Emergency Dept,Primary,2021,4,Apr-21,11
+COVID-19,Emergency Dept,Primary,2021,5,May-21,3
+COVID-19,Emergency Dept,Primary,2021,6,Jun-21,8
+COVID-19,Emergency Dept,Primary,2021,7,Jul-21,15
+COVID-19,Emergency Dept,Primary,2021,8,Aug-21,51
+COVID-19,Emergency Dept,Primary,2021,9,Sep-21,40
+COVID-19,Emergency Dept,Primary,2021,10,Oct-21,33
+COVID-19,Emergency Dept,Primary,2021,11,Nov-21,36
+COVID-19,Emergency Dept,Primary,2021,12,Dec-21,29
+Depression,Emergency Dept,Primary,2020,5,May-20,1
+Depression,Emergency Dept,Primary,2020,10,Oct-20,1
+Depression,Emergency Dept,Primary,2020,11,Nov-20,1
+Diabetes,Emergency Dept,Primary,2020,1,Jan-20,5
+Diabetes,Emergency Dept,Primary,2020,2,Feb-20,1
+Diabetes,Emergency Dept,Primary,2020,3,Mar-20,3
+Diabetes,Emergency Dept,Primary,2020,4,Apr-20,2
+Diabetes,Emergency Dept,Primary,2020,5,May-20,6
+Diabetes,Emergency Dept,Primary,2020,6,Jun-20,2
+Diabetes,Emergency Dept,Primary,2020,7,Jul-20,5
+Diabetes,Emergency Dept,Primary,2020,8,Aug-20,4
+Diabetes,Emergency Dept,Primary,2020,9,Sep-20,4
+Diabetes,Emergency Dept,Primary,2020,10,Oct-20,2
+Diabetes,Emergency Dept,Primary,2020,11,Nov-20,6
+Diabetes,Emergency Dept,Primary,2020,12,Dec-20,5
+Diabetes,Emergency Dept,Primary,2021,1,Jan-21,4
+Diabetes,Emergency Dept,Primary,2021,2,Feb-21,5
+Diabetes,Emergency Dept,Primary,2021,3,Mar-21,2
+Diabetes,Emergency Dept,Primary,2021,4,Apr-21,2
+Diabetes,Emergency Dept,Primary,2021,5,May-21,3
+Diabetes,Emergency Dept,Primary,2021,6,Jun-21,1
+Diabetes,Emergency Dept,Primary,2021,7,Jul-21,4
+Diabetes,Emergency Dept,Primary,2021,8,Aug-21,2
+Diabetes,Emergency Dept,Primary,2021,9,Sep-21,1
+Diabetes,Emergency Dept,Primary,2021,10,Oct-21,7
+Diabetes,Emergency Dept,Primary,2021,11,Nov-21,3
+Diabetes,Emergency Dept,Primary,2021,12,Dec-21,4
+Hypertension,Emergency Dept,Primary,2020,1,Jan-20,7
+Hypertension,Emergency Dept,Primary,2020,2,Feb-20,7
+Hypertension,Emergency Dept,Primary,2020,3,Mar-20,3
+Hypertension,Emergency Dept,Primary,2020,4,Apr-20,10
+Hypertension,Emergency Dept,Primary,2020,5,May-20,12
+Hypertension,Emergency Dept,Primary,2020,6,Jun-20,7
+Hypertension,Emergency Dept,Primary,2020,7,Jul-20,7
+Hypertension,Emergency Dept,Primary,2020,8,Aug-20,10
+Hypertension,Emergency Dept,Primary,2020,9,Sep-20,6
+Hypertension,Emergency Dept,Primary,2020,10,Oct-20,7
+Hypertension,Emergency Dept,Primary,2020,11,Nov-20,6
+Hypertension,Emergency Dept,Primary,2020,12,Dec-20,11
+Hypertension,Emergency Dept,Primary,2021,1,Jan-21,15
+Hypertension,Emergency Dept,Primary,2021,2,Feb-21,10
+Hypertension,Emergency Dept,Primary,2021,3,Mar-21,8
+Hypertension,Emergency Dept,Primary,2021,4,Apr-21,2
+Hypertension,Emergency Dept,Primary,2021,5,May-21,8
+Hypertension,Emergency Dept,Primary,2021,6,Jun-21,6
+Hypertension,Emergency Dept,Primary,2021,7,Jul-21,4
+Hypertension,Emergency Dept,Primary,2021,8,Aug-21,5
+Hypertension,Emergency Dept,Primary,2021,9,Sep-21,6
+Hypertension,Emergency Dept,Primary,2021,10,Oct-21,5
+Hypertension,Emergency Dept,Primary,2021,11,Nov-21,6
+Hypertension,Emergency Dept,Primary,2021,12,Dec-21,11
+Non-Mood Psychotic Disorders,Emergency Dept,Primary,2020,7,Jul-20,1
+Non-Mood Psychotic Disorders,Emergency Dept,Primary,2021,1,Jan-21,1
+Non-Mood Psychotic Disorders,Emergency Dept,Primary,2021,2,Feb-21,1
+Pneumonia,Emergency Dept,Primary,2020,1,Jan-20,12
+Pneumonia,Emergency Dept,Primary,2020,2,Feb-20,11
+Pneumonia,Emergency Dept,Primary,2020,3,Mar-20,23
+Pneumonia,Emergency Dept,Primary,2020,4,Apr-20,17
+Pneumonia,Emergency Dept,Primary,2020,5,May-20,15
+Pneumonia,Emergency Dept,Primary,2020,6,Jun-20,14
+Pneumonia,Emergency Dept,Primary,2020,7,Jul-20,10
+Pneumonia,Emergency Dept,Primary,2020,8,Aug-20,11
+Pneumonia,Emergency Dept,Primary,2020,9,Sep-20,5
+Pneumonia,Emergency Dept,Primary,2020,10,Oct-20,3
+Pneumonia,Emergency Dept,Primary,2020,11,Nov-20,13
+Pneumonia,Emergency Dept,Primary,2020,12,Dec-20,19
+Pneumonia,Emergency Dept,Primary,2021,1,Jan-21,15
+Pneumonia,Emergency Dept,Primary,2021,2,Feb-21,13
+Pneumonia,Emergency Dept,Primary,2021,3,Mar-21,11
+Pneumonia,Emergency Dept,Primary,2021,4,Apr-21,5
+Pneumonia,Emergency Dept,Primary,2021,5,May-21,10
+Pneumonia,Emergency Dept,Primary,2021,6,Jun-21,8
+Pneumonia,Emergency Dept,Primary,2021,7,Jul-21,14
+Pneumonia,Emergency Dept,Primary,2021,8,Aug-21,8
+Pneumonia,Emergency Dept,Primary,2021,9,Sep-21,9
+Pneumonia,Emergency Dept,Primary,2021,10,Oct-21,12
+Pneumonia,Emergency Dept,Primary,2021,11,Nov-21,9
+Pneumonia,Emergency Dept,Primary,2021,12,Dec-21,10
+Respiratory Arrest/Failure,Emergency Dept,Primary,2020,1,Jan-20,66
+Respiratory Arrest/Failure,Emergency Dept,Primary,2020,2,Feb-20,59
+Respiratory Arrest/Failure,Emergency Dept,Primary,2020,3,Mar-20,86
+Respiratory Arrest/Failure,Emergency Dept,Primary,2020,4,Apr-20,79
+Respiratory Arrest/Failure,Emergency Dept,Primary,2020,5,May-20,76
+Respiratory Arrest/Failure,Emergency Dept,Primary,2020,6,Jun-20,54
+Respiratory Arrest/Failure,Emergency Dept,Primary,2020,7,Jul-20,62
+Respiratory Arrest/Failure,Emergency Dept,Primary,2020,8,Aug-20,76
+Respiratory Arrest/Failure,Emergency Dept,Primary,2020,9,Sep-20,68
+Respiratory Arrest/Failure,Emergency Dept,Primary,2020,10,Oct-20,67
+Respiratory Arrest/Failure,Emergency Dept,Primary,2020,11,Nov-20,86
+Respiratory Arrest/Failure,Emergency Dept,Primary,2020,12,Dec-20,116
+Respiratory Arrest/Failure,Emergency Dept,Primary,2021,1,Jan-21,100
+Respiratory Arrest/Failure,Emergency Dept,Primary,2021,2,Feb-21,69
+Respiratory Arrest/Failure,Emergency Dept,Primary,2021,3,Mar-21,68
+Respiratory Arrest/Failure,Emergency Dept,Primary,2021,4,Apr-21,40
+Respiratory Arrest/Failure,Emergency Dept,Primary,2021,5,May-21,50
+Respiratory Arrest/Failure,Emergency Dept,Primary,2021,6,Jun-21,55
+Respiratory Arrest/Failure,Emergency Dept,Primary,2021,7,Jul-21,71
+Respiratory Arrest/Failure,Emergency Dept,Primary,2021,8,Aug-21,59
+Respiratory Arrest/Failure,Emergency Dept,Primary,2021,9,Sep-21,62
+Respiratory Arrest/Failure,Emergency Dept,Primary,2021,10,Oct-21,63
+Respiratory Arrest/Failure,Emergency Dept,Primary,2021,11,Nov-21,74
+Respiratory Arrest/Failure,Emergency Dept,Primary,2021,12,Dec-21,68
+Sepsis,Emergency Dept,Primary,2020,1,Jan-20,87
+Sepsis,Emergency Dept,Primary,2020,2,Feb-20,64
+Sepsis,Emergency Dept,Primary,2020,3,Mar-20,92
+Sepsis,Emergency Dept,Primary,2020,4,Apr-20,100
+Sepsis,Emergency Dept,Primary,2020,5,May-20,70
+Sepsis,Emergency Dept,Primary,2020,6,Jun-20,79
+Sepsis,Emergency Dept,Primary,2020,7,Jul-20,102
+Sepsis,Emergency Dept,Primary,2020,8,Aug-20,77
+Sepsis,Emergency Dept,Primary,2020,9,Sep-20,57
+Sepsis,Emergency Dept,Primary,2020,10,Oct-20,60
+Sepsis,Emergency Dept,Primary,2020,11,Nov-20,80
+Sepsis,Emergency Dept,Primary,2020,12,Dec-20,174
+Sepsis,Emergency Dept,Primary,2021,1,Jan-21,127
+Sepsis,Emergency Dept,Primary,2021,2,Feb-21,92
+Sepsis,Emergency Dept,Primary,2021,3,Mar-21,58
+Sepsis,Emergency Dept,Primary,2021,4,Apr-21,65
+Sepsis,Emergency Dept,Primary,2021,5,May-21,59
+Sepsis,Emergency Dept,Primary,2021,6,Jun-21,44
+Sepsis,Emergency Dept,Primary,2021,7,Jul-21,68
+Sepsis,Emergency Dept,Primary,2021,8,Aug-21,74
+Sepsis,Emergency Dept,Primary,2021,9,Sep-21,75
+Sepsis,Emergency Dept,Primary,2021,10,Oct-21,79
+Sepsis,Emergency Dept,Primary,2021,11,Nov-21,78
+Sepsis,Emergency Dept,Primary,2021,12,Dec-21,79
+Stroke,Emergency Dept,Primary,2020,1,Jan-20,5
+Stroke,Emergency Dept,Primary,2020,2,Feb-20,3
+Stroke,Emergency Dept,Primary,2020,3,Mar-20,5
+Stroke,Emergency Dept,Primary,2020,4,Apr-20,8
+Stroke,Emergency Dept,Primary,2020,5,May-20,7
+Stroke,Emergency Dept,Primary,2020,6,Jun-20,5
+Stroke,Emergency Dept,Primary,2020,7,Jul-20,7
+Stroke,Emergency Dept,Primary,2020,8,Aug-20,5
+Stroke,Emergency Dept,Primary,2020,9,Sep-20,3
+Stroke,Emergency Dept,Primary,2020,10,Oct-20,4
+Stroke,Emergency Dept,Primary,2020,11,Nov-20,7
+Stroke,Emergency Dept,Primary,2020,12,Dec-20,8
+Stroke,Emergency Dept,Primary,2021,1,Jan-21,5
+Stroke,Emergency Dept,Primary,2021,2,Feb-21,6
+Stroke,Emergency Dept,Primary,2021,3,Mar-21,5
+Stroke,Emergency Dept,Primary,2021,4,Apr-21,2
+Stroke,Emergency Dept,Primary,2021,5,May-21,4
+Stroke,Emergency Dept,Primary,2021,6,Jun-21,2
+Stroke,Emergency Dept,Primary,2021,7,Jul-21,4
+Stroke,Emergency Dept,Primary,2021,8,Aug-21,5
+Stroke,Emergency Dept,Primary,2021,9,Sep-21,4
+Stroke,Emergency Dept,Primary,2021,10,Oct-21,7
+Stroke,Emergency Dept,Primary,2021,11,Nov-21,5
+Stroke,Emergency Dept,Primary,2021,12,Dec-21,7
+Substance Use Disorders,Emergency Dept,Primary,2020,3,Mar-20,1
+Substance Use Disorders,Emergency Dept,Primary,2020,4,Apr-20,1
+Substance Use Disorders,Emergency Dept,Primary,2020,5,May-20,1
+Substance Use Disorders,Emergency Dept,Primary,2020,10,Oct-20,1
+Substance Use Disorders,Emergency Dept,Primary,2020,12,Dec-20,1
+Substance Use Disorders,Emergency Dept,Primary,2021,1,Jan-21,1
+Substance Use Disorders,Emergency Dept,Primary,2021,7,Jul-21,1
+Substance Use Disorders,Emergency Dept,Primary,2021,8,Aug-21,3
+Substance Use Disorders,Emergency Dept,Primary,2021,12,Dec-21,1
+Unspecified Mental Disorders,Emergency Dept,Primary,2020,8,Aug-20,1
+Anxiety,Emergency Dept,Secondary (COVID-19 Not Primary),2020,1,Jan-20,32
+Anxiety,Emergency Dept,Secondary (COVID-19 Not Primary),2020,2,Feb-20,27
+Anxiety,Emergency Dept,Secondary (COVID-19 Not Primary),2020,3,Mar-20,40
+Anxiety,Emergency Dept,Secondary (COVID-19 Not Primary),2020,4,Apr-20,21
+Anxiety,Emergency Dept,Secondary (COVID-19 Not Primary),2020,5,May-20,22
+Anxiety,Emergency Dept,Secondary (COVID-19 Not Primary),2020,6,Jun-20,27
+Anxiety,Emergency Dept,Secondary (COVID-19 Not Primary),2020,7,Jul-20,38
+Anxiety,Emergency Dept,Secondary (COVID-19 Not Primary),2020,8,Aug-20,41
+Anxiety,Emergency Dept,Secondary (COVID-19 Not Primary),2020,9,Sep-20,36
+Anxiety,Emergency Dept,Secondary (COVID-19 Not Primary),2020,10,Oct-20,38
+Anxiety,Emergency Dept,Secondary (COVID-19 Not Primary),2020,11,Nov-20,35
+Anxiety,Emergency Dept,Secondary (COVID-19 Not Primary),2020,12,Dec-20,32
+Anxiety,Emergency Dept,Secondary (COVID-19 Not Primary),2021,1,Jan-21,31
+Anxiety,Emergency Dept,Secondary (COVID-19 Not Primary),2021,2,Feb-21,33
+Anxiety,Emergency Dept,Secondary (COVID-19 Not Primary),2021,3,Mar-21,23
+Anxiety,Emergency Dept,Secondary (COVID-19 Not Primary),2021,4,Apr-21,22
+Anxiety,Emergency Dept,Secondary (COVID-19 Not Primary),2021,5,May-21,19
+Anxiety,Emergency Dept,Secondary (COVID-19 Not Primary),2021,6,Jun-21,21
+Anxiety,Emergency Dept,Secondary (COVID-19 Not Primary),2021,7,Jul-21,28
+Anxiety,Emergency Dept,Secondary (COVID-19 Not Primary),2021,8,Aug-21,22
+Anxiety,Emergency Dept,Secondary (COVID-19 Not Primary),2021,9,Sep-21,27
+Anxiety,Emergency Dept,Secondary (COVID-19 Not Primary),2021,10,Oct-21,18
+Anxiety,Emergency Dept,Secondary (COVID-19 Not Primary),2021,11,Nov-21,25
+Anxiety,Emergency Dept,Secondary (COVID-19 Not Primary),2021,12,Dec-21,27
+Asthma,Emergency Dept,Secondary (COVID-19 Not Primary),2020,1,Jan-20,37
+Asthma,Emergency Dept,Secondary (COVID-19 Not Primary),2020,2,Feb-20,41
+Asthma,Emergency Dept,Secondary (COVID-19 Not Primary),2020,3,Mar-20,44
+Asthma,Emergency Dept,Secondary (COVID-19 Not Primary),2020,4,Apr-20,48
+Asthma,Emergency Dept,Secondary (COVID-19 Not Primary),2020,5,May-20,36
+Asthma,Emergency Dept,Secondary (COVID-19 Not Primary),2020,6,Jun-20,41
+Asthma,Emergency Dept,Secondary (COVID-19 Not Primary),2020,7,Jul-20,64
+Asthma,Emergency Dept,Secondary (COVID-19 Not Primary),2020,8,Aug-20,51
+Asthma,Emergency Dept,Secondary (COVID-19 Not Primary),2020,9,Sep-20,26
+Asthma,Emergency Dept,Secondary (COVID-19 Not Primary),2020,10,Oct-20,36
+Asthma,Emergency Dept,Secondary (COVID-19 Not Primary),2020,11,Nov-20,33
+Asthma,Emergency Dept,Secondary (COVID-19 Not Primary),2020,12,Dec-20,53
+Asthma,Emergency Dept,Secondary (COVID-19 Not Primary),2021,1,Jan-21,55
+Asthma,Emergency Dept,Secondary (COVID-19 Not Primary),2021,2,Feb-21,35
+Asthma,Emergency Dept,Secondary (COVID-19 Not Primary),2021,3,Mar-21,31
+Asthma,Emergency Dept,Secondary (COVID-19 Not Primary),2021,4,Apr-21,20
+Asthma,Emergency Dept,Secondary (COVID-19 Not Primary),2021,5,May-21,38
+Asthma,Emergency Dept,Secondary (COVID-19 Not Primary),2021,6,Jun-21,28
+Asthma,Emergency Dept,Secondary (COVID-19 Not Primary),2021,7,Jul-21,27
+Asthma,Emergency Dept,Secondary (COVID-19 Not Primary),2021,8,Aug-21,32
+Asthma,Emergency Dept,Secondary (COVID-19 Not Primary),2021,9,Sep-21,39
+Asthma,Emergency Dept,Secondary (COVID-19 Not Primary),2021,10,Oct-21,33
+Asthma,Emergency Dept,Secondary (COVID-19 Not Primary),2021,11,Nov-21,43
+Asthma,Emergency Dept,Secondary (COVID-19 Not Primary),2021,12,Dec-21,32
+Behavioral Syndromes,Emergency Dept,Secondary (COVID-19 Not Primary),2020,1,Jan-20,1
+Behavioral Syndromes,Emergency Dept,Secondary (COVID-19 Not Primary),2020,4,Apr-20,2
+Behavioral Syndromes,Emergency Dept,Secondary (COVID-19 Not Primary),2020,6,Jun-20,1
+Behavioral Syndromes,Emergency Dept,Secondary (COVID-19 Not Primary),2021,1,Jan-21,1
+Behavioral Syndromes,Emergency Dept,Secondary (COVID-19 Not Primary),2021,7,Jul-21,1
+Behavioral Syndromes,Emergency Dept,Secondary (COVID-19 Not Primary),2021,8,Aug-21,1
+Behavioral Syndromes,Emergency Dept,Secondary (COVID-19 Not Primary),2021,9,Sep-21,1
+Behavioral Syndromes,Emergency Dept,Secondary (COVID-19 Not Primary),2021,10,Oct-21,1
+Cancer,Emergency Dept,Secondary (COVID-19 Not Primary),2020,1,Jan-20,110
+Cancer,Emergency Dept,Secondary (COVID-19 Not Primary),2020,2,Feb-20,96
+Cancer,Emergency Dept,Secondary (COVID-19 Not Primary),2020,3,Mar-20,116
+Cancer,Emergency Dept,Secondary (COVID-19 Not Primary),2020,4,Apr-20,83
+Cancer,Emergency Dept,Secondary (COVID-19 Not Primary),2020,5,May-20,84
+Cancer,Emergency Dept,Secondary (COVID-19 Not Primary),2020,6,Jun-20,69
+Cancer,Emergency Dept,Secondary (COVID-19 Not Primary),2020,7,Jul-20,90
+Cancer,Emergency Dept,Secondary (COVID-19 Not Primary),2020,8,Aug-20,90
+Cancer,Emergency Dept,Secondary (COVID-19 Not Primary),2020,9,Sep-20,68
+Cancer,Emergency Dept,Secondary (COVID-19 Not Primary),2020,10,Oct-20,85
+Cancer,Emergency Dept,Secondary (COVID-19 Not Primary),2020,11,Nov-20,115
+Cancer,Emergency Dept,Secondary (COVID-19 Not Primary),2020,12,Dec-20,113
+Cancer,Emergency Dept,Secondary (COVID-19 Not Primary),2021,1,Jan-21,103
+Cancer,Emergency Dept,Secondary (COVID-19 Not Primary),2021,2,Feb-21,89
+Cancer,Emergency Dept,Secondary (COVID-19 Not Primary),2021,3,Mar-21,87
+Cancer,Emergency Dept,Secondary (COVID-19 Not Primary),2021,4,Apr-21,74
+Cancer,Emergency Dept,Secondary (COVID-19 Not Primary),2021,5,May-21,84
+Cancer,Emergency Dept,Secondary (COVID-19 Not Primary),2021,6,Jun-21,80
+Cancer,Emergency Dept,Secondary (COVID-19 Not Primary),2021,7,Jul-21,101
+Cancer,Emergency Dept,Secondary (COVID-19 Not Primary),2021,8,Aug-21,101
+Cancer,Emergency Dept,Secondary (COVID-19 Not Primary),2021,9,Sep-21,82
+Cancer,Emergency Dept,Secondary (COVID-19 Not Primary),2021,10,Oct-21,110
+Cancer,Emergency Dept,Secondary (COVID-19 Not Primary),2021,11,Nov-21,93
+Cancer,Emergency Dept,Secondary (COVID-19 Not Primary),2021,12,Dec-21,95
+Cardiac Arrest,Emergency Dept,Secondary (COVID-19 Not Primary),2020,1,Jan-20,177
+Cardiac Arrest,Emergency Dept,Secondary (COVID-19 Not Primary),2020,2,Feb-20,159
+Cardiac Arrest,Emergency Dept,Secondary (COVID-19 Not Primary),2020,3,Mar-20,178
+Cardiac Arrest,Emergency Dept,Secondary (COVID-19 Not Primary),2020,4,Apr-20,212
+Cardiac Arrest,Emergency Dept,Secondary (COVID-19 Not Primary),2020,5,May-20,206
+Cardiac Arrest,Emergency Dept,Secondary (COVID-19 Not Primary),2020,6,Jun-20,190
+Cardiac Arrest,Emergency Dept,Secondary (COVID-19 Not Primary),2020,7,Jul-20,241
+Cardiac Arrest,Emergency Dept,Secondary (COVID-19 Not Primary),2020,8,Aug-20,219
+Cardiac Arrest,Emergency Dept,Secondary (COVID-19 Not Primary),2020,9,Sep-20,200
+Cardiac Arrest,Emergency Dept,Secondary (COVID-19 Not Primary),2020,10,Oct-20,245
+Cardiac Arrest,Emergency Dept,Secondary (COVID-19 Not Primary),2020,11,Nov-20,265
+Cardiac Arrest,Emergency Dept,Secondary (COVID-19 Not Primary),2020,12,Dec-20,314
+Cardiac Arrest,Emergency Dept,Secondary (COVID-19 Not Primary),2021,1,Jan-21,320
+Cardiac Arrest,Emergency Dept,Secondary (COVID-19 Not Primary),2021,2,Feb-21,227
+Cardiac Arrest,Emergency Dept,Secondary (COVID-19 Not Primary),2021,3,Mar-21,217
+Cardiac Arrest,Emergency Dept,Secondary (COVID-19 Not Primary),2021,4,Apr-21,160
+Cardiac Arrest,Emergency Dept,Secondary (COVID-19 Not Primary),2021,5,May-21,215
+Cardiac Arrest,Emergency Dept,Secondary (COVID-19 Not Primary),2021,6,Jun-21,170
+Cardiac Arrest,Emergency Dept,Secondary (COVID-19 Not Primary),2021,7,Jul-21,235
+Cardiac Arrest,Emergency Dept,Secondary (COVID-19 Not Primary),2021,8,Aug-21,224
+Cardiac Arrest,Emergency Dept,Secondary (COVID-19 Not Primary),2021,9,Sep-21,229
+Cardiac Arrest,Emergency Dept,Secondary (COVID-19 Not Primary),2021,10,Oct-21,234
+Cardiac Arrest,Emergency Dept,Secondary (COVID-19 Not Primary),2021,11,Nov-21,199
+Cardiac Arrest,Emergency Dept,Secondary (COVID-19 Not Primary),2021,12,Dec-21,250
+Chronic Obstructive Pulmonary Disease (COPD),Emergency Dept,Secondary (COVID-19 Not Primary),2020,1,Jan-20,108
+Chronic Obstructive Pulmonary Disease (COPD),Emergency Dept,Secondary (COVID-19 Not Primary),2020,2,Feb-20,84
+Chronic Obstructive Pulmonary Disease (COPD),Emergency Dept,Secondary (COVID-19 Not Primary),2020,3,Mar-20,112
+Chronic Obstructive Pulmonary Disease (COPD),Emergency Dept,Secondary (COVID-19 Not Primary),2020,4,Apr-20,111
+Chronic Obstructive Pulmonary Disease (COPD),Emergency Dept,Secondary (COVID-19 Not Primary),2020,5,May-20,110
+Chronic Obstructive Pulmonary Disease (COPD),Emergency Dept,Secondary (COVID-19 Not Primary),2020,6,Jun-20,96
+Chronic Obstructive Pulmonary Disease (COPD),Emergency Dept,Secondary (COVID-19 Not Primary),2020,7,Jul-20,82
+Chronic Obstructive Pulmonary Disease (COPD),Emergency Dept,Secondary (COVID-19 Not Primary),2020,8,Aug-20,115
+Chronic Obstructive Pulmonary Disease (COPD),Emergency Dept,Secondary (COVID-19 Not Primary),2020,9,Sep-20,82
+Chronic Obstructive Pulmonary Disease (COPD),Emergency Dept,Secondary (COVID-19 Not Primary),2020,10,Oct-20,92
+Chronic Obstructive Pulmonary Disease (COPD),Emergency Dept,Secondary (COVID-19 Not Primary),2020,11,Nov-20,102
+Chronic Obstructive Pulmonary Disease (COPD),Emergency Dept,Secondary (COVID-19 Not Primary),2020,12,Dec-20,130
+Chronic Obstructive Pulmonary Disease (COPD),Emergency Dept,Secondary (COVID-19 Not Primary),2021,1,Jan-21,118
+Chronic Obstructive Pulmonary Disease (COPD),Emergency Dept,Secondary (COVID-19 Not Primary),2021,2,Feb-21,107
+Chronic Obstructive Pulmonary Disease (COPD),Emergency Dept,Secondary (COVID-19 Not Primary),2021,3,Mar-21,95
+Chronic Obstructive Pulmonary Disease (COPD),Emergency Dept,Secondary (COVID-19 Not Primary),2021,4,Apr-21,89
+Chronic Obstructive Pulmonary Disease (COPD),Emergency Dept,Secondary (COVID-19 Not Primary),2021,5,May-21,80
+Chronic Obstructive Pulmonary Disease (COPD),Emergency Dept,Secondary (COVID-19 Not Primary),2021,6,Jun-21,73
+Chronic Obstructive Pulmonary Disease (COPD),Emergency Dept,Secondary (COVID-19 Not Primary),2021,7,Jul-21,75
+Chronic Obstructive Pulmonary Disease (COPD),Emergency Dept,Secondary (COVID-19 Not Primary),2021,8,Aug-21,88
+Chronic Obstructive Pulmonary Disease (COPD),Emergency Dept,Secondary (COVID-19 Not Primary),2021,9,Sep-21,83
+Chronic Obstructive Pulmonary Disease (COPD),Emergency Dept,Secondary (COVID-19 Not Primary),2021,10,Oct-21,97
+Chronic Obstructive Pulmonary Disease (COPD),Emergency Dept,Secondary (COVID-19 Not Primary),2021,11,Nov-21,104
+Chronic Obstructive Pulmonary Disease (COPD),Emergency Dept,Secondary (COVID-19 Not Primary),2021,12,Dec-21,101
+Depression,Emergency Dept,Secondary (COVID-19 Not Primary),2020,1,Jan-20,41
+Depression,Emergency Dept,Secondary (COVID-19 Not Primary),2020,2,Feb-20,44
+Depression,Emergency Dept,Secondary (COVID-19 Not Primary),2020,3,Mar-20,44
+Depression,Emergency Dept,Secondary (COVID-19 Not Primary),2020,4,Apr-20,36
+Depression,Emergency Dept,Secondary (COVID-19 Not Primary),2020,5,May-20,31
+Depression,Emergency Dept,Secondary (COVID-19 Not Primary),2020,6,Jun-20,42
+Depression,Emergency Dept,Secondary (COVID-19 Not Primary),2020,7,Jul-20,47
+Depression,Emergency Dept,Secondary (COVID-19 Not Primary),2020,8,Aug-20,53
+Depression,Emergency Dept,Secondary (COVID-19 Not Primary),2020,9,Sep-20,44
+Depression,Emergency Dept,Secondary (COVID-19 Not Primary),2020,10,Oct-20,44
+Depression,Emergency Dept,Secondary (COVID-19 Not Primary),2020,11,Nov-20,38
+Depression,Emergency Dept,Secondary (COVID-19 Not Primary),2020,12,Dec-20,40
+Depression,Emergency Dept,Secondary (COVID-19 Not Primary),2021,1,Jan-21,45
+Depression,Emergency Dept,Secondary (COVID-19 Not Primary),2021,2,Feb-21,49
+Depression,Emergency Dept,Secondary (COVID-19 Not Primary),2021,3,Mar-21,40
+Depression,Emergency Dept,Secondary (COVID-19 Not Primary),2021,4,Apr-21,37
+Depression,Emergency Dept,Secondary (COVID-19 Not Primary),2021,5,May-21,25
+Depression,Emergency Dept,Secondary (COVID-19 Not Primary),2021,6,Jun-21,38
+Depression,Emergency Dept,Secondary (COVID-19 Not Primary),2021,7,Jul-21,25
+Depression,Emergency Dept,Secondary (COVID-19 Not Primary),2021,8,Aug-21,36
+Depression,Emergency Dept,Secondary (COVID-19 Not Primary),2021,9,Sep-21,36
+Depression,Emergency Dept,Secondary (COVID-19 Not Primary),2021,10,Oct-21,33
+Depression,Emergency Dept,Secondary (COVID-19 Not Primary),2021,11,Nov-21,23
+Depression,Emergency Dept,Secondary (COVID-19 Not Primary),2021,12,Dec-21,33
+Diabetes,Emergency Dept,Secondary (COVID-19 Not Primary),2020,1,Jan-20,339
+Diabetes,Emergency Dept,Secondary (COVID-19 Not Primary),2020,2,Feb-20,305
+Diabetes,Emergency Dept,Secondary (COVID-19 Not Primary),2020,3,Mar-20,343
+Diabetes,Emergency Dept,Secondary (COVID-19 Not Primary),2020,4,Apr-20,375
+Diabetes,Emergency Dept,Secondary (COVID-19 Not Primary),2020,5,May-20,332
+Diabetes,Emergency Dept,Secondary (COVID-19 Not Primary),2020,6,Jun-20,326
+Diabetes,Emergency Dept,Secondary (COVID-19 Not Primary),2020,7,Jul-20,366
+Diabetes,Emergency Dept,Secondary (COVID-19 Not Primary),2020,8,Aug-20,330
+Diabetes,Emergency Dept,Secondary (COVID-19 Not Primary),2020,9,Sep-20,322
+Diabetes,Emergency Dept,Secondary (COVID-19 Not Primary),2020,10,Oct-20,277
+Diabetes,Emergency Dept,Secondary (COVID-19 Not Primary),2020,11,Nov-20,368
+Diabetes,Emergency Dept,Secondary (COVID-19 Not Primary),2020,12,Dec-20,566
+Diabetes,Emergency Dept,Secondary (COVID-19 Not Primary),2021,1,Jan-21,559
+Diabetes,Emergency Dept,Secondary (COVID-19 Not Primary),2021,2,Feb-21,372
+Diabetes,Emergency Dept,Secondary (COVID-19 Not Primary),2021,3,Mar-21,345
+Diabetes,Emergency Dept,Secondary (COVID-19 Not Primary),2021,4,Apr-21,276
+Diabetes,Emergency Dept,Secondary (COVID-19 Not Primary),2021,5,May-21,265
+Diabetes,Emergency Dept,Secondary (COVID-19 Not Primary),2021,6,Jun-21,288
+Diabetes,Emergency Dept,Secondary (COVID-19 Not Primary),2021,7,Jul-21,281
+Diabetes,Emergency Dept,Secondary (COVID-19 Not Primary),2021,8,Aug-21,306
+Diabetes,Emergency Dept,Secondary (COVID-19 Not Primary),2021,9,Sep-21,302
+Diabetes,Emergency Dept,Secondary (COVID-19 Not Primary),2021,10,Oct-21,318
+Diabetes,Emergency Dept,Secondary (COVID-19 Not Primary),2021,11,Nov-21,321
+Diabetes,Emergency Dept,Secondary (COVID-19 Not Primary),2021,12,Dec-21,364
+Hypertension,Emergency Dept,Secondary (COVID-19 Not Primary),2020,1,Jan-20,563
+Hypertension,Emergency Dept,Secondary (COVID-19 Not Primary),2020,2,Feb-20,495
+Hypertension,Emergency Dept,Secondary (COVID-19 Not Primary),2020,3,Mar-20,582
+Hypertension,Emergency Dept,Secondary (COVID-19 Not Primary),2020,4,Apr-20,566
+Hypertension,Emergency Dept,Secondary (COVID-19 Not Primary),2020,5,May-20,528
+Hypertension,Emergency Dept,Secondary (COVID-19 Not Primary),2020,6,Jun-20,492
+Hypertension,Emergency Dept,Secondary (COVID-19 Not Primary),2020,7,Jul-20,587
+Hypertension,Emergency Dept,Secondary (COVID-19 Not Primary),2020,8,Aug-20,537
+Hypertension,Emergency Dept,Secondary (COVID-19 Not Primary),2020,9,Sep-20,484
+Hypertension,Emergency Dept,Secondary (COVID-19 Not Primary),2020,10,Oct-20,487
+Hypertension,Emergency Dept,Secondary (COVID-19 Not Primary),2020,11,Nov-20,596
+Hypertension,Emergency Dept,Secondary (COVID-19 Not Primary),2020,12,Dec-20,847
+Hypertension,Emergency Dept,Secondary (COVID-19 Not Primary),2021,1,Jan-21,808
+Hypertension,Emergency Dept,Secondary (COVID-19 Not Primary),2021,2,Feb-21,554
+Hypertension,Emergency Dept,Secondary (COVID-19 Not Primary),2021,3,Mar-21,532
+Hypertension,Emergency Dept,Secondary (COVID-19 Not Primary),2021,4,Apr-21,457
+Hypertension,Emergency Dept,Secondary (COVID-19 Not Primary),2021,5,May-21,418
+Hypertension,Emergency Dept,Secondary (COVID-19 Not Primary),2021,6,Jun-21,466
+Hypertension,Emergency Dept,Secondary (COVID-19 Not Primary),2021,7,Jul-21,453
+Hypertension,Emergency Dept,Secondary (COVID-19 Not Primary),2021,8,Aug-21,493
+Hypertension,Emergency Dept,Secondary (COVID-19 Not Primary),2021,9,Sep-21,482
+Hypertension,Emergency Dept,Secondary (COVID-19 Not Primary),2021,10,Oct-21,501
+Hypertension,Emergency Dept,Secondary (COVID-19 Not Primary),2021,11,Nov-21,477
+Hypertension,Emergency Dept,Secondary (COVID-19 Not Primary),2021,12,Dec-21,587
+Mood Disorders (Excluding Depression),Emergency Dept,Secondary (COVID-19 Not Primary),2020,1,Jan-20,13
+Mood Disorders (Excluding Depression),Emergency Dept,Secondary (COVID-19 Not Primary),2020,2,Feb-20,5
+Mood Disorders (Excluding Depression),Emergency Dept,Secondary (COVID-19 Not Primary),2020,3,Mar-20,8
+Mood Disorders (Excluding Depression),Emergency Dept,Secondary (COVID-19 Not Primary),2020,4,Apr-20,10
+Mood Disorders (Excluding Depression),Emergency Dept,Secondary (COVID-19 Not Primary),2020,5,May-20,9
+Mood Disorders (Excluding Depression),Emergency Dept,Secondary (COVID-19 Not Primary),2020,6,Jun-20,9
+Mood Disorders (Excluding Depression),Emergency Dept,Secondary (COVID-19 Not Primary),2020,7,Jul-20,9
+Mood Disorders (Excluding Depression),Emergency Dept,Secondary (COVID-19 Not Primary),2020,8,Aug-20,14
+Mood Disorders (Excluding Depression),Emergency Dept,Secondary (COVID-19 Not Primary),2020,9,Sep-20,5
+Mood Disorders (Excluding Depression),Emergency Dept,Secondary (COVID-19 Not Primary),2020,10,Oct-20,4
+Mood Disorders (Excluding Depression),Emergency Dept,Secondary (COVID-19 Not Primary),2020,11,Nov-20,12
+Mood Disorders (Excluding Depression),Emergency Dept,Secondary (COVID-19 Not Primary),2020,12,Dec-20,12
+Mood Disorders (Excluding Depression),Emergency Dept,Secondary (COVID-19 Not Primary),2021,1,Jan-21,13
+Mood Disorders (Excluding Depression),Emergency Dept,Secondary (COVID-19 Not Primary),2021,2,Feb-21,3
+Mood Disorders (Excluding Depression),Emergency Dept,Secondary (COVID-19 Not Primary),2021,3,Mar-21,11
+Mood Disorders (Excluding Depression),Emergency Dept,Secondary (COVID-19 Not Primary),2021,4,Apr-21,7
+Mood Disorders (Excluding Depression),Emergency Dept,Secondary (COVID-19 Not Primary),2021,5,May-21,9
+Mood Disorders (Excluding Depression),Emergency Dept,Secondary (COVID-19 Not Primary),2021,6,Jun-21,9
+Mood Disorders (Excluding Depression),Emergency Dept,Secondary (COVID-19 Not Primary),2021,7,Jul-21,11
+Mood Disorders (Excluding Depression),Emergency Dept,Secondary (COVID-19 Not Primary),2021,8,Aug-21,4
+Mood Disorders (Excluding Depression),Emergency Dept,Secondary (COVID-19 Not Primary),2021,9,Sep-21,3
+Mood Disorders (Excluding Depression),Emergency Dept,Secondary (COVID-19 Not Primary),2021,10,Oct-21,7
+Mood Disorders (Excluding Depression),Emergency Dept,Secondary (COVID-19 Not Primary),2021,11,Nov-21,3
+Mood Disorders (Excluding Depression),Emergency Dept,Secondary (COVID-19 Not Primary),2021,12,Dec-21,8
+Non-Mood Psychotic Disorders,Emergency Dept,Secondary (COVID-19 Not Primary),2020,1,Jan-20,17
+Non-Mood Psychotic Disorders,Emergency Dept,Secondary (COVID-19 Not Primary),2020,2,Feb-20,8
+Non-Mood Psychotic Disorders,Emergency Dept,Secondary (COVID-19 Not Primary),2020,3,Mar-20,11
+Non-Mood Psychotic Disorders,Emergency Dept,Secondary (COVID-19 Not Primary),2020,4,Apr-20,9
+Non-Mood Psychotic Disorders,Emergency Dept,Secondary (COVID-19 Not Primary),2020,5,May-20,9
+Non-Mood Psychotic Disorders,Emergency Dept,Secondary (COVID-19 Not Primary),2020,6,Jun-20,8
+Non-Mood Psychotic Disorders,Emergency Dept,Secondary (COVID-19 Not Primary),2020,7,Jul-20,14
+Non-Mood Psychotic Disorders,Emergency Dept,Secondary (COVID-19 Not Primary),2020,8,Aug-20,8
+Non-Mood Psychotic Disorders,Emergency Dept,Secondary (COVID-19 Not Primary),2020,9,Sep-20,10
+Non-Mood Psychotic Disorders,Emergency Dept,Secondary (COVID-19 Not Primary),2020,10,Oct-20,13
+Non-Mood Psychotic Disorders,Emergency Dept,Secondary (COVID-19 Not Primary),2020,11,Nov-20,9
+Non-Mood Psychotic Disorders,Emergency Dept,Secondary (COVID-19 Not Primary),2020,12,Dec-20,16
+Non-Mood Psychotic Disorders,Emergency Dept,Secondary (COVID-19 Not Primary),2021,1,Jan-21,14
+Non-Mood Psychotic Disorders,Emergency Dept,Secondary (COVID-19 Not Primary),2021,2,Feb-21,15
+Non-Mood Psychotic Disorders,Emergency Dept,Secondary (COVID-19 Not Primary),2021,3,Mar-21,13
+Non-Mood Psychotic Disorders,Emergency Dept,Secondary (COVID-19 Not Primary),2021,4,Apr-21,8
+Non-Mood Psychotic Disorders,Emergency Dept,Secondary (COVID-19 Not Primary),2021,5,May-21,11
+Non-Mood Psychotic Disorders,Emergency Dept,Secondary (COVID-19 Not Primary),2021,6,Jun-21,9
+Non-Mood Psychotic Disorders,Emergency Dept,Secondary (COVID-19 Not Primary),2021,7,Jul-21,11
+Non-Mood Psychotic Disorders,Emergency Dept,Secondary (COVID-19 Not Primary),2021,8,Aug-21,11
+Non-Mood Psychotic Disorders,Emergency Dept,Secondary (COVID-19 Not Primary),2021,9,Sep-21,7
+Non-Mood Psychotic Disorders,Emergency Dept,Secondary (COVID-19 Not Primary),2021,10,Oct-21,11
+Non-Mood Psychotic Disorders,Emergency Dept,Secondary (COVID-19 Not Primary),2021,11,Nov-21,12
+Non-Mood Psychotic Disorders,Emergency Dept,Secondary (COVID-19 Not Primary),2021,12,Dec-21,8
+Nonpsychotic Disorders (Excluding Anxiety),Emergency Dept,Secondary (COVID-19 Not Primary),2020,7,Jul-20,1
+Nonpsychotic Disorders (Excluding Anxiety),Emergency Dept,Secondary (COVID-19 Not Primary),2020,9,Sep-20,1
+Nonpsychotic Disorders (Excluding Anxiety),Emergency Dept,Secondary (COVID-19 Not Primary),2020,11,Nov-20,1
+Nonpsychotic Disorders (Excluding Anxiety),Emergency Dept,Secondary (COVID-19 Not Primary),2020,12,Dec-20,1
+Nonpsychotic Disorders (Excluding Anxiety),Emergency Dept,Secondary (COVID-19 Not Primary),2021,1,Jan-21,3
+Nonpsychotic Disorders (Excluding Anxiety),Emergency Dept,Secondary (COVID-19 Not Primary),2021,2,Feb-21,2
+Nonpsychotic Disorders (Excluding Anxiety),Emergency Dept,Secondary (COVID-19 Not Primary),2021,6,Jun-21,1
+Nonpsychotic Disorders (Excluding Anxiety),Emergency Dept,Secondary (COVID-19 Not Primary),2021,8,Aug-21,2
+Nonpsychotic Disorders (Excluding Anxiety),Emergency Dept,Secondary (COVID-19 Not Primary),2021,9,Sep-21,1
+Nonpsychotic Disorders (Excluding Anxiety),Emergency Dept,Secondary (COVID-19 Not Primary),2021,10,Oct-21,4
+Nonpsychotic Disorders (Excluding Anxiety),Emergency Dept,Secondary (COVID-19 Not Primary),2021,11,Nov-21,2
+Obesity,Emergency Dept,Secondary (COVID-19 Not Primary),2020,1,Jan-20,46
+Obesity,Emergency Dept,Secondary (COVID-19 Not Primary),2020,2,Feb-20,47
+Obesity,Emergency Dept,Secondary (COVID-19 Not Primary),2020,3,Mar-20,52
+Obesity,Emergency Dept,Secondary (COVID-19 Not Primary),2020,4,Apr-20,56
+Obesity,Emergency Dept,Secondary (COVID-19 Not Primary),2020,5,May-20,62
+Obesity,Emergency Dept,Secondary (COVID-19 Not Primary),2020,6,Jun-20,57
+Obesity,Emergency Dept,Secondary (COVID-19 Not Primary),2020,7,Jul-20,65
+Obesity,Emergency Dept,Secondary (COVID-19 Not Primary),2020,8,Aug-20,52
+Obesity,Emergency Dept,Secondary (COVID-19 Not Primary),2020,9,Sep-20,49
+Obesity,Emergency Dept,Secondary (COVID-19 Not Primary),2020,10,Oct-20,48
+Obesity,Emergency Dept,Secondary (COVID-19 Not Primary),2020,11,Nov-20,60
+Obesity,Emergency Dept,Secondary (COVID-19 Not Primary),2020,12,Dec-20,111
+Obesity,Emergency Dept,Secondary (COVID-19 Not Primary),2021,1,Jan-21,98
+Obesity,Emergency Dept,Secondary (COVID-19 Not Primary),2021,2,Feb-21,61
+Obesity,Emergency Dept,Secondary (COVID-19 Not Primary),2021,3,Mar-21,71
+Obesity,Emergency Dept,Secondary (COVID-19 Not Primary),2021,4,Apr-21,43
+Obesity,Emergency Dept,Secondary (COVID-19 Not Primary),2021,5,May-21,46
+Obesity,Emergency Dept,Secondary (COVID-19 Not Primary),2021,6,Jun-21,38
+Obesity,Emergency Dept,Secondary (COVID-19 Not Primary),2021,7,Jul-21,42
+Obesity,Emergency Dept,Secondary (COVID-19 Not Primary),2021,8,Aug-21,53
+Obesity,Emergency Dept,Secondary (COVID-19 Not Primary),2021,9,Sep-21,62
+Obesity,Emergency Dept,Secondary (COVID-19 Not Primary),2021,10,Oct-21,59
+Obesity,Emergency Dept,Secondary (COVID-19 Not Primary),2021,11,Nov-21,60
+Obesity,Emergency Dept,Secondary (COVID-19 Not Primary),2021,12,Dec-21,61
+Pneumonia,Emergency Dept,Secondary (COVID-19 Not Primary),2020,1,Jan-20,86
+Pneumonia,Emergency Dept,Secondary (COVID-19 Not Primary),2020,2,Feb-20,70
+Pneumonia,Emergency Dept,Secondary (COVID-19 Not Primary),2020,3,Mar-20,84
+Pneumonia,Emergency Dept,Secondary (COVID-19 Not Primary),2020,4,Apr-20,101
+Pneumonia,Emergency Dept,Secondary (COVID-19 Not Primary),2020,5,May-20,74
+Pneumonia,Emergency Dept,Secondary (COVID-19 Not Primary),2020,6,Jun-20,67
+Pneumonia,Emergency Dept,Secondary (COVID-19 Not Primary),2020,7,Jul-20,102
+Pneumonia,Emergency Dept,Secondary (COVID-19 Not Primary),2020,8,Aug-20,66
+Pneumonia,Emergency Dept,Secondary (COVID-19 Not Primary),2020,9,Sep-20,61
+Pneumonia,Emergency Dept,Secondary (COVID-19 Not Primary),2020,10,Oct-20,63
+Pneumonia,Emergency Dept,Secondary (COVID-19 Not Primary),2020,11,Nov-20,102
+Pneumonia,Emergency Dept,Secondary (COVID-19 Not Primary),2020,12,Dec-20,206
+Pneumonia,Emergency Dept,Secondary (COVID-19 Not Primary),2021,1,Jan-21,140
+Pneumonia,Emergency Dept,Secondary (COVID-19 Not Primary),2021,2,Feb-21,92
+Pneumonia,Emergency Dept,Secondary (COVID-19 Not Primary),2021,3,Mar-21,63
+Pneumonia,Emergency Dept,Secondary (COVID-19 Not Primary),2021,4,Apr-21,55
+Pneumonia,Emergency Dept,Secondary (COVID-19 Not Primary),2021,5,May-21,56
+Pneumonia,Emergency Dept,Secondary (COVID-19 Not Primary),2021,6,Jun-21,44
+Pneumonia,Emergency Dept,Secondary (COVID-19 Not Primary),2021,7,Jul-21,61
+Pneumonia,Emergency Dept,Secondary (COVID-19 Not Primary),2021,8,Aug-21,74
+Pneumonia,Emergency Dept,Secondary (COVID-19 Not Primary),2021,9,Sep-21,77
+Pneumonia,Emergency Dept,Secondary (COVID-19 Not Primary),2021,10,Oct-21,74
+Pneumonia,Emergency Dept,Secondary (COVID-19 Not Primary),2021,11,Nov-21,91
+Pneumonia,Emergency Dept,Secondary (COVID-19 Not Primary),2021,12,Dec-21,72
+Respiratory Arrest/Failure,Emergency Dept,Secondary (COVID-19 Not Primary),2020,1,Jan-20,192
+Respiratory Arrest/Failure,Emergency Dept,Secondary (COVID-19 Not Primary),2020,2,Feb-20,131
+Respiratory Arrest/Failure,Emergency Dept,Secondary (COVID-19 Not Primary),2020,3,Mar-20,189
+Respiratory Arrest/Failure,Emergency Dept,Secondary (COVID-19 Not Primary),2020,4,Apr-20,192
+Respiratory Arrest/Failure,Emergency Dept,Secondary (COVID-19 Not Primary),2020,5,May-20,160
+Respiratory Arrest/Failure,Emergency Dept,Secondary (COVID-19 Not Primary),2020,6,Jun-20,148
+Respiratory Arrest/Failure,Emergency Dept,Secondary (COVID-19 Not Primary),2020,7,Jul-20,199
+Respiratory Arrest/Failure,Emergency Dept,Secondary (COVID-19 Not Primary),2020,8,Aug-20,178
+Respiratory Arrest/Failure,Emergency Dept,Secondary (COVID-19 Not Primary),2020,9,Sep-20,143
+Respiratory Arrest/Failure,Emergency Dept,Secondary (COVID-19 Not Primary),2020,10,Oct-20,175
+Respiratory Arrest/Failure,Emergency Dept,Secondary (COVID-19 Not Primary),2020,11,Nov-20,220
+Respiratory Arrest/Failure,Emergency Dept,Secondary (COVID-19 Not Primary),2020,12,Dec-20,303
+Respiratory Arrest/Failure,Emergency Dept,Secondary (COVID-19 Not Primary),2021,1,Jan-21,277
+Respiratory Arrest/Failure,Emergency Dept,Secondary (COVID-19 Not Primary),2021,2,Feb-21,177
+Respiratory Arrest/Failure,Emergency Dept,Secondary (COVID-19 Not Primary),2021,3,Mar-21,176
+Respiratory Arrest/Failure,Emergency Dept,Secondary (COVID-19 Not Primary),2021,4,Apr-21,150
+Respiratory Arrest/Failure,Emergency Dept,Secondary (COVID-19 Not Primary),2021,5,May-21,143
+Respiratory Arrest/Failure,Emergency Dept,Secondary (COVID-19 Not Primary),2021,6,Jun-21,149
+Respiratory Arrest/Failure,Emergency Dept,Secondary (COVID-19 Not Primary),2021,7,Jul-21,154
+Respiratory Arrest/Failure,Emergency Dept,Secondary (COVID-19 Not Primary),2021,8,Aug-21,179
+Respiratory Arrest/Failure,Emergency Dept,Secondary (COVID-19 Not Primary),2021,9,Sep-21,166
+Respiratory Arrest/Failure,Emergency Dept,Secondary (COVID-19 Not Primary),2021,10,Oct-21,163
+Respiratory Arrest/Failure,Emergency Dept,Secondary (COVID-19 Not Primary),2021,11,Nov-21,177
+Respiratory Arrest/Failure,Emergency Dept,Secondary (COVID-19 Not Primary),2021,12,Dec-21,183
+Sepsis,Emergency Dept,Secondary (COVID-19 Not Primary),2020,1,Jan-20,116
+Sepsis,Emergency Dept,Secondary (COVID-19 Not Primary),2020,2,Feb-20,85
+Sepsis,Emergency Dept,Secondary (COVID-19 Not Primary),2020,3,Mar-20,112
+Sepsis,Emergency Dept,Secondary (COVID-19 Not Primary),2020,4,Apr-20,110
+Sepsis,Emergency Dept,Secondary (COVID-19 Not Primary),2020,5,May-20,96
+Sepsis,Emergency Dept,Secondary (COVID-19 Not Primary),2020,6,Jun-20,84
+Sepsis,Emergency Dept,Secondary (COVID-19 Not Primary),2020,7,Jul-20,107
+Sepsis,Emergency Dept,Secondary (COVID-19 Not Primary),2020,8,Aug-20,99
+Sepsis,Emergency Dept,Secondary (COVID-19 Not Primary),2020,9,Sep-20,73
+Sepsis,Emergency Dept,Secondary (COVID-19 Not Primary),2020,10,Oct-20,68
+Sepsis,Emergency Dept,Secondary (COVID-19 Not Primary),2020,11,Nov-20,103
+Sepsis,Emergency Dept,Secondary (COVID-19 Not Primary),2020,12,Dec-20,201
+Sepsis,Emergency Dept,Secondary (COVID-19 Not Primary),2021,1,Jan-21,161
+Sepsis,Emergency Dept,Secondary (COVID-19 Not Primary),2021,2,Feb-21,114
+Sepsis,Emergency Dept,Secondary (COVID-19 Not Primary),2021,3,Mar-21,93
+Sepsis,Emergency Dept,Secondary (COVID-19 Not Primary),2021,4,Apr-21,76
+Sepsis,Emergency Dept,Secondary (COVID-19 Not Primary),2021,5,May-21,85
+Sepsis,Emergency Dept,Secondary (COVID-19 Not Primary),2021,6,Jun-21,58
+Sepsis,Emergency Dept,Secondary (COVID-19 Not Primary),2021,7,Jul-21,92
+Sepsis,Emergency Dept,Secondary (COVID-19 Not Primary),2021,8,Aug-21,101
+Sepsis,Emergency Dept,Secondary (COVID-19 Not Primary),2021,9,Sep-21,92
+Sepsis,Emergency Dept,Secondary (COVID-19 Not Primary),2021,10,Oct-21,96
+Sepsis,Emergency Dept,Secondary (COVID-19 Not Primary),2021,11,Nov-21,97
+Sepsis,Emergency Dept,Secondary (COVID-19 Not Primary),2021,12,Dec-21,94
+Stroke,Emergency Dept,Secondary (COVID-19 Not Primary),2020,1,Jan-20,3
+Stroke,Emergency Dept,Secondary (COVID-19 Not Primary),2020,2,Feb-20,1
+Stroke,Emergency Dept,Secondary (COVID-19 Not Primary),2020,3,Mar-20,4
+Stroke,Emergency Dept,Secondary (COVID-19 Not Primary),2020,4,Apr-20,5
+Stroke,Emergency Dept,Secondary (COVID-19 Not Primary),2020,5,May-20,4
+Stroke,Emergency Dept,Secondary (COVID-19 Not Primary),2020,6,Jun-20,2
+Stroke,Emergency Dept,Secondary (COVID-19 Not Primary),2020,7,Jul-20,5
+Stroke,Emergency Dept,Secondary (COVID-19 Not Primary),2020,8,Aug-20,4
+Stroke,Emergency Dept,Secondary (COVID-19 Not Primary),2020,9,Sep-20,6
+Stroke,Emergency Dept,Secondary (COVID-19 Not Primary),2020,11,Nov-20,6
+Stroke,Emergency Dept,Secondary (COVID-19 Not Primary),2020,12,Dec-20,8
+Stroke,Emergency Dept,Secondary (COVID-19 Not Primary),2021,1,Jan-21,5
+Stroke,Emergency Dept,Secondary (COVID-19 Not Primary),2021,2,Feb-21,1
+Stroke,Emergency Dept,Secondary (COVID-19 Not Primary),2021,3,Mar-21,5
+Stroke,Emergency Dept,Secondary (COVID-19 Not Primary),2021,4,Apr-21,2
+Stroke,Emergency Dept,Secondary (COVID-19 Not Primary),2021,5,May-21,6
+Stroke,Emergency Dept,Secondary (COVID-19 Not Primary),2021,6,Jun-21,4
+Stroke,Emergency Dept,Secondary (COVID-19 Not Primary),2021,7,Jul-21,4
+Stroke,Emergency Dept,Secondary (COVID-19 Not Primary),2021,8,Aug-21,3
+Stroke,Emergency Dept,Secondary (COVID-19 Not Primary),2021,9,Sep-21,4
+Stroke,Emergency Dept,Secondary (COVID-19 Not Primary),2021,10,Oct-21,4
+Stroke,Emergency Dept,Secondary (COVID-19 Not Primary),2021,11,Nov-21,7
+Stroke,Emergency Dept,Secondary (COVID-19 Not Primary),2021,12,Dec-21,3
+Substance Use Disorders,Emergency Dept,Secondary (COVID-19 Not Primary),2020,1,Jan-20,96
+Substance Use Disorders,Emergency Dept,Secondary (COVID-19 Not Primary),2020,2,Feb-20,84
+Substance Use Disorders,Emergency Dept,Secondary (COVID-19 Not Primary),2020,3,Mar-20,104
+Substance Use Disorders,Emergency Dept,Secondary (COVID-19 Not Primary),2020,4,Apr-20,92
+Substance Use Disorders,Emergency Dept,Secondary (COVID-19 Not Primary),2020,5,May-20,95
+Substance Use Disorders,Emergency Dept,Secondary (COVID-19 Not Primary),2020,6,Jun-20,83
+Substance Use Disorders,Emergency Dept,Secondary (COVID-19 Not Primary),2020,7,Jul-20,111
+Substance Use Disorders,Emergency Dept,Secondary (COVID-19 Not Primary),2020,8,Aug-20,103
+Substance Use Disorders,Emergency Dept,Secondary (COVID-19 Not Primary),2020,9,Sep-20,88
+Substance Use Disorders,Emergency Dept,Secondary (COVID-19 Not Primary),2020,10,Oct-20,88
+Substance Use Disorders,Emergency Dept,Secondary (COVID-19 Not Primary),2020,11,Nov-20,88
+Substance Use Disorders,Emergency Dept,Secondary (COVID-19 Not Primary),2020,12,Dec-20,101
+Substance Use Disorders,Emergency Dept,Secondary (COVID-19 Not Primary),2021,1,Jan-21,115
+Substance Use Disorders,Emergency Dept,Secondary (COVID-19 Not Primary),2021,2,Feb-21,98
+Substance Use Disorders,Emergency Dept,Secondary (COVID-19 Not Primary),2021,3,Mar-21,86
+Substance Use Disorders,Emergency Dept,Secondary (COVID-19 Not Primary),2021,4,Apr-21,74
+Substance Use Disorders,Emergency Dept,Secondary (COVID-19 Not Primary),2021,5,May-21,86
+Substance Use Disorders,Emergency Dept,Secondary (COVID-19 Not Primary),2021,6,Jun-21,67
+Substance Use Disorders,Emergency Dept,Secondary (COVID-19 Not Primary),2021,7,Jul-21,84
+Substance Use Disorders,Emergency Dept,Secondary (COVID-19 Not Primary),2021,8,Aug-21,112
+Substance Use Disorders,Emergency Dept,Secondary (COVID-19 Not Primary),2021,9,Sep-21,101
+Substance Use Disorders,Emergency Dept,Secondary (COVID-19 Not Primary),2021,10,Oct-21,94
+Substance Use Disorders,Emergency Dept,Secondary (COVID-19 Not Primary),2021,11,Nov-21,86
+Substance Use Disorders,Emergency Dept,Secondary (COVID-19 Not Primary),2021,12,Dec-21,107
+Unspecified Mental Disorders,Emergency Dept,Secondary (COVID-19 Not Primary),2020,3,Mar-20,2
+Unspecified Mental Disorders,Emergency Dept,Secondary (COVID-19 Not Primary),2020,4,Apr-20,4
+Unspecified Mental Disorders,Emergency Dept,Secondary (COVID-19 Not Primary),2020,5,May-20,1
+Unspecified Mental Disorders,Emergency Dept,Secondary (COVID-19 Not Primary),2020,7,Jul-20,1
+Unspecified Mental Disorders,Emergency Dept,Secondary (COVID-19 Not Primary),2020,8,Aug-20,5
+Unspecified Mental Disorders,Emergency Dept,Secondary (COVID-19 Not Primary),2020,9,Sep-20,1
+Unspecified Mental Disorders,Emergency Dept,Secondary (COVID-19 Not Primary),2020,10,Oct-20,1
+Unspecified Mental Disorders,Emergency Dept,Secondary (COVID-19 Not Primary),2020,12,Dec-20,3
+Unspecified Mental Disorders,Emergency Dept,Secondary (COVID-19 Not Primary),2021,1,Jan-21,3
+Unspecified Mental Disorders,Emergency Dept,Secondary (COVID-19 Not Primary),2021,2,Feb-21,1
+Unspecified Mental Disorders,Emergency Dept,Secondary (COVID-19 Not Primary),2021,3,Mar-21,3
+Unspecified Mental Disorders,Emergency Dept,Secondary (COVID-19 Not Primary),2021,4,Apr-21,3
+Unspecified Mental Disorders,Emergency Dept,Secondary (COVID-19 Not Primary),2021,6,Jun-21,2
+Unspecified Mental Disorders,Emergency Dept,Secondary (COVID-19 Not Primary),2021,7,Jul-21,1
+Unspecified Mental Disorders,Emergency Dept,Secondary (COVID-19 Not Primary),2021,8,Aug-21,1
+Unspecified Mental Disorders,Emergency Dept,Secondary (COVID-19 Not Primary),2021,9,Sep-21,1
+Unspecified Mental Disorders,Emergency Dept,Secondary (COVID-19 Not Primary),2021,10,Oct-21,1
+Unspecified Mental Disorders,Emergency Dept,Secondary (COVID-19 Not Primary),2021,11,Nov-21,2
+Anxiety,Emergency Dept,Secondary (COVID-19 Primary),2020,4,Apr-20,2
+Anxiety,Emergency Dept,Secondary (COVID-19 Primary),2020,5,May-20,2
+Anxiety,Emergency Dept,Secondary (COVID-19 Primary),2020,6,Jun-20,3
+Anxiety,Emergency Dept,Secondary (COVID-19 Primary),2020,7,Jul-20,2
+Anxiety,Emergency Dept,Secondary (COVID-19 Primary),2020,8,Aug-20,2
+Anxiety,Emergency Dept,Secondary (COVID-19 Primary),2020,9,Sep-20,1
+Anxiety,Emergency Dept,Secondary (COVID-19 Primary),2020,11,Nov-20,1
+Anxiety,Emergency Dept,Secondary (COVID-19 Primary),2020,12,Dec-20,9
+Anxiety,Emergency Dept,Secondary (COVID-19 Primary),2021,1,Jan-21,6
+Anxiety,Emergency Dept,Secondary (COVID-19 Primary),2021,2,Feb-21,2
+Anxiety,Emergency Dept,Secondary (COVID-19 Primary),2021,3,Mar-21,1
+Anxiety,Emergency Dept,Secondary (COVID-19 Primary),2021,6,Jun-21,1
+Anxiety,Emergency Dept,Secondary (COVID-19 Primary),2021,8,Aug-21,2
+Anxiety,Emergency Dept,Secondary (COVID-19 Primary),2021,9,Sep-21,1
+Anxiety,Emergency Dept,Secondary (COVID-19 Primary),2021,10,Oct-21,2
+Anxiety,Emergency Dept,Secondary (COVID-19 Primary),2021,11,Nov-21,3
+Anxiety,Emergency Dept,Secondary (COVID-19 Primary),2021,12,Dec-21,1
+Asthma,Emergency Dept,Secondary (COVID-19 Primary),2020,4,Apr-20,1
+Asthma,Emergency Dept,Secondary (COVID-19 Primary),2020,5,May-20,1
+Asthma,Emergency Dept,Secondary (COVID-19 Primary),2020,9,Sep-20,1
+Asthma,Emergency Dept,Secondary (COVID-19 Primary),2020,11,Nov-20,1
+Asthma,Emergency Dept,Secondary (COVID-19 Primary),2020,12,Dec-20,13
+Asthma,Emergency Dept,Secondary (COVID-19 Primary),2021,1,Jan-21,14
+Asthma,Emergency Dept,Secondary (COVID-19 Primary),2021,2,Feb-21,3
+Asthma,Emergency Dept,Secondary (COVID-19 Primary),2021,4,Apr-21,1
+Asthma,Emergency Dept,Secondary (COVID-19 Primary),2021,7,Jul-21,2
+Asthma,Emergency Dept,Secondary (COVID-19 Primary),2021,8,Aug-21,2
+Asthma,Emergency Dept,Secondary (COVID-19 Primary),2021,9,Sep-21,2
+Asthma,Emergency Dept,Secondary (COVID-19 Primary),2021,10,Oct-21,1
+Asthma,Emergency Dept,Secondary (COVID-19 Primary),2021,11,Nov-21,2
+Cancer,Emergency Dept,Secondary (COVID-19 Primary),2020,6,Jun-20,1
+Cancer,Emergency Dept,Secondary (COVID-19 Primary),2020,7,Jul-20,1
+Cancer,Emergency Dept,Secondary (COVID-19 Primary),2020,8,Aug-20,1
+Cancer,Emergency Dept,Secondary (COVID-19 Primary),2020,9,Sep-20,1
+Cancer,Emergency Dept,Secondary (COVID-19 Primary),2020,10,Oct-20,1
+Cancer,Emergency Dept,Secondary (COVID-19 Primary),2020,12,Dec-20,5
+Cancer,Emergency Dept,Secondary (COVID-19 Primary),2021,1,Jan-21,2
+Cancer,Emergency Dept,Secondary (COVID-19 Primary),2021,2,Feb-21,3
+Cancer,Emergency Dept,Secondary (COVID-19 Primary),2021,8,Aug-21,3
+Cancer,Emergency Dept,Secondary (COVID-19 Primary),2021,10,Oct-21,1
+Cancer,Emergency Dept,Secondary (COVID-19 Primary),2021,11,Nov-21,3
+Cancer,Emergency Dept,Secondary (COVID-19 Primary),2021,12,Dec-21,1
+Cardiac Arrest,Emergency Dept,Secondary (COVID-19 Primary),2020,4,Apr-20,29
+Cardiac Arrest,Emergency Dept,Secondary (COVID-19 Primary),2020,5,May-20,10
+Cardiac Arrest,Emergency Dept,Secondary (COVID-19 Primary),2020,6,Jun-20,21
+Cardiac Arrest,Emergency Dept,Secondary (COVID-19 Primary),2020,7,Jul-20,36
+Cardiac Arrest,Emergency Dept,Secondary (COVID-19 Primary),2020,8,Aug-20,31
+Cardiac Arrest,Emergency Dept,Secondary (COVID-19 Primary),2020,9,Sep-20,18
+Cardiac Arrest,Emergency Dept,Secondary (COVID-19 Primary),2020,10,Oct-20,11
+Cardiac Arrest,Emergency Dept,Secondary (COVID-19 Primary),2020,11,Nov-20,24
+Cardiac Arrest,Emergency Dept,Secondary (COVID-19 Primary),2020,12,Dec-20,171
+Cardiac Arrest,Emergency Dept,Secondary (COVID-19 Primary),2021,1,Jan-21,142
+Cardiac Arrest,Emergency Dept,Secondary (COVID-19 Primary),2021,2,Feb-21,28
+Cardiac Arrest,Emergency Dept,Secondary (COVID-19 Primary),2021,3,Mar-21,14
+Cardiac Arrest,Emergency Dept,Secondary (COVID-19 Primary),2021,4,Apr-21,7
+Cardiac Arrest,Emergency Dept,Secondary (COVID-19 Primary),2021,5,May-21,2
+Cardiac Arrest,Emergency Dept,Secondary (COVID-19 Primary),2021,6,Jun-21,5
+Cardiac Arrest,Emergency Dept,Secondary (COVID-19 Primary),2021,7,Jul-21,9
+Cardiac Arrest,Emergency Dept,Secondary (COVID-19 Primary),2021,8,Aug-21,33
+Cardiac Arrest,Emergency Dept,Secondary (COVID-19 Primary),2021,9,Sep-21,21
+Cardiac Arrest,Emergency Dept,Secondary (COVID-19 Primary),2021,10,Oct-21,19
+Cardiac Arrest,Emergency Dept,Secondary (COVID-19 Primary),2021,11,Nov-21,17
+Cardiac Arrest,Emergency Dept,Secondary (COVID-19 Primary),2021,12,Dec-21,21
+Chronic Obstructive Pulmonary Disease (COPD),Emergency Dept,Secondary (COVID-19 Primary),2020,4,Apr-20,3
+Chronic Obstructive Pulmonary Disease (COPD),Emergency Dept,Secondary (COVID-19 Primary),2020,6,Jun-20,2
+Chronic Obstructive Pulmonary Disease (COPD),Emergency Dept,Secondary (COVID-19 Primary),2020,7,Jul-20,5
+Chronic Obstructive Pulmonary Disease (COPD),Emergency Dept,Secondary (COVID-19 Primary),2020,8,Aug-20,1
+Chronic Obstructive Pulmonary Disease (COPD),Emergency Dept,Secondary (COVID-19 Primary),2020,11,Nov-20,7
+Chronic Obstructive Pulmonary Disease (COPD),Emergency Dept,Secondary (COVID-19 Primary),2020,12,Dec-20,21
+Chronic Obstructive Pulmonary Disease (COPD),Emergency Dept,Secondary (COVID-19 Primary),2021,1,Jan-21,11
+Chronic Obstructive Pulmonary Disease (COPD),Emergency Dept,Secondary (COVID-19 Primary),2021,2,Feb-21,4
+Chronic Obstructive Pulmonary Disease (COPD),Emergency Dept,Secondary (COVID-19 Primary),2021,3,Mar-21,1
+Chronic Obstructive Pulmonary Disease (COPD),Emergency Dept,Secondary (COVID-19 Primary),2021,4,Apr-21,1
+Chronic Obstructive Pulmonary Disease (COPD),Emergency Dept,Secondary (COVID-19 Primary),2021,6,Jun-21,1
+Chronic Obstructive Pulmonary Disease (COPD),Emergency Dept,Secondary (COVID-19 Primary),2021,7,Jul-21,1
+Chronic Obstructive Pulmonary Disease (COPD),Emergency Dept,Secondary (COVID-19 Primary),2021,8,Aug-21,5
+Chronic Obstructive Pulmonary Disease (COPD),Emergency Dept,Secondary (COVID-19 Primary),2021,9,Sep-21,2
+Chronic Obstructive Pulmonary Disease (COPD),Emergency Dept,Secondary (COVID-19 Primary),2021,10,Oct-21,1
+Chronic Obstructive Pulmonary Disease (COPD),Emergency Dept,Secondary (COVID-19 Primary),2021,11,Nov-21,1
+Chronic Obstructive Pulmonary Disease (COPD),Emergency Dept,Secondary (COVID-19 Primary),2021,12,Dec-21,2
+Depression,Emergency Dept,Secondary (COVID-19 Primary),2020,5,May-20,3
+Depression,Emergency Dept,Secondary (COVID-19 Primary),2020,6,Jun-20,2
+Depression,Emergency Dept,Secondary (COVID-19 Primary),2020,7,Jul-20,3
+Depression,Emergency Dept,Secondary (COVID-19 Primary),2020,8,Aug-20,5
+Depression,Emergency Dept,Secondary (COVID-19 Primary),2020,9,Sep-20,1
+Depression,Emergency Dept,Secondary (COVID-19 Primary),2020,10,Oct-20,1
+Depression,Emergency Dept,Secondary (COVID-19 Primary),2020,11,Nov-20,2
+Depression,Emergency Dept,Secondary (COVID-19 Primary),2020,12,Dec-20,8
+Depression,Emergency Dept,Secondary (COVID-19 Primary),2021,1,Jan-21,4
+Depression,Emergency Dept,Secondary (COVID-19 Primary),2021,2,Feb-21,2
+Depression,Emergency Dept,Secondary (COVID-19 Primary),2021,4,Apr-21,2
+Depression,Emergency Dept,Secondary (COVID-19 Primary),2021,7,Jul-21,1
+Depression,Emergency Dept,Secondary (COVID-19 Primary),2021,8,Aug-21,2
+Depression,Emergency Dept,Secondary (COVID-19 Primary),2021,9,Sep-21,1
+Depression,Emergency Dept,Secondary (COVID-19 Primary),2021,10,Oct-21,2
+Depression,Emergency Dept,Secondary (COVID-19 Primary),2021,11,Nov-21,2
+Diabetes,Emergency Dept,Secondary (COVID-19 Primary),2020,4,Apr-20,20
+Diabetes,Emergency Dept,Secondary (COVID-19 Primary),2020,5,May-20,9
+Diabetes,Emergency Dept,Secondary (COVID-19 Primary),2020,6,Jun-20,11
+Diabetes,Emergency Dept,Secondary (COVID-19 Primary),2020,7,Jul-20,24
+Diabetes,Emergency Dept,Secondary (COVID-19 Primary),2020,8,Aug-20,18
+Diabetes,Emergency Dept,Secondary (COVID-19 Primary),2020,9,Sep-20,10
+Diabetes,Emergency Dept,Secondary (COVID-19 Primary),2020,10,Oct-20,6
+Diabetes,Emergency Dept,Secondary (COVID-19 Primary),2020,11,Nov-20,21
+Diabetes,Emergency Dept,Secondary (COVID-19 Primary),2020,12,Dec-20,110
+Diabetes,Emergency Dept,Secondary (COVID-19 Primary),2021,1,Jan-21,89
+Diabetes,Emergency Dept,Secondary (COVID-19 Primary),2021,2,Feb-21,22
+Diabetes,Emergency Dept,Secondary (COVID-19 Primary),2021,3,Mar-21,7
+Diabetes,Emergency Dept,Secondary (COVID-19 Primary),2021,4,Apr-21,2
+Diabetes,Emergency Dept,Secondary (COVID-19 Primary),2021,5,May-21,1
+Diabetes,Emergency Dept,Secondary (COVID-19 Primary),2021,6,Jun-21,1
+Diabetes,Emergency Dept,Secondary (COVID-19 Primary),2021,7,Jul-21,7
+Diabetes,Emergency Dept,Secondary (COVID-19 Primary),2021,8,Aug-21,15
+Diabetes,Emergency Dept,Secondary (COVID-19 Primary),2021,9,Sep-21,10
+Diabetes,Emergency Dept,Secondary (COVID-19 Primary),2021,10,Oct-21,7
+Diabetes,Emergency Dept,Secondary (COVID-19 Primary),2021,11,Nov-21,10
+Diabetes,Emergency Dept,Secondary (COVID-19 Primary),2021,12,Dec-21,7
+Hypertension,Emergency Dept,Secondary (COVID-19 Primary),2020,4,Apr-20,27
+Hypertension,Emergency Dept,Secondary (COVID-19 Primary),2020,5,May-20,8
+Hypertension,Emergency Dept,Secondary (COVID-19 Primary),2020,6,Jun-20,16
+Hypertension,Emergency Dept,Secondary (COVID-19 Primary),2020,7,Jul-20,32
+Hypertension,Emergency Dept,Secondary (COVID-19 Primary),2020,8,Aug-20,28
+Hypertension,Emergency Dept,Secondary (COVID-19 Primary),2020,9,Sep-20,15
+Hypertension,Emergency Dept,Secondary (COVID-19 Primary),2020,10,Oct-20,13
+Hypertension,Emergency Dept,Secondary (COVID-19 Primary),2020,11,Nov-20,33
+Hypertension,Emergency Dept,Secondary (COVID-19 Primary),2020,12,Dec-20,155
+Hypertension,Emergency Dept,Secondary (COVID-19 Primary),2021,1,Jan-21,115
+Hypertension,Emergency Dept,Secondary (COVID-19 Primary),2021,2,Feb-21,35
+Hypertension,Emergency Dept,Secondary (COVID-19 Primary),2021,3,Mar-21,9
+Hypertension,Emergency Dept,Secondary (COVID-19 Primary),2021,4,Apr-21,2
+Hypertension,Emergency Dept,Secondary (COVID-19 Primary),2021,5,May-21,1
+Hypertension,Emergency Dept,Secondary (COVID-19 Primary),2021,6,Jun-21,4
+Hypertension,Emergency Dept,Secondary (COVID-19 Primary),2021,7,Jul-21,7
+Hypertension,Emergency Dept,Secondary (COVID-19 Primary),2021,8,Aug-21,18
+Hypertension,Emergency Dept,Secondary (COVID-19 Primary),2021,9,Sep-21,15
+Hypertension,Emergency Dept,Secondary (COVID-19 Primary),2021,10,Oct-21,14
+Hypertension,Emergency Dept,Secondary (COVID-19 Primary),2021,11,Nov-21,11
+Hypertension,Emergency Dept,Secondary (COVID-19 Primary),2021,12,Dec-21,10
+Mood Disorders (Excluding Depression),Emergency Dept,Secondary (COVID-19 Primary),2020,12,Dec-20,3
+Mood Disorders (Excluding Depression),Emergency Dept,Secondary (COVID-19 Primary),2021,1,Jan-21,1
+Mood Disorders (Excluding Depression),Emergency Dept,Secondary (COVID-19 Primary),2021,2,Feb-21,1
+Mood Disorders (Excluding Depression),Emergency Dept,Secondary (COVID-19 Primary),2021,7,Jul-21,1
+Mood Disorders (Excluding Depression),Emergency Dept,Secondary (COVID-19 Primary),2021,10,Oct-21,1
+Non-Mood Psychotic Disorders,Emergency Dept,Secondary (COVID-19 Primary),2020,5,May-20,1
+Non-Mood Psychotic Disorders,Emergency Dept,Secondary (COVID-19 Primary),2020,6,Jun-20,1
+Non-Mood Psychotic Disorders,Emergency Dept,Secondary (COVID-19 Primary),2020,7,Jul-20,2
+Non-Mood Psychotic Disorders,Emergency Dept,Secondary (COVID-19 Primary),2020,8,Aug-20,2
+Non-Mood Psychotic Disorders,Emergency Dept,Secondary (COVID-19 Primary),2020,12,Dec-20,3
+Non-Mood Psychotic Disorders,Emergency Dept,Secondary (COVID-19 Primary),2021,1,Jan-21,3
+Non-Mood Psychotic Disorders,Emergency Dept,Secondary (COVID-19 Primary),2021,2,Feb-21,1
+Non-Mood Psychotic Disorders,Emergency Dept,Secondary (COVID-19 Primary),2021,7,Jul-21,1
+Nonpsychotic Disorders (Excluding Anxiety),Emergency Dept,Secondary (COVID-19 Primary),2020,12,Dec-20,1
+Obesity,Emergency Dept,Secondary (COVID-19 Primary),2020,4,Apr-20,5
+Obesity,Emergency Dept,Secondary (COVID-19 Primary),2020,5,May-20,5
+Obesity,Emergency Dept,Secondary (COVID-19 Primary),2020,6,Jun-20,1
+Obesity,Emergency Dept,Secondary (COVID-19 Primary),2020,7,Jul-20,3
+Obesity,Emergency Dept,Secondary (COVID-19 Primary),2020,8,Aug-20,3
+Obesity,Emergency Dept,Secondary (COVID-19 Primary),2020,10,Oct-20,2
+Obesity,Emergency Dept,Secondary (COVID-19 Primary),2020,11,Nov-20,4
+Obesity,Emergency Dept,Secondary (COVID-19 Primary),2020,12,Dec-20,24
+Obesity,Emergency Dept,Secondary (COVID-19 Primary),2021,1,Jan-21,9
+Obesity,Emergency Dept,Secondary (COVID-19 Primary),2021,2,Feb-21,5
+Obesity,Emergency Dept,Secondary (COVID-19 Primary),2021,3,Mar-21,2
+Obesity,Emergency Dept,Secondary (COVID-19 Primary),2021,4,Apr-21,1
+Obesity,Emergency Dept,Secondary (COVID-19 Primary),2021,5,May-21,1
+Obesity,Emergency Dept,Secondary (COVID-19 Primary),2021,7,Jul-21,4
+Obesity,Emergency Dept,Secondary (COVID-19 Primary),2021,8,Aug-21,10
+Obesity,Emergency Dept,Secondary (COVID-19 Primary),2021,9,Sep-21,3
+Obesity,Emergency Dept,Secondary (COVID-19 Primary),2021,10,Oct-21,3
+Obesity,Emergency Dept,Secondary (COVID-19 Primary),2021,11,Nov-21,4
+Obesity,Emergency Dept,Secondary (COVID-19 Primary),2021,12,Dec-21,2
+Pneumonia,Emergency Dept,Secondary (COVID-19 Primary),2020,4,Apr-20,10
+Pneumonia,Emergency Dept,Secondary (COVID-19 Primary),2020,5,May-20,7
+Pneumonia,Emergency Dept,Secondary (COVID-19 Primary),2020,6,Jun-20,14
+Pneumonia,Emergency Dept,Secondary (COVID-19 Primary),2020,7,Jul-20,26
+Pneumonia,Emergency Dept,Secondary (COVID-19 Primary),2020,8,Aug-20,16
+Pneumonia,Emergency Dept,Secondary (COVID-19 Primary),2020,9,Sep-20,8
+Pneumonia,Emergency Dept,Secondary (COVID-19 Primary),2020,10,Oct-20,6
+Pneumonia,Emergency Dept,Secondary (COVID-19 Primary),2020,11,Nov-20,24
+Pneumonia,Emergency Dept,Secondary (COVID-19 Primary),2020,12,Dec-20,129
+Pneumonia,Emergency Dept,Secondary (COVID-19 Primary),2021,1,Jan-21,116
+Pneumonia,Emergency Dept,Secondary (COVID-19 Primary),2021,2,Feb-21,27
+Pneumonia,Emergency Dept,Secondary (COVID-19 Primary),2021,3,Mar-21,10
+Pneumonia,Emergency Dept,Secondary (COVID-19 Primary),2021,4,Apr-21,4
+Pneumonia,Emergency Dept,Secondary (COVID-19 Primary),2021,6,Jun-21,2
+Pneumonia,Emergency Dept,Secondary (COVID-19 Primary),2021,7,Jul-21,5
+Pneumonia,Emergency Dept,Secondary (COVID-19 Primary),2021,8,Aug-21,24
+Pneumonia,Emergency Dept,Secondary (COVID-19 Primary),2021,9,Sep-21,22
+Pneumonia,Emergency Dept,Secondary (COVID-19 Primary),2021,10,Oct-21,15
+Pneumonia,Emergency Dept,Secondary (COVID-19 Primary),2021,11,Nov-21,18
+Pneumonia,Emergency Dept,Secondary (COVID-19 Primary),2021,12,Dec-21,11
+Respiratory Arrest/Failure,Emergency Dept,Secondary (COVID-19 Primary),2020,3,Mar-20,1
+Respiratory Arrest/Failure,Emergency Dept,Secondary (COVID-19 Primary),2020,4,Apr-20,14
+Respiratory Arrest/Failure,Emergency Dept,Secondary (COVID-19 Primary),2020,5,May-20,13
+Respiratory Arrest/Failure,Emergency Dept,Secondary (COVID-19 Primary),2020,6,Jun-20,16
+Respiratory Arrest/Failure,Emergency Dept,Secondary (COVID-19 Primary),2020,7,Jul-20,29
+Respiratory Arrest/Failure,Emergency Dept,Secondary (COVID-19 Primary),2020,8,Aug-20,21
+Respiratory Arrest/Failure,Emergency Dept,Secondary (COVID-19 Primary),2020,9,Sep-20,8
+Respiratory Arrest/Failure,Emergency Dept,Secondary (COVID-19 Primary),2020,10,Oct-20,6
+Respiratory Arrest/Failure,Emergency Dept,Secondary (COVID-19 Primary),2020,11,Nov-20,28
+Respiratory Arrest/Failure,Emergency Dept,Secondary (COVID-19 Primary),2020,12,Dec-20,130
+Respiratory Arrest/Failure,Emergency Dept,Secondary (COVID-19 Primary),2021,1,Jan-21,122
+Respiratory Arrest/Failure,Emergency Dept,Secondary (COVID-19 Primary),2021,2,Feb-21,26
+Respiratory Arrest/Failure,Emergency Dept,Secondary (COVID-19 Primary),2021,3,Mar-21,8
+Respiratory Arrest/Failure,Emergency Dept,Secondary (COVID-19 Primary),2021,4,Apr-21,2
+Respiratory Arrest/Failure,Emergency Dept,Secondary (COVID-19 Primary),2021,5,May-21,1
+Respiratory Arrest/Failure,Emergency Dept,Secondary (COVID-19 Primary),2021,6,Jun-21,4
+Respiratory Arrest/Failure,Emergency Dept,Secondary (COVID-19 Primary),2021,7,Jul-21,5
+Respiratory Arrest/Failure,Emergency Dept,Secondary (COVID-19 Primary),2021,8,Aug-21,19
+Respiratory Arrest/Failure,Emergency Dept,Secondary (COVID-19 Primary),2021,9,Sep-21,19
+Respiratory Arrest/Failure,Emergency Dept,Secondary (COVID-19 Primary),2021,10,Oct-21,16
+Respiratory Arrest/Failure,Emergency Dept,Secondary (COVID-19 Primary),2021,11,Nov-21,19
+Respiratory Arrest/Failure,Emergency Dept,Secondary (COVID-19 Primary),2021,12,Dec-21,13
+Sepsis,Emergency Dept,Secondary (COVID-19 Primary),2020,3,Mar-20,1
+Sepsis,Emergency Dept,Secondary (COVID-19 Primary),2020,4,Apr-20,4
+Sepsis,Emergency Dept,Secondary (COVID-19 Primary),2020,5,May-20,4
+Sepsis,Emergency Dept,Secondary (COVID-19 Primary),2020,6,Jun-20,4
+Sepsis,Emergency Dept,Secondary (COVID-19 Primary),2020,7,Jul-20,9
+Sepsis,Emergency Dept,Secondary (COVID-19 Primary),2020,8,Aug-20,9
+Sepsis,Emergency Dept,Secondary (COVID-19 Primary),2020,9,Sep-20,6
+Sepsis,Emergency Dept,Secondary (COVID-19 Primary),2020,10,Oct-20,2
+Sepsis,Emergency Dept,Secondary (COVID-19 Primary),2020,11,Nov-20,9
+Sepsis,Emergency Dept,Secondary (COVID-19 Primary),2020,12,Dec-20,31
+Sepsis,Emergency Dept,Secondary (COVID-19 Primary),2021,1,Jan-21,35
+Sepsis,Emergency Dept,Secondary (COVID-19 Primary),2021,2,Feb-21,8
+Sepsis,Emergency Dept,Secondary (COVID-19 Primary),2021,3,Mar-21,6
+Sepsis,Emergency Dept,Secondary (COVID-19 Primary),2021,4,Apr-21,1
+Sepsis,Emergency Dept,Secondary (COVID-19 Primary),2021,7,Jul-21,3
+Sepsis,Emergency Dept,Secondary (COVID-19 Primary),2021,8,Aug-21,4
+Sepsis,Emergency Dept,Secondary (COVID-19 Primary),2021,9,Sep-21,6
+Sepsis,Emergency Dept,Secondary (COVID-19 Primary),2021,10,Oct-21,2
+Sepsis,Emergency Dept,Secondary (COVID-19 Primary),2021,11,Nov-21,3
+Sepsis,Emergency Dept,Secondary (COVID-19 Primary),2021,12,Dec-21,3
+Stroke,Emergency Dept,Secondary (COVID-19 Primary),2020,12,Dec-20,4
+Stroke,Emergency Dept,Secondary (COVID-19 Primary),2021,3,Mar-21,1
+Stroke,Emergency Dept,Secondary (COVID-19 Primary),2021,10,Oct-21,1
+Substance Use Disorders,Emergency Dept,Secondary (COVID-19 Primary),2020,4,Apr-20,1
+Substance Use Disorders,Emergency Dept,Secondary (COVID-19 Primary),2020,6,Jun-20,1
+Substance Use Disorders,Emergency Dept,Secondary (COVID-19 Primary),2020,7,Jul-20,2
+Substance Use Disorders,Emergency Dept,Secondary (COVID-19 Primary),2020,8,Aug-20,1
+Substance Use Disorders,Emergency Dept,Secondary (COVID-19 Primary),2020,9,Sep-20,2
+Substance Use Disorders,Emergency Dept,Secondary (COVID-19 Primary),2020,12,Dec-20,11
+Substance Use Disorders,Emergency Dept,Secondary (COVID-19 Primary),2021,1,Jan-21,11
+Substance Use Disorders,Emergency Dept,Secondary (COVID-19 Primary),2021,2,Feb-21,5
+Substance Use Disorders,Emergency Dept,Secondary (COVID-19 Primary),2021,3,Mar-21,4
+Substance Use Disorders,Emergency Dept,Secondary (COVID-19 Primary),2021,5,May-21,1
+Substance Use Disorders,Emergency Dept,Secondary (COVID-19 Primary),2021,6,Jun-21,1
+Substance Use Disorders,Emergency Dept,Secondary (COVID-19 Primary),2021,7,Jul-21,1
+Substance Use Disorders,Emergency Dept,Secondary (COVID-19 Primary),2021,8,Aug-21,1
+Substance Use Disorders,Emergency Dept,Secondary (COVID-19 Primary),2021,9,Sep-21,1
+Substance Use Disorders,Emergency Dept,Secondary (COVID-19 Primary),2021,10,Oct-21,3
+Substance Use Disorders,Emergency Dept,Secondary (COVID-19 Primary),2021,11,Nov-21,4
+Substance Use Disorders,Emergency Dept,Secondary (COVID-19 Primary),2021,12,Dec-21,2
+Anxiety,Inpatient Discharges,Primary,2021,1,Jan-21,1
+Anxiety,Inpatient Discharges,Primary,2021,3,Mar-21,1
+Anxiety,Inpatient Discharges,Primary,2021,4,Apr-21,1
+Anxiety,Inpatient Discharges,Primary,2021,12,Dec-21,1
+Asthma,Inpatient Discharges,Primary,2020,1,Jan-20,6
+Asthma,Inpatient Discharges,Primary,2020,2,Feb-20,5
+Asthma,Inpatient Discharges,Primary,2020,3,Mar-20,3
+Asthma,Inpatient Discharges,Primary,2020,4,Apr-20,4
+Asthma,Inpatient Discharges,Primary,2020,5,May-20,2
+Asthma,Inpatient Discharges,Primary,2020,6,Jun-20,2
+Asthma,Inpatient Discharges,Primary,2020,7,Jul-20,1
+Asthma,Inpatient Discharges,Primary,2020,8,Aug-20,1
+Asthma,Inpatient Discharges,Primary,2020,10,Oct-20,4
+Asthma,Inpatient Discharges,Primary,2020,11,Nov-20,5
+Asthma,Inpatient Discharges,Primary,2020,12,Dec-20,5
+Asthma,Inpatient Discharges,Primary,2021,1,Jan-21,2
+Asthma,Inpatient Discharges,Primary,2021,2,Feb-21,4
+Asthma,Inpatient Discharges,Primary,2021,3,Mar-21,4
+Asthma,Inpatient Discharges,Primary,2021,4,Apr-21,1
+Asthma,Inpatient Discharges,Primary,2021,5,May-21,3
+Asthma,Inpatient Discharges,Primary,2021,7,Jul-21,4
+Asthma,Inpatient Discharges,Primary,2021,8,Aug-21,3
+Asthma,Inpatient Discharges,Primary,2021,9,Sep-21,3
+Asthma,Inpatient Discharges,Primary,2021,10,Oct-21,1
+Asthma,Inpatient Discharges,Primary,2021,11,Nov-21,5
+Asthma,Inpatient Discharges,Primary,2021,12,Dec-21,6
+Behavioral Syndromes,Inpatient Discharges,Primary,2020,9,Sep-20,1
+Behavioral Syndromes,Inpatient Discharges,Primary,2020,12,Dec-20,1
+Behavioral Syndromes,Inpatient Discharges,Primary,2021,7,Jul-21,1
+Behavioral Syndromes,Inpatient Discharges,Primary,2021,11,Nov-21,1
+Cancer,Inpatient Discharges,Primary,2020,1,Jan-20,429
+Cancer,Inpatient Discharges,Primary,2020,2,Feb-20,413
+Cancer,Inpatient Discharges,Primary,2020,3,Mar-20,355
+Cancer,Inpatient Discharges,Primary,2020,4,Apr-20,238
+Cancer,Inpatient Discharges,Primary,2020,5,May-20,291
+Cancer,Inpatient Discharges,Primary,2020,6,Jun-20,323
+Cancer,Inpatient Discharges,Primary,2020,7,Jul-20,293
+Cancer,Inpatient Discharges,Primary,2020,8,Aug-20,301
+Cancer,Inpatient Discharges,Primary,2020,9,Sep-20,313
+Cancer,Inpatient Discharges,Primary,2020,10,Oct-20,318
+Cancer,Inpatient Discharges,Primary,2020,11,Nov-20,298
+Cancer,Inpatient Discharges,Primary,2020,12,Dec-20,341
+Cancer,Inpatient Discharges,Primary,2021,1,Jan-21,329
+Cancer,Inpatient Discharges,Primary,2021,2,Feb-21,309
+Cancer,Inpatient Discharges,Primary,2021,3,Mar-21,340
+Cancer,Inpatient Discharges,Primary,2021,4,Apr-21,311
+Cancer,Inpatient Discharges,Primary,2021,5,May-21,353
+Cancer,Inpatient Discharges,Primary,2021,6,Jun-21,338
+Cancer,Inpatient Discharges,Primary,2021,7,Jul-21,331
+Cancer,Inpatient Discharges,Primary,2021,8,Aug-21,333
+Cancer,Inpatient Discharges,Primary,2021,9,Sep-21,355
+Cancer,Inpatient Discharges,Primary,2021,10,Oct-21,332
+Cancer,Inpatient Discharges,Primary,2021,11,Nov-21,341
+Cancer,Inpatient Discharges,Primary,2021,12,Dec-21,359
+Cardiac Arrest,Inpatient Discharges,Primary,2020,1,Jan-20,73
+Cardiac Arrest,Inpatient Discharges,Primary,2020,2,Feb-20,75
+Cardiac Arrest,Inpatient Discharges,Primary,2020,3,Mar-20,83
+Cardiac Arrest,Inpatient Discharges,Primary,2020,4,Apr-20,43
+Cardiac Arrest,Inpatient Discharges,Primary,2020,5,May-20,55
+Cardiac Arrest,Inpatient Discharges,Primary,2020,6,Jun-20,44
+Cardiac Arrest,Inpatient Discharges,Primary,2020,7,Jul-20,52
+Cardiac Arrest,Inpatient Discharges,Primary,2020,8,Aug-20,71
+Cardiac Arrest,Inpatient Discharges,Primary,2020,9,Sep-20,60
+Cardiac Arrest,Inpatient Discharges,Primary,2020,10,Oct-20,62
+Cardiac Arrest,Inpatient Discharges,Primary,2020,11,Nov-20,73
+Cardiac Arrest,Inpatient Discharges,Primary,2020,12,Dec-20,83
+Cardiac Arrest,Inpatient Discharges,Primary,2021,1,Jan-21,79
+Cardiac Arrest,Inpatient Discharges,Primary,2021,2,Feb-21,87
+Cardiac Arrest,Inpatient Discharges,Primary,2021,3,Mar-21,92
+Cardiac Arrest,Inpatient Discharges,Primary,2021,4,Apr-21,64
+Cardiac Arrest,Inpatient Discharges,Primary,2021,5,May-21,77
+Cardiac Arrest,Inpatient Discharges,Primary,2021,6,Jun-21,82
+Cardiac Arrest,Inpatient Discharges,Primary,2021,7,Jul-21,64
+Cardiac Arrest,Inpatient Discharges,Primary,2021,8,Aug-21,77
+Cardiac Arrest,Inpatient Discharges,Primary,2021,9,Sep-21,69
+Cardiac Arrest,Inpatient Discharges,Primary,2021,10,Oct-21,85
+Cardiac Arrest,Inpatient Discharges,Primary,2021,11,Nov-21,69
+Cardiac Arrest,Inpatient Discharges,Primary,2021,12,Dec-21,93
+Chronic Obstructive Pulmonary Disease (COPD),Inpatient Discharges,Primary,2020,1,Jan-20,2
+Chronic Obstructive Pulmonary Disease (COPD),Inpatient Discharges,Primary,2020,2,Feb-20,2
+Chronic Obstructive Pulmonary Disease (COPD),Inpatient Discharges,Primary,2020,3,Mar-20,1
+Chronic Obstructive Pulmonary Disease (COPD),Inpatient Discharges,Primary,2020,7,Jul-20,1
+Chronic Obstructive Pulmonary Disease (COPD),Inpatient Discharges,Primary,2020,8,Aug-20,1
+Chronic Obstructive Pulmonary Disease (COPD),Inpatient Discharges,Primary,2020,9,Sep-20,2
+Chronic Obstructive Pulmonary Disease (COPD),Inpatient Discharges,Primary,2020,10,Oct-20,5
+Chronic Obstructive Pulmonary Disease (COPD),Inpatient Discharges,Primary,2020,11,Nov-20,1
+Chronic Obstructive Pulmonary Disease (COPD),Inpatient Discharges,Primary,2020,12,Dec-20,1
+Chronic Obstructive Pulmonary Disease (COPD),Inpatient Discharges,Primary,2021,1,Jan-21,1
+Chronic Obstructive Pulmonary Disease (COPD),Inpatient Discharges,Primary,2021,3,Mar-21,1
+Chronic Obstructive Pulmonary Disease (COPD),Inpatient Discharges,Primary,2021,5,May-21,1
+Chronic Obstructive Pulmonary Disease (COPD),Inpatient Discharges,Primary,2021,6,Jun-21,1
+Chronic Obstructive Pulmonary Disease (COPD),Inpatient Discharges,Primary,2021,8,Aug-21,3
+Chronic Obstructive Pulmonary Disease (COPD),Inpatient Discharges,Primary,2021,9,Sep-21,1
+Chronic Obstructive Pulmonary Disease (COPD),Inpatient Discharges,Primary,2021,10,Oct-21,1
+COVID-19,Inpatient Discharges,Primary,2020,4,Apr-20,636
+COVID-19,Inpatient Discharges,Primary,2020,5,May-20,628
+COVID-19,Inpatient Discharges,Primary,2020,6,Jun-20,633
+COVID-19,Inpatient Discharges,Primary,2020,7,Jul-20,1260
+COVID-19,Inpatient Discharges,Primary,2020,8,Aug-20,1278
+COVID-19,Inpatient Discharges,Primary,2020,9,Sep-20,695
+COVID-19,Inpatient Discharges,Primary,2020,10,Oct-20,490
+COVID-19,Inpatient Discharges,Primary,2020,11,Nov-20,806
+COVID-19,Inpatient Discharges,Primary,2020,12,Dec-20,4277
+COVID-19,Inpatient Discharges,Primary,2021,1,Jan-21,7151
+COVID-19,Inpatient Discharges,Primary,2021,2,Feb-21,2858
+COVID-19,Inpatient Discharges,Primary,2021,3,Mar-21,734
+COVID-19,Inpatient Discharges,Primary,2021,4,Apr-21,247
+COVID-19,Inpatient Discharges,Primary,2021,5,May-21,189
+COVID-19,Inpatient Discharges,Primary,2021,6,Jun-21,111
+COVID-19,Inpatient Discharges,Primary,2021,7,Jul-21,244
+COVID-19,Inpatient Discharges,Primary,2021,8,Aug-21,1331
+COVID-19,Inpatient Discharges,Primary,2021,9,Sep-21,1911
+COVID-19,Inpatient Discharges,Primary,2021,10,Oct-21,1138
+COVID-19,Inpatient Discharges,Primary,2021,11,Nov-21,1011
+COVID-19,Inpatient Discharges,Primary,2021,12,Dec-21,931
+Depression,Inpatient Discharges,Primary,2020,4,Apr-20,1
+Depression,Inpatient Discharges,Primary,2020,6,Jun-20,1
+Depression,Inpatient Discharges,Primary,2020,8,Aug-20,1
+Depression,Inpatient Discharges,Primary,2020,9,Sep-20,1
+Depression,Inpatient Discharges,Primary,2020,10,Oct-20,1
+Depression,Inpatient Discharges,Primary,2020,12,Dec-20,2
+Depression,Inpatient Discharges,Primary,2021,1,Jan-21,2
+Depression,Inpatient Discharges,Primary,2021,2,Feb-21,2
+Depression,Inpatient Discharges,Primary,2021,6,Jun-21,2
+Depression,Inpatient Discharges,Primary,2021,8,Aug-21,1
+Depression,Inpatient Discharges,Primary,2021,10,Oct-21,2
+Depression,Inpatient Discharges,Primary,2021,11,Nov-21,1
+Diabetes,Inpatient Discharges,Primary,2020,1,Jan-20,57
+Diabetes,Inpatient Discharges,Primary,2020,2,Feb-20,54
+Diabetes,Inpatient Discharges,Primary,2020,3,Mar-20,38
+Diabetes,Inpatient Discharges,Primary,2020,4,Apr-20,30
+Diabetes,Inpatient Discharges,Primary,2020,5,May-20,34
+Diabetes,Inpatient Discharges,Primary,2020,6,Jun-20,31
+Diabetes,Inpatient Discharges,Primary,2020,7,Jul-20,39
+Diabetes,Inpatient Discharges,Primary,2020,8,Aug-20,49
+Diabetes,Inpatient Discharges,Primary,2020,9,Sep-20,33
+Diabetes,Inpatient Discharges,Primary,2020,10,Oct-20,37
+Diabetes,Inpatient Discharges,Primary,2020,11,Nov-20,41
+Diabetes,Inpatient Discharges,Primary,2020,12,Dec-20,69
+Diabetes,Inpatient Discharges,Primary,2021,1,Jan-21,69
+Diabetes,Inpatient Discharges,Primary,2021,2,Feb-21,53
+Diabetes,Inpatient Discharges,Primary,2021,3,Mar-21,62
+Diabetes,Inpatient Discharges,Primary,2021,4,Apr-21,56
+Diabetes,Inpatient Discharges,Primary,2021,5,May-21,42
+Diabetes,Inpatient Discharges,Primary,2021,6,Jun-21,37
+Diabetes,Inpatient Discharges,Primary,2021,7,Jul-21,50
+Diabetes,Inpatient Discharges,Primary,2021,8,Aug-21,54
+Diabetes,Inpatient Discharges,Primary,2021,9,Sep-21,46
+Diabetes,Inpatient Discharges,Primary,2021,10,Oct-21,45
+Diabetes,Inpatient Discharges,Primary,2021,11,Nov-21,47
+Diabetes,Inpatient Discharges,Primary,2021,12,Dec-21,52
+Hypertension,Inpatient Discharges,Primary,2020,1,Jan-20,338
+Hypertension,Inpatient Discharges,Primary,2020,2,Feb-20,295
+Hypertension,Inpatient Discharges,Primary,2020,3,Mar-20,305
+Hypertension,Inpatient Discharges,Primary,2020,4,Apr-20,175
+Hypertension,Inpatient Discharges,Primary,2020,5,May-20,189
+Hypertension,Inpatient Discharges,Primary,2020,6,Jun-20,167
+Hypertension,Inpatient Discharges,Primary,2020,7,Jul-20,193
+Hypertension,Inpatient Discharges,Primary,2020,8,Aug-20,163
+Hypertension,Inpatient Discharges,Primary,2020,9,Sep-20,194
+Hypertension,Inpatient Discharges,Primary,2020,10,Oct-20,216
+Hypertension,Inpatient Discharges,Primary,2020,11,Nov-20,231
+Hypertension,Inpatient Discharges,Primary,2020,12,Dec-20,292
+Hypertension,Inpatient Discharges,Primary,2021,1,Jan-21,269
+Hypertension,Inpatient Discharges,Primary,2021,2,Feb-21,227
+Hypertension,Inpatient Discharges,Primary,2021,3,Mar-21,283
+Hypertension,Inpatient Discharges,Primary,2021,4,Apr-21,278
+Hypertension,Inpatient Discharges,Primary,2021,5,May-21,263
+Hypertension,Inpatient Discharges,Primary,2021,6,Jun-21,244
+Hypertension,Inpatient Discharges,Primary,2021,7,Jul-21,225
+Hypertension,Inpatient Discharges,Primary,2021,8,Aug-21,207
+Hypertension,Inpatient Discharges,Primary,2021,9,Sep-21,231
+Hypertension,Inpatient Discharges,Primary,2021,10,Oct-21,274
+Hypertension,Inpatient Discharges,Primary,2021,11,Nov-21,247
+Hypertension,Inpatient Discharges,Primary,2021,12,Dec-21,331
+Mood Disorders (Excluding Depression),Inpatient Discharges,Primary,2020,4,Apr-20,1
+Mood Disorders (Excluding Depression),Inpatient Discharges,Primary,2020,5,May-20,2
+Mood Disorders (Excluding Depression),Inpatient Discharges,Primary,2020,11,Nov-20,1
+Mood Disorders (Excluding Depression),Inpatient Discharges,Primary,2020,12,Dec-20,1
+Mood Disorders (Excluding Depression),Inpatient Discharges,Primary,2021,2,Feb-21,2
+Mood Disorders (Excluding Depression),Inpatient Discharges,Primary,2021,3,Mar-21,2
+Mood Disorders (Excluding Depression),Inpatient Discharges,Primary,2021,5,May-21,1
+Mood Disorders (Excluding Depression),Inpatient Discharges,Primary,2021,9,Sep-21,2
+Mood Disorders (Excluding Depression),Inpatient Discharges,Primary,2021,12,Dec-21,1
+Non-Mood Psychotic Disorders,Inpatient Discharges,Primary,2020,1,Jan-20,4
+Non-Mood Psychotic Disorders,Inpatient Discharges,Primary,2020,2,Feb-20,1
+Non-Mood Psychotic Disorders,Inpatient Discharges,Primary,2020,3,Mar-20,2
+Non-Mood Psychotic Disorders,Inpatient Discharges,Primary,2020,4,Apr-20,1
+Non-Mood Psychotic Disorders,Inpatient Discharges,Primary,2020,5,May-20,1
+Non-Mood Psychotic Disorders,Inpatient Discharges,Primary,2020,6,Jun-20,1
+Non-Mood Psychotic Disorders,Inpatient Discharges,Primary,2020,7,Jul-20,2
+Non-Mood Psychotic Disorders,Inpatient Discharges,Primary,2020,8,Aug-20,3
+Non-Mood Psychotic Disorders,Inpatient Discharges,Primary,2020,9,Sep-20,1
+Non-Mood Psychotic Disorders,Inpatient Discharges,Primary,2020,10,Oct-20,1
+Non-Mood Psychotic Disorders,Inpatient Discharges,Primary,2020,12,Dec-20,4
+Non-Mood Psychotic Disorders,Inpatient Discharges,Primary,2021,2,Feb-21,3
+Non-Mood Psychotic Disorders,Inpatient Discharges,Primary,2021,3,Mar-21,4
+Non-Mood Psychotic Disorders,Inpatient Discharges,Primary,2021,4,Apr-21,1
+Non-Mood Psychotic Disorders,Inpatient Discharges,Primary,2021,5,May-21,1
+Non-Mood Psychotic Disorders,Inpatient Discharges,Primary,2021,6,Jun-21,1
+Non-Mood Psychotic Disorders,Inpatient Discharges,Primary,2021,7,Jul-21,1
+Non-Mood Psychotic Disorders,Inpatient Discharges,Primary,2021,8,Aug-21,1
+Non-Mood Psychotic Disorders,Inpatient Discharges,Primary,2021,9,Sep-21,2
+Non-Mood Psychotic Disorders,Inpatient Discharges,Primary,2021,10,Oct-21,3
+Non-Mood Psychotic Disorders,Inpatient Discharges,Primary,2021,11,Nov-21,2
+Non-Mood Psychotic Disorders,Inpatient Discharges,Primary,2021,12,Dec-21,3
+Nonpsychotic Disorders (Excluding Anxiety),Inpatient Discharges,Primary,2021,2,Feb-21,1
+Nonpsychotic Disorders (Excluding Anxiety),Inpatient Discharges,Primary,2021,10,Oct-21,1
+Nonpsychotic Disorders (Excluding Anxiety),Inpatient Discharges,Primary,2021,12,Dec-21,1
+Obesity,Inpatient Discharges,Primary,2020,2,Feb-20,1
+Obesity,Inpatient Discharges,Primary,2020,5,May-20,1
+Obesity,Inpatient Discharges,Primary,2020,6,Jun-20,3
+Obesity,Inpatient Discharges,Primary,2020,7,Jul-20,2
+Obesity,Inpatient Discharges,Primary,2020,9,Sep-20,1
+Obesity,Inpatient Discharges,Primary,2020,10,Oct-20,1
+Obesity,Inpatient Discharges,Primary,2020,11,Nov-20,1
+Obesity,Inpatient Discharges,Primary,2020,12,Dec-20,2
+Obesity,Inpatient Discharges,Primary,2021,2,Feb-21,1
+Obesity,Inpatient Discharges,Primary,2021,4,Apr-21,1
+Obesity,Inpatient Discharges,Primary,2021,5,May-21,2
+Obesity,Inpatient Discharges,Primary,2021,7,Jul-21,1
+Obesity,Inpatient Discharges,Primary,2021,8,Aug-21,1
+Obesity,Inpatient Discharges,Primary,2021,11,Nov-21,4
+Obesity,Inpatient Discharges,Primary,2021,12,Dec-21,1
+Pneumonia,Inpatient Discharges,Primary,2020,1,Jan-20,328
+Pneumonia,Inpatient Discharges,Primary,2020,2,Feb-20,301
+Pneumonia,Inpatient Discharges,Primary,2020,3,Mar-20,411
+Pneumonia,Inpatient Discharges,Primary,2020,4,Apr-20,222
+Pneumonia,Inpatient Discharges,Primary,2020,5,May-20,190
+Pneumonia,Inpatient Discharges,Primary,2020,6,Jun-20,181
+Pneumonia,Inpatient Discharges,Primary,2020,7,Jul-20,202
+Pneumonia,Inpatient Discharges,Primary,2020,8,Aug-20,169
+Pneumonia,Inpatient Discharges,Primary,2020,9,Sep-20,187
+Pneumonia,Inpatient Discharges,Primary,2020,10,Oct-20,195
+Pneumonia,Inpatient Discharges,Primary,2020,11,Nov-20,200
+Pneumonia,Inpatient Discharges,Primary,2020,12,Dec-20,239
+Pneumonia,Inpatient Discharges,Primary,2021,1,Jan-21,254
+Pneumonia,Inpatient Discharges,Primary,2021,2,Feb-21,198
+Pneumonia,Inpatient Discharges,Primary,2021,3,Mar-21,218
+Pneumonia,Inpatient Discharges,Primary,2021,4,Apr-21,195
+Pneumonia,Inpatient Discharges,Primary,2021,5,May-21,213
+Pneumonia,Inpatient Discharges,Primary,2021,6,Jun-21,196
+Pneumonia,Inpatient Discharges,Primary,2021,7,Jul-21,181
+Pneumonia,Inpatient Discharges,Primary,2021,8,Aug-21,213
+Pneumonia,Inpatient Discharges,Primary,2021,9,Sep-21,192
+Pneumonia,Inpatient Discharges,Primary,2021,10,Oct-21,224
+Pneumonia,Inpatient Discharges,Primary,2021,11,Nov-21,221
+Pneumonia,Inpatient Discharges,Primary,2021,12,Dec-21,302
+Respiratory Arrest/Failure,Inpatient Discharges,Primary,2020,1,Jan-20,519
+Respiratory Arrest/Failure,Inpatient Discharges,Primary,2020,2,Feb-20,497
+Respiratory Arrest/Failure,Inpatient Discharges,Primary,2020,3,Mar-20,514
+Respiratory Arrest/Failure,Inpatient Discharges,Primary,2020,4,Apr-20,406
+Respiratory Arrest/Failure,Inpatient Discharges,Primary,2020,5,May-20,345
+Respiratory Arrest/Failure,Inpatient Discharges,Primary,2020,6,Jun-20,362
+Respiratory Arrest/Failure,Inpatient Discharges,Primary,2020,7,Jul-20,371
+Respiratory Arrest/Failure,Inpatient Discharges,Primary,2020,8,Aug-20,347
+Respiratory Arrest/Failure,Inpatient Discharges,Primary,2020,9,Sep-20,339
+Respiratory Arrest/Failure,Inpatient Discharges,Primary,2020,10,Oct-20,340
+Respiratory Arrest/Failure,Inpatient Discharges,Primary,2020,11,Nov-20,372
+Respiratory Arrest/Failure,Inpatient Discharges,Primary,2020,12,Dec-20,418
+Respiratory Arrest/Failure,Inpatient Discharges,Primary,2021,1,Jan-21,468
+Respiratory Arrest/Failure,Inpatient Discharges,Primary,2021,2,Feb-21,429
+Respiratory Arrest/Failure,Inpatient Discharges,Primary,2021,3,Mar-21,472
+Respiratory Arrest/Failure,Inpatient Discharges,Primary,2021,4,Apr-21,382
+Respiratory Arrest/Failure,Inpatient Discharges,Primary,2021,5,May-21,384
+Respiratory Arrest/Failure,Inpatient Discharges,Primary,2021,6,Jun-21,403
+Respiratory Arrest/Failure,Inpatient Discharges,Primary,2021,7,Jul-21,348
+Respiratory Arrest/Failure,Inpatient Discharges,Primary,2021,8,Aug-21,379
+Respiratory Arrest/Failure,Inpatient Discharges,Primary,2021,9,Sep-21,350
+Respiratory Arrest/Failure,Inpatient Discharges,Primary,2021,10,Oct-21,401
+Respiratory Arrest/Failure,Inpatient Discharges,Primary,2021,11,Nov-21,434
+Respiratory Arrest/Failure,Inpatient Discharges,Primary,2021,12,Dec-21,462
+Sepsis,Inpatient Discharges,Primary,2020,1,Jan-20,2903
+Sepsis,Inpatient Discharges,Primary,2020,2,Feb-20,2533
+Sepsis,Inpatient Discharges,Primary,2020,3,Mar-20,2747
+Sepsis,Inpatient Discharges,Primary,2020,4,Apr-20,3035
+Sepsis,Inpatient Discharges,Primary,2020,5,May-20,2784
+Sepsis,Inpatient Discharges,Primary,2020,6,Jun-20,2549
+Sepsis,Inpatient Discharges,Primary,2020,7,Jul-20,3290
+Sepsis,Inpatient Discharges,Primary,2020,8,Aug-20,3154
+Sepsis,Inpatient Discharges,Primary,2020,9,Sep-20,2537
+Sepsis,Inpatient Discharges,Primary,2020,10,Oct-20,2437
+Sepsis,Inpatient Discharges,Primary,2020,11,Nov-20,2910
+Sepsis,Inpatient Discharges,Primary,2020,12,Dec-20,6156
+Sepsis,Inpatient Discharges,Primary,2021,1,Jan-21,8590
+Sepsis,Inpatient Discharges,Primary,2021,2,Feb-21,4470
+Sepsis,Inpatient Discharges,Primary,2021,3,Mar-21,2954
+Sepsis,Inpatient Discharges,Primary,2021,4,Apr-21,2209
+Sepsis,Inpatient Discharges,Primary,2021,5,May-21,2119
+Sepsis,Inpatient Discharges,Primary,2021,6,Jun-21,1973
+Sepsis,Inpatient Discharges,Primary,2021,7,Jul-21,2230
+Sepsis,Inpatient Discharges,Primary,2021,8,Aug-21,3125
+Sepsis,Inpatient Discharges,Primary,2021,9,Sep-21,3348
+Sepsis,Inpatient Discharges,Primary,2021,10,Oct-21,2998
+Sepsis,Inpatient Discharges,Primary,2021,11,Nov-21,2975
+Sepsis,Inpatient Discharges,Primary,2021,12,Dec-21,3183
+Stroke,Inpatient Discharges,Primary,2020,1,Jan-20,242
+Stroke,Inpatient Discharges,Primary,2020,2,Feb-20,206
+Stroke,Inpatient Discharges,Primary,2020,3,Mar-20,218
+Stroke,Inpatient Discharges,Primary,2020,4,Apr-20,173
+Stroke,Inpatient Discharges,Primary,2020,5,May-20,143
+Stroke,Inpatient Discharges,Primary,2020,6,Jun-20,209
+Stroke,Inpatient Discharges,Primary,2020,7,Jul-20,173
+Stroke,Inpatient Discharges,Primary,2020,8,Aug-20,179
+Stroke,Inpatient Discharges,Primary,2020,9,Sep-20,180
+Stroke,Inpatient Discharges,Primary,2020,10,Oct-20,153
+Stroke,Inpatient Discharges,Primary,2020,11,Nov-20,182
+Stroke,Inpatient Discharges,Primary,2020,12,Dec-20,220
+Stroke,Inpatient Discharges,Primary,2021,1,Jan-21,304
+Stroke,Inpatient Discharges,Primary,2021,2,Feb-21,201
+Stroke,Inpatient Discharges,Primary,2021,3,Mar-21,210
+Stroke,Inpatient Discharges,Primary,2021,4,Apr-21,181
+Stroke,Inpatient Discharges,Primary,2021,5,May-21,187
+Stroke,Inpatient Discharges,Primary,2021,6,Jun-21,197
+Stroke,Inpatient Discharges,Primary,2021,7,Jul-21,217
+Stroke,Inpatient Discharges,Primary,2021,8,Aug-21,205
+Stroke,Inpatient Discharges,Primary,2021,9,Sep-21,191
+Stroke,Inpatient Discharges,Primary,2021,10,Oct-21,219
+Stroke,Inpatient Discharges,Primary,2021,11,Nov-21,191
+Stroke,Inpatient Discharges,Primary,2021,12,Dec-21,230
+Substance Use Disorders,Inpatient Discharges,Primary,2020,1,Jan-20,7
+Substance Use Disorders,Inpatient Discharges,Primary,2020,2,Feb-20,6
+Substance Use Disorders,Inpatient Discharges,Primary,2020,3,Mar-20,5
+Substance Use Disorders,Inpatient Discharges,Primary,2020,4,Apr-20,4
+Substance Use Disorders,Inpatient Discharges,Primary,2020,5,May-20,5
+Substance Use Disorders,Inpatient Discharges,Primary,2020,6,Jun-20,10
+Substance Use Disorders,Inpatient Discharges,Primary,2020,7,Jul-20,6
+Substance Use Disorders,Inpatient Discharges,Primary,2020,8,Aug-20,7
+Substance Use Disorders,Inpatient Discharges,Primary,2020,9,Sep-20,5
+Substance Use Disorders,Inpatient Discharges,Primary,2020,10,Oct-20,6
+Substance Use Disorders,Inpatient Discharges,Primary,2020,11,Nov-20,5
+Substance Use Disorders,Inpatient Discharges,Primary,2020,12,Dec-20,11
+Substance Use Disorders,Inpatient Discharges,Primary,2021,1,Jan-21,14
+Substance Use Disorders,Inpatient Discharges,Primary,2021,2,Feb-21,8
+Substance Use Disorders,Inpatient Discharges,Primary,2021,3,Mar-21,7
+Substance Use Disorders,Inpatient Discharges,Primary,2021,4,Apr-21,7
+Substance Use Disorders,Inpatient Discharges,Primary,2021,5,May-21,13
+Substance Use Disorders,Inpatient Discharges,Primary,2021,6,Jun-21,6
+Substance Use Disorders,Inpatient Discharges,Primary,2021,7,Jul-21,10
+Substance Use Disorders,Inpatient Discharges,Primary,2021,8,Aug-21,7
+Substance Use Disorders,Inpatient Discharges,Primary,2021,9,Sep-21,14
+Substance Use Disorders,Inpatient Discharges,Primary,2021,10,Oct-21,12
+Substance Use Disorders,Inpatient Discharges,Primary,2021,11,Nov-21,11
+Substance Use Disorders,Inpatient Discharges,Primary,2021,12,Dec-21,10
+Unspecified Mental Disorders,Inpatient Discharges,Primary,2021,1,Jan-21,1
+Unspecified Mental Disorders,Inpatient Discharges,Primary,2021,8,Aug-21,1
+Anxiety,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,1,Jan-20,678
+Anxiety,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,2,Feb-20,660
+Anxiety,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,3,Mar-20,621
+Anxiety,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,4,Apr-20,470
+Anxiety,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,5,May-20,450
+Anxiety,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,6,Jun-20,469
+Anxiety,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,7,Jul-20,569
+Anxiety,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,8,Aug-20,521
+Anxiety,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,9,Sep-20,490
+Anxiety,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,10,Oct-20,501
+Anxiety,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,11,Nov-20,625
+Anxiety,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,12,Dec-20,926
+Anxiety,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,1,Jan-21,1090
+Anxiety,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,2,Feb-21,752
+Anxiety,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,3,Mar-21,647
+Anxiety,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,4,Apr-21,537
+Anxiety,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,5,May-21,567
+Anxiety,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,6,Jun-21,570
+Anxiety,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,7,Jul-21,557
+Anxiety,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,8,Aug-21,670
+Anxiety,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,9,Sep-21,724
+Anxiety,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,10,Oct-21,673
+Anxiety,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,11,Nov-21,656
+Anxiety,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,12,Dec-21,716
+Asthma,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,1,Jan-20,296
+Asthma,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,2,Feb-20,287
+Asthma,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,3,Mar-20,286
+Asthma,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,4,Apr-20,264
+Asthma,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,5,May-20,228
+Asthma,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,6,Jun-20,240
+Asthma,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,7,Jul-20,322
+Asthma,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,8,Aug-20,294
+Asthma,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,9,Sep-20,223
+Asthma,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,10,Oct-20,246
+Asthma,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,11,Nov-20,262
+Asthma,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,12,Dec-20,451
+Asthma,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,1,Jan-21,579
+Asthma,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,2,Feb-21,353
+Asthma,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,3,Mar-21,277
+Asthma,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,4,Apr-21,265
+Asthma,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,5,May-21,235
+Asthma,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,6,Jun-21,263
+Asthma,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,7,Jul-21,222
+Asthma,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,8,Aug-21,292
+Asthma,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,9,Sep-21,349
+Asthma,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,10,Oct-21,322
+Asthma,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,11,Nov-21,294
+Asthma,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,12,Dec-21,322
+Behavioral Syndromes,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,1,Jan-20,12
+Behavioral Syndromes,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,2,Feb-20,11
+Behavioral Syndromes,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,3,Mar-20,11
+Behavioral Syndromes,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,4,Apr-20,8
+Behavioral Syndromes,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,5,May-20,7
+Behavioral Syndromes,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,6,Jun-20,4
+Behavioral Syndromes,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,7,Jul-20,9
+Behavioral Syndromes,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,8,Aug-20,8
+Behavioral Syndromes,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,9,Sep-20,11
+Behavioral Syndromes,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,10,Oct-20,10
+Behavioral Syndromes,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,11,Nov-20,4
+Behavioral Syndromes,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,12,Dec-20,10
+Behavioral Syndromes,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,1,Jan-21,10
+Behavioral Syndromes,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,2,Feb-21,8
+Behavioral Syndromes,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,3,Mar-21,8
+Behavioral Syndromes,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,4,Apr-21,9
+Behavioral Syndromes,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,5,May-21,9
+Behavioral Syndromes,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,6,Jun-21,7
+Behavioral Syndromes,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,7,Jul-21,6
+Behavioral Syndromes,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,8,Aug-21,6
+Behavioral Syndromes,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,9,Sep-21,9
+Behavioral Syndromes,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,10,Oct-21,7
+Behavioral Syndromes,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,11,Nov-21,11
+Behavioral Syndromes,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,12,Dec-21,10
+Cancer,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,1,Jan-20,1671
+Cancer,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,2,Feb-20,1490
+Cancer,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,3,Mar-20,1480
+Cancer,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,4,Apr-20,1095
+Cancer,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,5,May-20,1116
+Cancer,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,6,Jun-20,1118
+Cancer,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,7,Jul-20,1160
+Cancer,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,8,Aug-20,1216
+Cancer,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,9,Sep-20,1220
+Cancer,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,10,Oct-20,1251
+Cancer,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,11,Nov-20,1288
+Cancer,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,12,Dec-20,1474
+Cancer,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,1,Jan-21,1587
+Cancer,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,2,Feb-21,1243
+Cancer,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,3,Mar-21,1317
+Cancer,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,4,Apr-21,1179
+Cancer,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,5,May-21,1250
+Cancer,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,6,Jun-21,1291
+Cancer,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,7,Jul-21,1284
+Cancer,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,8,Aug-21,1387
+Cancer,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,9,Sep-21,1343
+Cancer,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,10,Oct-21,1433
+Cancer,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,11,Nov-21,1399
+Cancer,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,12,Dec-21,1460
+Cardiac Arrest,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,1,Jan-20,1446
+Cardiac Arrest,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,2,Feb-20,1241
+Cardiac Arrest,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,3,Mar-20,1320
+Cardiac Arrest,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,4,Apr-20,1284
+Cardiac Arrest,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,5,May-20,1239
+Cardiac Arrest,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,6,Jun-20,1191
+Cardiac Arrest,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,7,Jul-20,1547
+Cardiac Arrest,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,8,Aug-20,1424
+Cardiac Arrest,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,9,Sep-20,1296
+Cardiac Arrest,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,10,Oct-20,1416
+Cardiac Arrest,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,11,Nov-20,1650
+Cardiac Arrest,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,12,Dec-20,2756
+Cardiac Arrest,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,1,Jan-21,3455
+Cardiac Arrest,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,2,Feb-21,2161
+Cardiac Arrest,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,3,Mar-21,1789
+Cardiac Arrest,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,4,Apr-21,1381
+Cardiac Arrest,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,5,May-21,1468
+Cardiac Arrest,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,6,Jun-21,1367
+Cardiac Arrest,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,7,Jul-21,1434
+Cardiac Arrest,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,8,Aug-21,1720
+Cardiac Arrest,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,9,Sep-21,1876
+Cardiac Arrest,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,10,Oct-21,1785
+Cardiac Arrest,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,11,Nov-21,1705
+Cardiac Arrest,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,12,Dec-21,2006
+Chronic Obstructive Pulmonary Disease (COPD),Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,1,Jan-20,697
+Chronic Obstructive Pulmonary Disease (COPD),Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,2,Feb-20,653
+Chronic Obstructive Pulmonary Disease (COPD),Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,3,Mar-20,592
+Chronic Obstructive Pulmonary Disease (COPD),Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,4,Apr-20,505
+Chronic Obstructive Pulmonary Disease (COPD),Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,5,May-20,517
+Chronic Obstructive Pulmonary Disease (COPD),Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,6,Jun-20,474
+Chronic Obstructive Pulmonary Disease (COPD),Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,7,Jul-20,554
+Chronic Obstructive Pulmonary Disease (COPD),Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,8,Aug-20,440
+Chronic Obstructive Pulmonary Disease (COPD),Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,9,Sep-20,431
+Chronic Obstructive Pulmonary Disease (COPD),Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,10,Oct-20,461
+Chronic Obstructive Pulmonary Disease (COPD),Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,11,Nov-20,591
+Chronic Obstructive Pulmonary Disease (COPD),Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,12,Dec-20,604
+Chronic Obstructive Pulmonary Disease (COPD),Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,1,Jan-21,649
+Chronic Obstructive Pulmonary Disease (COPD),Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,2,Feb-21,512
+Chronic Obstructive Pulmonary Disease (COPD),Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,3,Mar-21,555
+Chronic Obstructive Pulmonary Disease (COPD),Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,4,Apr-21,516
+Chronic Obstructive Pulmonary Disease (COPD),Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,5,May-21,457
+Chronic Obstructive Pulmonary Disease (COPD),Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,6,Jun-21,467
+Chronic Obstructive Pulmonary Disease (COPD),Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,7,Jul-21,475
+Chronic Obstructive Pulmonary Disease (COPD),Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,8,Aug-21,511
+Chronic Obstructive Pulmonary Disease (COPD),Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,9,Sep-21,485
+Chronic Obstructive Pulmonary Disease (COPD),Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,10,Oct-21,550
+Chronic Obstructive Pulmonary Disease (COPD),Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,11,Nov-21,528
+Chronic Obstructive Pulmonary Disease (COPD),Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,12,Dec-21,614
+Depression,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,1,Jan-20,651
+Depression,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,2,Feb-20,630
+Depression,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,3,Mar-20,588
+Depression,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,4,Apr-20,548
+Depression,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,5,May-20,538
+Depression,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,6,Jun-20,529
+Depression,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,7,Jul-20,571
+Depression,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,8,Aug-20,533
+Depression,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,9,Sep-20,519
+Depression,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,10,Oct-20,551
+Depression,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,11,Nov-20,593
+Depression,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,12,Dec-20,909
+Depression,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,1,Jan-21,953
+Depression,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,2,Feb-21,637
+Depression,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,3,Mar-21,634
+Depression,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,4,Apr-21,522
+Depression,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,5,May-21,531
+Depression,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,6,Jun-21,495
+Depression,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,7,Jul-21,536
+Depression,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,8,Aug-21,588
+Depression,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,9,Sep-21,623
+Depression,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,10,Oct-21,567
+Depression,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,11,Nov-21,525
+Depression,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,12,Dec-21,583
+Diabetes,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,1,Jan-20,3129
+Diabetes,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,2,Feb-20,2820
+Diabetes,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,3,Mar-20,2882
+Diabetes,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,4,Apr-20,2721
+Diabetes,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,5,May-20,2587
+Diabetes,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,6,Jun-20,2510
+Diabetes,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,7,Jul-20,2970
+Diabetes,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,8,Aug-20,2926
+Diabetes,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,9,Sep-20,2473
+Diabetes,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,10,Oct-20,2498
+Diabetes,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,11,Nov-20,2833
+Diabetes,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,12,Dec-20,5064
+Diabetes,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,1,Jan-21,6758
+Diabetes,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,2,Feb-21,3947
+Diabetes,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,3,Mar-21,3209
+Diabetes,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,4,Apr-21,2494
+Diabetes,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,5,May-21,2471
+Diabetes,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,6,Jun-21,2306
+Diabetes,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,7,Jul-21,2355
+Diabetes,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,8,Aug-21,2901
+Diabetes,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,9,Sep-21,2966
+Diabetes,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,10,Oct-21,2959
+Diabetes,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,11,Nov-21,2858
+Diabetes,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,12,Dec-21,3348
+Hypertension,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,1,Jan-20,5010
+Hypertension,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,2,Feb-20,4557
+Hypertension,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,3,Mar-20,4696
+Hypertension,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,4,Apr-20,4248
+Hypertension,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,5,May-20,4009
+Hypertension,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,6,Jun-20,3852
+Hypertension,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,7,Jul-20,4439
+Hypertension,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,8,Aug-20,4286
+Hypertension,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,9,Sep-20,3803
+Hypertension,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,10,Oct-20,3784
+Hypertension,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,11,Nov-20,4392
+Hypertension,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,12,Dec-20,7202
+Hypertension,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,1,Jan-21,9152
+Hypertension,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,2,Feb-21,5521
+Hypertension,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,3,Mar-21,4671
+Hypertension,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,4,Apr-21,3814
+Hypertension,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,5,May-21,3821
+Hypertension,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,6,Jun-21,3545
+Hypertension,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,7,Jul-21,3885
+Hypertension,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,8,Aug-21,4459
+Hypertension,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,9,Sep-21,4487
+Hypertension,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,10,Oct-21,4570
+Hypertension,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,11,Nov-21,4546
+Hypertension,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,12,Dec-21,5091
+Mood Disorders (Excluding Depression),Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,1,Jan-20,106
+Mood Disorders (Excluding Depression),Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,2,Feb-20,117
+Mood Disorders (Excluding Depression),Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,3,Mar-20,130
+Mood Disorders (Excluding Depression),Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,4,Apr-20,110
+Mood Disorders (Excluding Depression),Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,5,May-20,104
+Mood Disorders (Excluding Depression),Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,6,Jun-20,107
+Mood Disorders (Excluding Depression),Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,7,Jul-20,101
+Mood Disorders (Excluding Depression),Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,8,Aug-20,88
+Mood Disorders (Excluding Depression),Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,9,Sep-20,88
+Mood Disorders (Excluding Depression),Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,10,Oct-20,112
+Mood Disorders (Excluding Depression),Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,11,Nov-20,103
+Mood Disorders (Excluding Depression),Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,12,Dec-20,125
+Mood Disorders (Excluding Depression),Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,1,Jan-21,182
+Mood Disorders (Excluding Depression),Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,2,Feb-21,133
+Mood Disorders (Excluding Depression),Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,3,Mar-21,113
+Mood Disorders (Excluding Depression),Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,4,Apr-21,93
+Mood Disorders (Excluding Depression),Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,5,May-21,100
+Mood Disorders (Excluding Depression),Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,6,Jun-21,94
+Mood Disorders (Excluding Depression),Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,7,Jul-21,89
+Mood Disorders (Excluding Depression),Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,8,Aug-21,117
+Mood Disorders (Excluding Depression),Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,9,Sep-21,108
+Mood Disorders (Excluding Depression),Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,10,Oct-21,106
+Mood Disorders (Excluding Depression),Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,11,Nov-21,98
+Mood Disorders (Excluding Depression),Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,12,Dec-21,122
+Non-Mood Psychotic Disorders,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,1,Jan-20,139
+Non-Mood Psychotic Disorders,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,2,Feb-20,152
+Non-Mood Psychotic Disorders,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,3,Mar-20,183
+Non-Mood Psychotic Disorders,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,4,Apr-20,163
+Non-Mood Psychotic Disorders,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,5,May-20,150
+Non-Mood Psychotic Disorders,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,6,Jun-20,145
+Non-Mood Psychotic Disorders,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,7,Jul-20,154
+Non-Mood Psychotic Disorders,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,8,Aug-20,165
+Non-Mood Psychotic Disorders,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,9,Sep-20,120
+Non-Mood Psychotic Disorders,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,10,Oct-20,121
+Non-Mood Psychotic Disorders,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,11,Nov-20,167
+Non-Mood Psychotic Disorders,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,12,Dec-20,229
+Non-Mood Psychotic Disorders,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,1,Jan-21,305
+Non-Mood Psychotic Disorders,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,2,Feb-21,163
+Non-Mood Psychotic Disorders,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,3,Mar-21,164
+Non-Mood Psychotic Disorders,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,4,Apr-21,142
+Non-Mood Psychotic Disorders,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,5,May-21,110
+Non-Mood Psychotic Disorders,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,6,Jun-21,129
+Non-Mood Psychotic Disorders,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,7,Jul-21,112
+Non-Mood Psychotic Disorders,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,8,Aug-21,160
+Non-Mood Psychotic Disorders,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,9,Sep-21,158
+Non-Mood Psychotic Disorders,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,10,Oct-21,147
+Non-Mood Psychotic Disorders,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,11,Nov-21,156
+Non-Mood Psychotic Disorders,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,12,Dec-21,179
+Nonpsychotic Disorders (Excluding Anxiety),Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,1,Jan-20,15
+Nonpsychotic Disorders (Excluding Anxiety),Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,2,Feb-20,20
+Nonpsychotic Disorders (Excluding Anxiety),Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,3,Mar-20,13
+Nonpsychotic Disorders (Excluding Anxiety),Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,4,Apr-20,11
+Nonpsychotic Disorders (Excluding Anxiety),Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,5,May-20,15
+Nonpsychotic Disorders (Excluding Anxiety),Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,6,Jun-20,11
+Nonpsychotic Disorders (Excluding Anxiety),Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,7,Jul-20,7
+Nonpsychotic Disorders (Excluding Anxiety),Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,8,Aug-20,12
+Nonpsychotic Disorders (Excluding Anxiety),Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,9,Sep-20,7
+Nonpsychotic Disorders (Excluding Anxiety),Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,10,Oct-20,7
+Nonpsychotic Disorders (Excluding Anxiety),Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,11,Nov-20,12
+Nonpsychotic Disorders (Excluding Anxiety),Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,12,Dec-20,26
+Nonpsychotic Disorders (Excluding Anxiety),Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,1,Jan-21,15
+Nonpsychotic Disorders (Excluding Anxiety),Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,2,Feb-21,15
+Nonpsychotic Disorders (Excluding Anxiety),Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,3,Mar-21,9
+Nonpsychotic Disorders (Excluding Anxiety),Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,4,Apr-21,17
+Nonpsychotic Disorders (Excluding Anxiety),Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,5,May-21,8
+Nonpsychotic Disorders (Excluding Anxiety),Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,6,Jun-21,10
+Nonpsychotic Disorders (Excluding Anxiety),Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,7,Jul-21,14
+Nonpsychotic Disorders (Excluding Anxiety),Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,8,Aug-21,9
+Nonpsychotic Disorders (Excluding Anxiety),Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,9,Sep-21,13
+Nonpsychotic Disorders (Excluding Anxiety),Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,10,Oct-21,7
+Nonpsychotic Disorders (Excluding Anxiety),Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,11,Nov-21,16
+Nonpsychotic Disorders (Excluding Anxiety),Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,12,Dec-21,15
+Obesity,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,1,Jan-20,875
+Obesity,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,2,Feb-20,791
+Obesity,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,3,Mar-20,794
+Obesity,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,4,Apr-20,775
+Obesity,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,5,May-20,697
+Obesity,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,6,Jun-20,723
+Obesity,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,7,Jul-20,1004
+Obesity,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,8,Aug-20,1027
+Obesity,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,9,Sep-20,767
+Obesity,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,10,Oct-20,757
+Obesity,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,11,Nov-20,927
+Obesity,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,12,Dec-20,1793
+Obesity,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,1,Jan-21,2624
+Obesity,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,2,Feb-21,1466
+Obesity,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,3,Mar-21,1079
+Obesity,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,4,Apr-21,748
+Obesity,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,5,May-21,786
+Obesity,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,6,Jun-21,731
+Obesity,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,7,Jul-21,763
+Obesity,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,8,Aug-21,1090
+Obesity,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,9,Sep-21,1200
+Obesity,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,10,Oct-21,1045
+Obesity,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,11,Nov-21,991
+Obesity,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,12,Dec-21,1057
+Pneumonia,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,1,Jan-20,3472
+Pneumonia,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,2,Feb-20,3235
+Pneumonia,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,3,Mar-20,3466
+Pneumonia,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,4,Apr-20,3404
+Pneumonia,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,5,May-20,3136
+Pneumonia,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,6,Jun-20,2898
+Pneumonia,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,7,Jul-20,3723
+Pneumonia,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,8,Aug-20,3581
+Pneumonia,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,9,Sep-20,2964
+Pneumonia,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,10,Oct-20,2839
+Pneumonia,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,11,Nov-20,3426
+Pneumonia,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,12,Dec-20,6920
+Pneumonia,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,1,Jan-21,9470
+Pneumonia,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,2,Feb-21,5111
+Pneumonia,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,3,Mar-21,3456
+Pneumonia,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,4,Apr-21,2674
+Pneumonia,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,5,May-21,2589
+Pneumonia,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,6,Jun-21,2440
+Pneumonia,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,7,Jul-21,2694
+Pneumonia,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,8,Aug-21,3639
+Pneumonia,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,9,Sep-21,3800
+Pneumonia,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,10,Oct-21,3539
+Pneumonia,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,11,Nov-21,3508
+Pneumonia,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,12,Dec-21,3810
+Respiratory Arrest/Failure,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,1,Jan-20,5267
+Respiratory Arrest/Failure,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,2,Feb-20,4836
+Respiratory Arrest/Failure,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,3,Mar-20,4902
+Respiratory Arrest/Failure,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,4,Apr-20,4434
+Respiratory Arrest/Failure,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,5,May-20,4217
+Respiratory Arrest/Failure,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,6,Jun-20,4018
+Respiratory Arrest/Failure,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,7,Jul-20,4754
+Respiratory Arrest/Failure,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,8,Aug-20,4608
+Respiratory Arrest/Failure,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,9,Sep-20,4103
+Respiratory Arrest/Failure,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,10,Oct-20,4161
+Respiratory Arrest/Failure,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,11,Nov-20,4605
+Respiratory Arrest/Failure,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,12,Dec-20,7461
+Respiratory Arrest/Failure,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,1,Jan-21,8871
+Respiratory Arrest/Failure,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,2,Feb-21,5447
+Respiratory Arrest/Failure,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,3,Mar-21,4728
+Respiratory Arrest/Failure,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,4,Apr-21,4015
+Respiratory Arrest/Failure,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,5,May-21,4014
+Respiratory Arrest/Failure,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,6,Jun-21,3831
+Respiratory Arrest/Failure,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,7,Jul-21,4056
+Respiratory Arrest/Failure,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,8,Aug-21,4627
+Respiratory Arrest/Failure,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,9,Sep-21,4695
+Respiratory Arrest/Failure,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,10,Oct-21,4731
+Respiratory Arrest/Failure,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,11,Nov-21,4619
+Respiratory Arrest/Failure,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,12,Dec-21,5237
+Sepsis,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,1,Jan-20,3535
+Sepsis,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,2,Feb-20,3141
+Sepsis,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,3,Mar-20,3315
+Sepsis,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,4,Apr-20,3228
+Sepsis,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,5,May-20,3031
+Sepsis,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,6,Jun-20,2856
+Sepsis,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,7,Jul-20,3503
+Sepsis,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,8,Aug-20,3448
+Sepsis,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,9,Sep-20,2938
+Sepsis,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,10,Oct-20,2900
+Sepsis,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,11,Nov-20,3357
+Sepsis,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,12,Dec-20,5705
+Sepsis,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,1,Jan-21,7662
+Sepsis,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,2,Feb-21,4589
+Sepsis,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,3,Mar-21,3519
+Sepsis,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,4,Apr-21,2727
+Sepsis,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,5,May-21,2702
+Sepsis,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,6,Jun-21,2467
+Sepsis,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,7,Jul-21,2768
+Sepsis,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,8,Aug-21,3470
+Sepsis,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,9,Sep-21,3637
+Sepsis,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,10,Oct-21,3472
+Sepsis,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,11,Nov-21,3461
+Sepsis,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,12,Dec-21,3720
+Stroke,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,1,Jan-20,320
+Stroke,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,2,Feb-20,294
+Stroke,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,3,Mar-20,274
+Stroke,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,4,Apr-20,250
+Stroke,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,5,May-20,249
+Stroke,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,6,Jun-20,261
+Stroke,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,7,Jul-20,274
+Stroke,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,8,Aug-20,304
+Stroke,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,9,Sep-20,266
+Stroke,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,10,Oct-20,271
+Stroke,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,11,Nov-20,293
+Stroke,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,12,Dec-20,385
+Stroke,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,1,Jan-21,520
+Stroke,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,2,Feb-21,374
+Stroke,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,3,Mar-21,339
+Stroke,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,4,Apr-21,277
+Stroke,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,5,May-21,293
+Stroke,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,6,Jun-21,250
+Stroke,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,7,Jul-21,266
+Stroke,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,8,Aug-21,307
+Stroke,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,9,Sep-21,303
+Stroke,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,10,Oct-21,294
+Stroke,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,11,Nov-21,293
+Stroke,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,12,Dec-21,341
+Substance Use Disorders,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,1,Jan-20,1182
+Substance Use Disorders,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,2,Feb-20,1033
+Substance Use Disorders,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,3,Mar-20,1079
+Substance Use Disorders,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,4,Apr-20,865
+Substance Use Disorders,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,5,May-20,856
+Substance Use Disorders,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,6,Jun-20,864
+Substance Use Disorders,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,7,Jul-20,1028
+Substance Use Disorders,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,8,Aug-20,959
+Substance Use Disorders,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,9,Sep-20,915
+Substance Use Disorders,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,10,Oct-20,942
+Substance Use Disorders,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,11,Nov-20,1068
+Substance Use Disorders,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,12,Dec-20,1276
+Substance Use Disorders,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,1,Jan-21,1516
+Substance Use Disorders,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,2,Feb-21,1139
+Substance Use Disorders,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,3,Mar-21,1111
+Substance Use Disorders,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,4,Apr-21,971
+Substance Use Disorders,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,5,May-21,970
+Substance Use Disorders,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,6,Jun-21,943
+Substance Use Disorders,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,7,Jul-21,995
+Substance Use Disorders,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,8,Aug-21,1067
+Substance Use Disorders,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,9,Sep-21,1130
+Substance Use Disorders,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,10,Oct-21,1163
+Substance Use Disorders,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,11,Nov-21,1085
+Substance Use Disorders,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,12,Dec-21,1267
+Unspecified Mental Disorders,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,1,Jan-20,19
+Unspecified Mental Disorders,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,2,Feb-20,15
+Unspecified Mental Disorders,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,3,Mar-20,20
+Unspecified Mental Disorders,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,4,Apr-20,14
+Unspecified Mental Disorders,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,5,May-20,12
+Unspecified Mental Disorders,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,6,Jun-20,15
+Unspecified Mental Disorders,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,7,Jul-20,19
+Unspecified Mental Disorders,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,8,Aug-20,24
+Unspecified Mental Disorders,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,9,Sep-20,13
+Unspecified Mental Disorders,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,10,Oct-20,8
+Unspecified Mental Disorders,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,11,Nov-20,14
+Unspecified Mental Disorders,Inpatient Discharges,Secondary (COVID-19 Not Primary),2020,12,Dec-20,15
+Unspecified Mental Disorders,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,1,Jan-21,27
+Unspecified Mental Disorders,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,2,Feb-21,16
+Unspecified Mental Disorders,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,3,Mar-21,11
+Unspecified Mental Disorders,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,4,Apr-21,16
+Unspecified Mental Disorders,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,5,May-21,14
+Unspecified Mental Disorders,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,6,Jun-21,16
+Unspecified Mental Disorders,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,7,Jul-21,8
+Unspecified Mental Disorders,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,8,Aug-21,15
+Unspecified Mental Disorders,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,9,Sep-21,11
+Unspecified Mental Disorders,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,10,Oct-21,21
+Unspecified Mental Disorders,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,11,Nov-21,18
+Unspecified Mental Disorders,Inpatient Discharges,Secondary (COVID-19 Not Primary),2021,12,Dec-21,23
+Anxiety,Inpatient Discharges,Secondary (COVID-19 Primary),2020,4,Apr-20,43
+Anxiety,Inpatient Discharges,Secondary (COVID-19 Primary),2020,5,May-20,55
+Anxiety,Inpatient Discharges,Secondary (COVID-19 Primary),2020,6,Jun-20,70
+Anxiety,Inpatient Discharges,Secondary (COVID-19 Primary),2020,7,Jul-20,120
+Anxiety,Inpatient Discharges,Secondary (COVID-19 Primary),2020,8,Aug-20,156
+Anxiety,Inpatient Discharges,Secondary (COVID-19 Primary),2020,9,Sep-20,83
+Anxiety,Inpatient Discharges,Secondary (COVID-19 Primary),2020,10,Oct-20,69
+Anxiety,Inpatient Discharges,Secondary (COVID-19 Primary),2020,11,Nov-20,109
+Anxiety,Inpatient Discharges,Secondary (COVID-19 Primary),2020,12,Dec-20,480
+Anxiety,Inpatient Discharges,Secondary (COVID-19 Primary),2021,1,Jan-21,911
+Anxiety,Inpatient Discharges,Secondary (COVID-19 Primary),2021,2,Feb-21,420
+Anxiety,Inpatient Discharges,Secondary (COVID-19 Primary),2021,3,Mar-21,113
+Anxiety,Inpatient Discharges,Secondary (COVID-19 Primary),2021,4,Apr-21,36
+Anxiety,Inpatient Discharges,Secondary (COVID-19 Primary),2021,5,May-21,38
+Anxiety,Inpatient Discharges,Secondary (COVID-19 Primary),2021,6,Jun-21,18
+Anxiety,Inpatient Discharges,Secondary (COVID-19 Primary),2021,7,Jul-21,39
+Anxiety,Inpatient Discharges,Secondary (COVID-19 Primary),2021,8,Aug-21,253
+Anxiety,Inpatient Discharges,Secondary (COVID-19 Primary),2021,9,Sep-21,339
+Anxiety,Inpatient Discharges,Secondary (COVID-19 Primary),2021,10,Oct-21,224
+Anxiety,Inpatient Discharges,Secondary (COVID-19 Primary),2021,11,Nov-21,193
+Anxiety,Inpatient Discharges,Secondary (COVID-19 Primary),2021,12,Dec-21,171
+Asthma,Inpatient Discharges,Secondary (COVID-19 Primary),2020,4,Apr-20,36
+Asthma,Inpatient Discharges,Secondary (COVID-19 Primary),2020,5,May-20,23
+Asthma,Inpatient Discharges,Secondary (COVID-19 Primary),2020,6,Jun-20,37
+Asthma,Inpatient Discharges,Secondary (COVID-19 Primary),2020,7,Jul-20,71
+Asthma,Inpatient Discharges,Secondary (COVID-19 Primary),2020,8,Aug-20,79
+Asthma,Inpatient Discharges,Secondary (COVID-19 Primary),2020,9,Sep-20,46
+Asthma,Inpatient Discharges,Secondary (COVID-19 Primary),2020,10,Oct-20,24
+Asthma,Inpatient Discharges,Secondary (COVID-19 Primary),2020,11,Nov-20,40
+Asthma,Inpatient Discharges,Secondary (COVID-19 Primary),2020,12,Dec-20,261
+Asthma,Inpatient Discharges,Secondary (COVID-19 Primary),2021,1,Jan-21,467
+Asthma,Inpatient Discharges,Secondary (COVID-19 Primary),2021,2,Feb-21,187
+Asthma,Inpatient Discharges,Secondary (COVID-19 Primary),2021,3,Mar-21,56
+Asthma,Inpatient Discharges,Secondary (COVID-19 Primary),2021,4,Apr-21,18
+Asthma,Inpatient Discharges,Secondary (COVID-19 Primary),2021,5,May-21,19
+Asthma,Inpatient Discharges,Secondary (COVID-19 Primary),2021,6,Jun-21,7
+Asthma,Inpatient Discharges,Secondary (COVID-19 Primary),2021,7,Jul-21,16
+Asthma,Inpatient Discharges,Secondary (COVID-19 Primary),2021,8,Aug-21,109
+Asthma,Inpatient Discharges,Secondary (COVID-19 Primary),2021,9,Sep-21,130
+Asthma,Inpatient Discharges,Secondary (COVID-19 Primary),2021,10,Oct-21,94
+Asthma,Inpatient Discharges,Secondary (COVID-19 Primary),2021,11,Nov-21,59
+Asthma,Inpatient Discharges,Secondary (COVID-19 Primary),2021,12,Dec-21,48
+Behavioral Syndromes,Inpatient Discharges,Secondary (COVID-19 Primary),2020,7,Jul-20,3
+Behavioral Syndromes,Inpatient Discharges,Secondary (COVID-19 Primary),2020,8,Aug-20,3
+Behavioral Syndromes,Inpatient Discharges,Secondary (COVID-19 Primary),2020,10,Oct-20,2
+Behavioral Syndromes,Inpatient Discharges,Secondary (COVID-19 Primary),2020,12,Dec-20,3
+Behavioral Syndromes,Inpatient Discharges,Secondary (COVID-19 Primary),2021,1,Jan-21,9
+Behavioral Syndromes,Inpatient Discharges,Secondary (COVID-19 Primary),2021,2,Feb-21,3
+Behavioral Syndromes,Inpatient Discharges,Secondary (COVID-19 Primary),2021,3,Mar-21,1
+Behavioral Syndromes,Inpatient Discharges,Secondary (COVID-19 Primary),2021,8,Aug-21,1
+Behavioral Syndromes,Inpatient Discharges,Secondary (COVID-19 Primary),2021,10,Oct-21,3
+Cancer,Inpatient Discharges,Secondary (COVID-19 Primary),2020,4,Apr-20,26
+Cancer,Inpatient Discharges,Secondary (COVID-19 Primary),2020,5,May-20,36
+Cancer,Inpatient Discharges,Secondary (COVID-19 Primary),2020,6,Jun-20,39
+Cancer,Inpatient Discharges,Secondary (COVID-19 Primary),2020,7,Jul-20,64
+Cancer,Inpatient Discharges,Secondary (COVID-19 Primary),2020,8,Aug-20,63
+Cancer,Inpatient Discharges,Secondary (COVID-19 Primary),2020,9,Sep-20,30
+Cancer,Inpatient Discharges,Secondary (COVID-19 Primary),2020,10,Oct-20,15
+Cancer,Inpatient Discharges,Secondary (COVID-19 Primary),2020,11,Nov-20,64
+Cancer,Inpatient Discharges,Secondary (COVID-19 Primary),2020,12,Dec-20,211
+Cancer,Inpatient Discharges,Secondary (COVID-19 Primary),2021,1,Jan-21,325
+Cancer,Inpatient Discharges,Secondary (COVID-19 Primary),2021,2,Feb-21,146
+Cancer,Inpatient Discharges,Secondary (COVID-19 Primary),2021,3,Mar-21,41
+Cancer,Inpatient Discharges,Secondary (COVID-19 Primary),2021,4,Apr-21,15
+Cancer,Inpatient Discharges,Secondary (COVID-19 Primary),2021,5,May-21,10
+Cancer,Inpatient Discharges,Secondary (COVID-19 Primary),2021,6,Jun-21,6
+Cancer,Inpatient Discharges,Secondary (COVID-19 Primary),2021,7,Jul-21,21
+Cancer,Inpatient Discharges,Secondary (COVID-19 Primary),2021,8,Aug-21,55
+Cancer,Inpatient Discharges,Secondary (COVID-19 Primary),2021,9,Sep-21,90
+Cancer,Inpatient Discharges,Secondary (COVID-19 Primary),2021,10,Oct-21,61
+Cancer,Inpatient Discharges,Secondary (COVID-19 Primary),2021,11,Nov-21,69
+Cancer,Inpatient Discharges,Secondary (COVID-19 Primary),2021,12,Dec-21,49
+Cardiac Arrest,Inpatient Discharges,Secondary (COVID-19 Primary),2020,4,Apr-20,120
+Cardiac Arrest,Inpatient Discharges,Secondary (COVID-19 Primary),2020,5,May-20,141
+Cardiac Arrest,Inpatient Discharges,Secondary (COVID-19 Primary),2020,6,Jun-20,157
+Cardiac Arrest,Inpatient Discharges,Secondary (COVID-19 Primary),2020,7,Jul-20,298
+Cardiac Arrest,Inpatient Discharges,Secondary (COVID-19 Primary),2020,8,Aug-20,280
+Cardiac Arrest,Inpatient Discharges,Secondary (COVID-19 Primary),2020,9,Sep-20,128
+Cardiac Arrest,Inpatient Discharges,Secondary (COVID-19 Primary),2020,10,Oct-20,86
+Cardiac Arrest,Inpatient Discharges,Secondary (COVID-19 Primary),2020,11,Nov-20,179
+Cardiac Arrest,Inpatient Discharges,Secondary (COVID-19 Primary),2020,12,Dec-20,1031
+Cardiac Arrest,Inpatient Discharges,Secondary (COVID-19 Primary),2021,1,Jan-21,1682
+Cardiac Arrest,Inpatient Discharges,Secondary (COVID-19 Primary),2021,2,Feb-21,636
+Cardiac Arrest,Inpatient Discharges,Secondary (COVID-19 Primary),2021,3,Mar-21,167
+Cardiac Arrest,Inpatient Discharges,Secondary (COVID-19 Primary),2021,4,Apr-21,56
+Cardiac Arrest,Inpatient Discharges,Secondary (COVID-19 Primary),2021,5,May-21,40
+Cardiac Arrest,Inpatient Discharges,Secondary (COVID-19 Primary),2021,6,Jun-21,27
+Cardiac Arrest,Inpatient Discharges,Secondary (COVID-19 Primary),2021,7,Jul-21,58
+Cardiac Arrest,Inpatient Discharges,Secondary (COVID-19 Primary),2021,8,Aug-21,356
+Cardiac Arrest,Inpatient Discharges,Secondary (COVID-19 Primary),2021,9,Sep-21,436
+Cardiac Arrest,Inpatient Discharges,Secondary (COVID-19 Primary),2021,10,Oct-21,258
+Cardiac Arrest,Inpatient Discharges,Secondary (COVID-19 Primary),2021,11,Nov-21,210
+Cardiac Arrest,Inpatient Discharges,Secondary (COVID-19 Primary),2021,12,Dec-21,228
+Chronic Obstructive Pulmonary Disease (COPD),Inpatient Discharges,Secondary (COVID-19 Primary),2020,4,Apr-20,26
+Chronic Obstructive Pulmonary Disease (COPD),Inpatient Discharges,Secondary (COVID-19 Primary),2020,5,May-20,25
+Chronic Obstructive Pulmonary Disease (COPD),Inpatient Discharges,Secondary (COVID-19 Primary),2020,6,Jun-20,32
+Chronic Obstructive Pulmonary Disease (COPD),Inpatient Discharges,Secondary (COVID-19 Primary),2020,7,Jul-20,45
+Chronic Obstructive Pulmonary Disease (COPD),Inpatient Discharges,Secondary (COVID-19 Primary),2020,8,Aug-20,42
+Chronic Obstructive Pulmonary Disease (COPD),Inpatient Discharges,Secondary (COVID-19 Primary),2020,9,Sep-20,16
+Chronic Obstructive Pulmonary Disease (COPD),Inpatient Discharges,Secondary (COVID-19 Primary),2020,10,Oct-20,20
+Chronic Obstructive Pulmonary Disease (COPD),Inpatient Discharges,Secondary (COVID-19 Primary),2020,11,Nov-20,25
+Chronic Obstructive Pulmonary Disease (COPD),Inpatient Discharges,Secondary (COVID-19 Primary),2020,12,Dec-20,125
+Chronic Obstructive Pulmonary Disease (COPD),Inpatient Discharges,Secondary (COVID-19 Primary),2021,1,Jan-21,164
+Chronic Obstructive Pulmonary Disease (COPD),Inpatient Discharges,Secondary (COVID-19 Primary),2021,2,Feb-21,45
+Chronic Obstructive Pulmonary Disease (COPD),Inpatient Discharges,Secondary (COVID-19 Primary),2021,3,Mar-21,13
+Chronic Obstructive Pulmonary Disease (COPD),Inpatient Discharges,Secondary (COVID-19 Primary),2021,4,Apr-21,6
+Chronic Obstructive Pulmonary Disease (COPD),Inpatient Discharges,Secondary (COVID-19 Primary),2021,5,May-21,5
+Chronic Obstructive Pulmonary Disease (COPD),Inpatient Discharges,Secondary (COVID-19 Primary),2021,6,Jun-21,3
+Chronic Obstructive Pulmonary Disease (COPD),Inpatient Discharges,Secondary (COVID-19 Primary),2021,7,Jul-21,8
+Chronic Obstructive Pulmonary Disease (COPD),Inpatient Discharges,Secondary (COVID-19 Primary),2021,8,Aug-21,26
+Chronic Obstructive Pulmonary Disease (COPD),Inpatient Discharges,Secondary (COVID-19 Primary),2021,9,Sep-21,36
+Chronic Obstructive Pulmonary Disease (COPD),Inpatient Discharges,Secondary (COVID-19 Primary),2021,10,Oct-21,19
+Chronic Obstructive Pulmonary Disease (COPD),Inpatient Discharges,Secondary (COVID-19 Primary),2021,11,Nov-21,20
+Chronic Obstructive Pulmonary Disease (COPD),Inpatient Discharges,Secondary (COVID-19 Primary),2021,12,Dec-21,20
+Depression,Inpatient Discharges,Secondary (COVID-19 Primary),2020,4,Apr-20,64
+Depression,Inpatient Discharges,Secondary (COVID-19 Primary),2020,5,May-20,66
+Depression,Inpatient Discharges,Secondary (COVID-19 Primary),2020,6,Jun-20,61
+Depression,Inpatient Discharges,Secondary (COVID-19 Primary),2020,7,Jul-20,116
+Depression,Inpatient Discharges,Secondary (COVID-19 Primary),2020,8,Aug-20,114
+Depression,Inpatient Discharges,Secondary (COVID-19 Primary),2020,9,Sep-20,75
+Depression,Inpatient Discharges,Secondary (COVID-19 Primary),2020,10,Oct-20,44
+Depression,Inpatient Discharges,Secondary (COVID-19 Primary),2020,11,Nov-20,80
+Depression,Inpatient Discharges,Secondary (COVID-19 Primary),2020,12,Dec-20,359
+Depression,Inpatient Discharges,Secondary (COVID-19 Primary),2021,1,Jan-21,569
+Depression,Inpatient Discharges,Secondary (COVID-19 Primary),2021,2,Feb-21,249
+Depression,Inpatient Discharges,Secondary (COVID-19 Primary),2021,3,Mar-21,47
+Depression,Inpatient Discharges,Secondary (COVID-19 Primary),2021,4,Apr-21,24
+Depression,Inpatient Discharges,Secondary (COVID-19 Primary),2021,5,May-21,11
+Depression,Inpatient Discharges,Secondary (COVID-19 Primary),2021,6,Jun-21,14
+Depression,Inpatient Discharges,Secondary (COVID-19 Primary),2021,7,Jul-21,34
+Depression,Inpatient Discharges,Secondary (COVID-19 Primary),2021,8,Aug-21,107
+Depression,Inpatient Discharges,Secondary (COVID-19 Primary),2021,9,Sep-21,149
+Depression,Inpatient Discharges,Secondary (COVID-19 Primary),2021,10,Oct-21,107
+Depression,Inpatient Discharges,Secondary (COVID-19 Primary),2021,11,Nov-21,74
+Depression,Inpatient Discharges,Secondary (COVID-19 Primary),2021,12,Dec-21,81
+Diabetes,Inpatient Discharges,Secondary (COVID-19 Primary),2020,4,Apr-20,332
+Diabetes,Inpatient Discharges,Secondary (COVID-19 Primary),2020,5,May-20,337
+Diabetes,Inpatient Discharges,Secondary (COVID-19 Primary),2020,6,Jun-20,365
+Diabetes,Inpatient Discharges,Secondary (COVID-19 Primary),2020,7,Jul-20,714
+Diabetes,Inpatient Discharges,Secondary (COVID-19 Primary),2020,8,Aug-20,739
+Diabetes,Inpatient Discharges,Secondary (COVID-19 Primary),2020,9,Sep-20,370
+Diabetes,Inpatient Discharges,Secondary (COVID-19 Primary),2020,10,Oct-20,281
+Diabetes,Inpatient Discharges,Secondary (COVID-19 Primary),2020,11,Nov-20,432
+Diabetes,Inpatient Discharges,Secondary (COVID-19 Primary),2020,12,Dec-20,2318
+Diabetes,Inpatient Discharges,Secondary (COVID-19 Primary),2021,1,Jan-21,3992
+Diabetes,Inpatient Discharges,Secondary (COVID-19 Primary),2021,2,Feb-21,1683
+Diabetes,Inpatient Discharges,Secondary (COVID-19 Primary),2021,3,Mar-21,429
+Diabetes,Inpatient Discharges,Secondary (COVID-19 Primary),2021,4,Apr-21,127
+Diabetes,Inpatient Discharges,Secondary (COVID-19 Primary),2021,5,May-21,102
+Diabetes,Inpatient Discharges,Secondary (COVID-19 Primary),2021,6,Jun-21,59
+Diabetes,Inpatient Discharges,Secondary (COVID-19 Primary),2021,7,Jul-21,126
+Diabetes,Inpatient Discharges,Secondary (COVID-19 Primary),2021,8,Aug-21,627
+Diabetes,Inpatient Discharges,Secondary (COVID-19 Primary),2021,9,Sep-21,927
+Diabetes,Inpatient Discharges,Secondary (COVID-19 Primary),2021,10,Oct-21,541
+Diabetes,Inpatient Discharges,Secondary (COVID-19 Primary),2021,11,Nov-21,476
+Diabetes,Inpatient Discharges,Secondary (COVID-19 Primary),2021,12,Dec-21,443
+Hypertension,Inpatient Discharges,Secondary (COVID-19 Primary),2020,4,Apr-20,498
+Hypertension,Inpatient Discharges,Secondary (COVID-19 Primary),2020,5,May-20,484
+Hypertension,Inpatient Discharges,Secondary (COVID-19 Primary),2020,6,Jun-20,470
+Hypertension,Inpatient Discharges,Secondary (COVID-19 Primary),2020,7,Jul-20,944
+Hypertension,Inpatient Discharges,Secondary (COVID-19 Primary),2020,8,Aug-20,947
+Hypertension,Inpatient Discharges,Secondary (COVID-19 Primary),2020,9,Sep-20,493
+Hypertension,Inpatient Discharges,Secondary (COVID-19 Primary),2020,10,Oct-20,370
+Hypertension,Inpatient Discharges,Secondary (COVID-19 Primary),2020,11,Nov-20,614
+Hypertension,Inpatient Discharges,Secondary (COVID-19 Primary),2020,12,Dec-20,3291
+Hypertension,Inpatient Discharges,Secondary (COVID-19 Primary),2021,1,Jan-21,5399
+Hypertension,Inpatient Discharges,Secondary (COVID-19 Primary),2021,2,Feb-21,2120
+Hypertension,Inpatient Discharges,Secondary (COVID-19 Primary),2021,3,Mar-21,502
+Hypertension,Inpatient Discharges,Secondary (COVID-19 Primary),2021,4,Apr-21,162
+Hypertension,Inpatient Discharges,Secondary (COVID-19 Primary),2021,5,May-21,122
+Hypertension,Inpatient Discharges,Secondary (COVID-19 Primary),2021,6,Jun-21,71
+Hypertension,Inpatient Discharges,Secondary (COVID-19 Primary),2021,7,Jul-21,150
+Hypertension,Inpatient Discharges,Secondary (COVID-19 Primary),2021,8,Aug-21,848
+Hypertension,Inpatient Discharges,Secondary (COVID-19 Primary),2021,9,Sep-21,1277
+Hypertension,Inpatient Discharges,Secondary (COVID-19 Primary),2021,10,Oct-21,734
+Hypertension,Inpatient Discharges,Secondary (COVID-19 Primary),2021,11,Nov-21,657
+Hypertension,Inpatient Discharges,Secondary (COVID-19 Primary),2021,12,Dec-21,648
+Mood Disorders (Excluding Depression),Inpatient Discharges,Secondary (COVID-19 Primary),2020,4,Apr-20,17
+Mood Disorders (Excluding Depression),Inpatient Discharges,Secondary (COVID-19 Primary),2020,5,May-20,13
+Mood Disorders (Excluding Depression),Inpatient Discharges,Secondary (COVID-19 Primary),2020,6,Jun-20,16
+Mood Disorders (Excluding Depression),Inpatient Discharges,Secondary (COVID-19 Primary),2020,7,Jul-20,17
+Mood Disorders (Excluding Depression),Inpatient Discharges,Secondary (COVID-19 Primary),2020,8,Aug-20,13
+Mood Disorders (Excluding Depression),Inpatient Discharges,Secondary (COVID-19 Primary),2020,9,Sep-20,13
+Mood Disorders (Excluding Depression),Inpatient Discharges,Secondary (COVID-19 Primary),2020,10,Oct-20,8
+Mood Disorders (Excluding Depression),Inpatient Discharges,Secondary (COVID-19 Primary),2020,11,Nov-20,15
+Mood Disorders (Excluding Depression),Inpatient Discharges,Secondary (COVID-19 Primary),2020,12,Dec-20,58
+Mood Disorders (Excluding Depression),Inpatient Discharges,Secondary (COVID-19 Primary),2021,1,Jan-21,97
+Mood Disorders (Excluding Depression),Inpatient Discharges,Secondary (COVID-19 Primary),2021,2,Feb-21,29
+Mood Disorders (Excluding Depression),Inpatient Discharges,Secondary (COVID-19 Primary),2021,3,Mar-21,4
+Mood Disorders (Excluding Depression),Inpatient Discharges,Secondary (COVID-19 Primary),2021,4,Apr-21,5
+Mood Disorders (Excluding Depression),Inpatient Discharges,Secondary (COVID-19 Primary),2021,5,May-21,1
+Mood Disorders (Excluding Depression),Inpatient Discharges,Secondary (COVID-19 Primary),2021,6,Jun-21,1
+Mood Disorders (Excluding Depression),Inpatient Discharges,Secondary (COVID-19 Primary),2021,7,Jul-21,1
+Mood Disorders (Excluding Depression),Inpatient Discharges,Secondary (COVID-19 Primary),2021,8,Aug-21,16
+Mood Disorders (Excluding Depression),Inpatient Discharges,Secondary (COVID-19 Primary),2021,9,Sep-21,23
+Mood Disorders (Excluding Depression),Inpatient Discharges,Secondary (COVID-19 Primary),2021,10,Oct-21,16
+Mood Disorders (Excluding Depression),Inpatient Discharges,Secondary (COVID-19 Primary),2021,11,Nov-21,16
+Mood Disorders (Excluding Depression),Inpatient Discharges,Secondary (COVID-19 Primary),2021,12,Dec-21,8
+Non-Mood Psychotic Disorders,Inpatient Discharges,Secondary (COVID-19 Primary),2020,4,Apr-20,32
+Non-Mood Psychotic Disorders,Inpatient Discharges,Secondary (COVID-19 Primary),2020,5,May-20,35
+Non-Mood Psychotic Disorders,Inpatient Discharges,Secondary (COVID-19 Primary),2020,6,Jun-20,28
+Non-Mood Psychotic Disorders,Inpatient Discharges,Secondary (COVID-19 Primary),2020,7,Jul-20,31
+Non-Mood Psychotic Disorders,Inpatient Discharges,Secondary (COVID-19 Primary),2020,8,Aug-20,28
+Non-Mood Psychotic Disorders,Inpatient Discharges,Secondary (COVID-19 Primary),2020,9,Sep-20,13
+Non-Mood Psychotic Disorders,Inpatient Discharges,Secondary (COVID-19 Primary),2020,10,Oct-20,13
+Non-Mood Psychotic Disorders,Inpatient Discharges,Secondary (COVID-19 Primary),2020,11,Nov-20,18
+Non-Mood Psychotic Disorders,Inpatient Discharges,Secondary (COVID-19 Primary),2020,12,Dec-20,77
+Non-Mood Psychotic Disorders,Inpatient Discharges,Secondary (COVID-19 Primary),2021,1,Jan-21,99
+Non-Mood Psychotic Disorders,Inpatient Discharges,Secondary (COVID-19 Primary),2021,2,Feb-21,32
+Non-Mood Psychotic Disorders,Inpatient Discharges,Secondary (COVID-19 Primary),2021,3,Mar-21,7
+Non-Mood Psychotic Disorders,Inpatient Discharges,Secondary (COVID-19 Primary),2021,4,Apr-21,5
+Non-Mood Psychotic Disorders,Inpatient Discharges,Secondary (COVID-19 Primary),2021,5,May-21,1
+Non-Mood Psychotic Disorders,Inpatient Discharges,Secondary (COVID-19 Primary),2021,6,Jun-21,1
+Non-Mood Psychotic Disorders,Inpatient Discharges,Secondary (COVID-19 Primary),2021,7,Jul-21,3
+Non-Mood Psychotic Disorders,Inpatient Discharges,Secondary (COVID-19 Primary),2021,8,Aug-21,22
+Non-Mood Psychotic Disorders,Inpatient Discharges,Secondary (COVID-19 Primary),2021,9,Sep-21,17
+Non-Mood Psychotic Disorders,Inpatient Discharges,Secondary (COVID-19 Primary),2021,10,Oct-21,11
+Non-Mood Psychotic Disorders,Inpatient Discharges,Secondary (COVID-19 Primary),2021,11,Nov-21,21
+Non-Mood Psychotic Disorders,Inpatient Discharges,Secondary (COVID-19 Primary),2021,12,Dec-21,8
+Nonpsychotic Disorders (Excluding Anxiety),Inpatient Discharges,Secondary (COVID-19 Primary),2020,5,May-20,2
+Nonpsychotic Disorders (Excluding Anxiety),Inpatient Discharges,Secondary (COVID-19 Primary),2020,7,Jul-20,2
+Nonpsychotic Disorders (Excluding Anxiety),Inpatient Discharges,Secondary (COVID-19 Primary),2020,8,Aug-20,3
+Nonpsychotic Disorders (Excluding Anxiety),Inpatient Discharges,Secondary (COVID-19 Primary),2020,10,Oct-20,1
+Nonpsychotic Disorders (Excluding Anxiety),Inpatient Discharges,Secondary (COVID-19 Primary),2020,11,Nov-20,2
+Nonpsychotic Disorders (Excluding Anxiety),Inpatient Discharges,Secondary (COVID-19 Primary),2020,12,Dec-20,2
+Nonpsychotic Disorders (Excluding Anxiety),Inpatient Discharges,Secondary (COVID-19 Primary),2021,1,Jan-21,6
+Nonpsychotic Disorders (Excluding Anxiety),Inpatient Discharges,Secondary (COVID-19 Primary),2021,2,Feb-21,6
+Nonpsychotic Disorders (Excluding Anxiety),Inpatient Discharges,Secondary (COVID-19 Primary),2021,4,Apr-21,2
+Nonpsychotic Disorders (Excluding Anxiety),Inpatient Discharges,Secondary (COVID-19 Primary),2021,5,May-21,1
+Nonpsychotic Disorders (Excluding Anxiety),Inpatient Discharges,Secondary (COVID-19 Primary),2021,8,Aug-21,1
+Nonpsychotic Disorders (Excluding Anxiety),Inpatient Discharges,Secondary (COVID-19 Primary),2021,9,Sep-21,5
+Nonpsychotic Disorders (Excluding Anxiety),Inpatient Discharges,Secondary (COVID-19 Primary),2021,10,Oct-21,3
+Nonpsychotic Disorders (Excluding Anxiety),Inpatient Discharges,Secondary (COVID-19 Primary),2021,11,Nov-21,2
+Nonpsychotic Disorders (Excluding Anxiety),Inpatient Discharges,Secondary (COVID-19 Primary),2021,12,Dec-21,1
+Obesity,Inpatient Discharges,Secondary (COVID-19 Primary),2020,3,Mar-20,1
+Obesity,Inpatient Discharges,Secondary (COVID-19 Primary),2020,4,Apr-20,99
+Obesity,Inpatient Discharges,Secondary (COVID-19 Primary),2020,5,May-20,109
+Obesity,Inpatient Discharges,Secondary (COVID-19 Primary),2020,6,Jun-20,141
+Obesity,Inpatient Discharges,Secondary (COVID-19 Primary),2020,7,Jul-20,344
+Obesity,Inpatient Discharges,Secondary (COVID-19 Primary),2020,8,Aug-20,356
+Obesity,Inpatient Discharges,Secondary (COVID-19 Primary),2020,9,Sep-20,204
+Obesity,Inpatient Discharges,Secondary (COVID-19 Primary),2020,10,Oct-20,139
+Obesity,Inpatient Discharges,Secondary (COVID-19 Primary),2020,11,Nov-20,203
+Obesity,Inpatient Discharges,Secondary (COVID-19 Primary),2020,12,Dec-20,1116
+Obesity,Inpatient Discharges,Secondary (COVID-19 Primary),2021,1,Jan-21,1957
+Obesity,Inpatient Discharges,Secondary (COVID-19 Primary),2021,2,Feb-21,766
+Obesity,Inpatient Discharges,Secondary (COVID-19 Primary),2021,3,Mar-21,214
+Obesity,Inpatient Discharges,Secondary (COVID-19 Primary),2021,4,Apr-21,72
+Obesity,Inpatient Discharges,Secondary (COVID-19 Primary),2021,5,May-21,79
+Obesity,Inpatient Discharges,Secondary (COVID-19 Primary),2021,6,Jun-21,43
+Obesity,Inpatient Discharges,Secondary (COVID-19 Primary),2021,7,Jul-21,94
+Obesity,Inpatient Discharges,Secondary (COVID-19 Primary),2021,8,Aug-21,501
+Obesity,Inpatient Discharges,Secondary (COVID-19 Primary),2021,9,Sep-21,728
+Obesity,Inpatient Discharges,Secondary (COVID-19 Primary),2021,10,Oct-21,391
+Obesity,Inpatient Discharges,Secondary (COVID-19 Primary),2021,11,Nov-21,353
+Obesity,Inpatient Discharges,Secondary (COVID-19 Primary),2021,12,Dec-21,291
+Pneumonia,Inpatient Discharges,Secondary (COVID-19 Primary),2020,3,Mar-20,1
+Pneumonia,Inpatient Discharges,Secondary (COVID-19 Primary),2020,4,Apr-20,599
+Pneumonia,Inpatient Discharges,Secondary (COVID-19 Primary),2020,5,May-20,589
+Pneumonia,Inpatient Discharges,Secondary (COVID-19 Primary),2020,6,Jun-20,605
+Pneumonia,Inpatient Discharges,Secondary (COVID-19 Primary),2020,7,Jul-20,1208
+Pneumonia,Inpatient Discharges,Secondary (COVID-19 Primary),2020,8,Aug-20,1236
+Pneumonia,Inpatient Discharges,Secondary (COVID-19 Primary),2020,9,Sep-20,670
+Pneumonia,Inpatient Discharges,Secondary (COVID-19 Primary),2020,10,Oct-20,468
+Pneumonia,Inpatient Discharges,Secondary (COVID-19 Primary),2020,11,Nov-20,769
+Pneumonia,Inpatient Discharges,Secondary (COVID-19 Primary),2020,12,Dec-20,4130
+Pneumonia,Inpatient Discharges,Secondary (COVID-19 Primary),2021,1,Jan-21,6984
+Pneumonia,Inpatient Discharges,Secondary (COVID-19 Primary),2021,2,Feb-21,2812
+Pneumonia,Inpatient Discharges,Secondary (COVID-19 Primary),2021,3,Mar-21,720
+Pneumonia,Inpatient Discharges,Secondary (COVID-19 Primary),2021,4,Apr-21,243
+Pneumonia,Inpatient Discharges,Secondary (COVID-19 Primary),2021,5,May-21,186
+Pneumonia,Inpatient Discharges,Secondary (COVID-19 Primary),2021,6,Jun-21,109
+Pneumonia,Inpatient Discharges,Secondary (COVID-19 Primary),2021,7,Jul-21,240
+Pneumonia,Inpatient Discharges,Secondary (COVID-19 Primary),2021,8,Aug-21,1297
+Pneumonia,Inpatient Discharges,Secondary (COVID-19 Primary),2021,9,Sep-21,1885
+Pneumonia,Inpatient Discharges,Secondary (COVID-19 Primary),2021,10,Oct-21,1124
+Pneumonia,Inpatient Discharges,Secondary (COVID-19 Primary),2021,11,Nov-21,995
+Pneumonia,Inpatient Discharges,Secondary (COVID-19 Primary),2021,12,Dec-21,913
+Respiratory Arrest/Failure,Inpatient Discharges,Secondary (COVID-19 Primary),2020,4,Apr-20,497
+Respiratory Arrest/Failure,Inpatient Discharges,Secondary (COVID-19 Primary),2020,5,May-20,494
+Respiratory Arrest/Failure,Inpatient Discharges,Secondary (COVID-19 Primary),2020,6,Jun-20,473
+Respiratory Arrest/Failure,Inpatient Discharges,Secondary (COVID-19 Primary),2020,7,Jul-20,965
+Respiratory Arrest/Failure,Inpatient Discharges,Secondary (COVID-19 Primary),2020,8,Aug-20,981
+Respiratory Arrest/Failure,Inpatient Discharges,Secondary (COVID-19 Primary),2020,9,Sep-20,505
+Respiratory Arrest/Failure,Inpatient Discharges,Secondary (COVID-19 Primary),2020,10,Oct-20,368
+Respiratory Arrest/Failure,Inpatient Discharges,Secondary (COVID-19 Primary),2020,11,Nov-20,584
+Respiratory Arrest/Failure,Inpatient Discharges,Secondary (COVID-19 Primary),2020,12,Dec-20,3226
+Respiratory Arrest/Failure,Inpatient Discharges,Secondary (COVID-19 Primary),2021,1,Jan-21,5119
+Respiratory Arrest/Failure,Inpatient Discharges,Secondary (COVID-19 Primary),2021,2,Feb-21,1905
+Respiratory Arrest/Failure,Inpatient Discharges,Secondary (COVID-19 Primary),2021,3,Mar-21,451
+Respiratory Arrest/Failure,Inpatient Discharges,Secondary (COVID-19 Primary),2021,4,Apr-21,143
+Respiratory Arrest/Failure,Inpatient Discharges,Secondary (COVID-19 Primary),2021,5,May-21,96
+Respiratory Arrest/Failure,Inpatient Discharges,Secondary (COVID-19 Primary),2021,6,Jun-21,56
+Respiratory Arrest/Failure,Inpatient Discharges,Secondary (COVID-19 Primary),2021,7,Jul-21,146
+Respiratory Arrest/Failure,Inpatient Discharges,Secondary (COVID-19 Primary),2021,8,Aug-21,826
+Respiratory Arrest/Failure,Inpatient Discharges,Secondary (COVID-19 Primary),2021,9,Sep-21,1134
+Respiratory Arrest/Failure,Inpatient Discharges,Secondary (COVID-19 Primary),2021,10,Oct-21,680
+Respiratory Arrest/Failure,Inpatient Discharges,Secondary (COVID-19 Primary),2021,11,Nov-21,625
+Respiratory Arrest/Failure,Inpatient Discharges,Secondary (COVID-19 Primary),2021,12,Dec-21,560
+Sepsis,Inpatient Discharges,Secondary (COVID-19 Primary),2020,3,Mar-20,1
+Sepsis,Inpatient Discharges,Secondary (COVID-19 Primary),2020,4,Apr-20,213
+Sepsis,Inpatient Discharges,Secondary (COVID-19 Primary),2020,5,May-20,221
+Sepsis,Inpatient Discharges,Secondary (COVID-19 Primary),2020,6,Jun-20,232
+Sepsis,Inpatient Discharges,Secondary (COVID-19 Primary),2020,7,Jul-20,473
+Sepsis,Inpatient Discharges,Secondary (COVID-19 Primary),2020,8,Aug-20,576
+Sepsis,Inpatient Discharges,Secondary (COVID-19 Primary),2020,9,Sep-20,314
+Sepsis,Inpatient Discharges,Secondary (COVID-19 Primary),2020,10,Oct-20,202
+Sepsis,Inpatient Discharges,Secondary (COVID-19 Primary),2020,11,Nov-20,254
+Sepsis,Inpatient Discharges,Secondary (COVID-19 Primary),2020,12,Dec-20,1208
+Sepsis,Inpatient Discharges,Secondary (COVID-19 Primary),2021,1,Jan-21,2359
+Sepsis,Inpatient Discharges,Secondary (COVID-19 Primary),2021,2,Feb-21,1229
+Sepsis,Inpatient Discharges,Secondary (COVID-19 Primary),2021,3,Mar-21,366
+Sepsis,Inpatient Discharges,Secondary (COVID-19 Primary),2021,4,Apr-21,101
+Sepsis,Inpatient Discharges,Secondary (COVID-19 Primary),2021,5,May-21,90
+Sepsis,Inpatient Discharges,Secondary (COVID-19 Primary),2021,6,Jun-21,48
+Sepsis,Inpatient Discharges,Secondary (COVID-19 Primary),2021,7,Jul-21,98
+Sepsis,Inpatient Discharges,Secondary (COVID-19 Primary),2021,8,Aug-21,459
+Sepsis,Inpatient Discharges,Secondary (COVID-19 Primary),2021,9,Sep-21,756
+Sepsis,Inpatient Discharges,Secondary (COVID-19 Primary),2021,10,Oct-21,418
+Sepsis,Inpatient Discharges,Secondary (COVID-19 Primary),2021,11,Nov-21,346
+Sepsis,Inpatient Discharges,Secondary (COVID-19 Primary),2021,12,Dec-21,328
+Stroke,Inpatient Discharges,Secondary (COVID-19 Primary),2020,4,Apr-20,9
+Stroke,Inpatient Discharges,Secondary (COVID-19 Primary),2020,5,May-20,14
+Stroke,Inpatient Discharges,Secondary (COVID-19 Primary),2020,6,Jun-20,10
+Stroke,Inpatient Discharges,Secondary (COVID-19 Primary),2020,7,Jul-20,16
+Stroke,Inpatient Discharges,Secondary (COVID-19 Primary),2020,8,Aug-20,30
+Stroke,Inpatient Discharges,Secondary (COVID-19 Primary),2020,9,Sep-20,15
+Stroke,Inpatient Discharges,Secondary (COVID-19 Primary),2020,10,Oct-20,13
+Stroke,Inpatient Discharges,Secondary (COVID-19 Primary),2020,11,Nov-20,22
+Stroke,Inpatient Discharges,Secondary (COVID-19 Primary),2020,12,Dec-20,98
+Stroke,Inpatient Discharges,Secondary (COVID-19 Primary),2021,1,Jan-21,186
+Stroke,Inpatient Discharges,Secondary (COVID-19 Primary),2021,2,Feb-21,92
+Stroke,Inpatient Discharges,Secondary (COVID-19 Primary),2021,3,Mar-21,37
+Stroke,Inpatient Discharges,Secondary (COVID-19 Primary),2021,4,Apr-21,8
+Stroke,Inpatient Discharges,Secondary (COVID-19 Primary),2021,5,May-21,10
+Stroke,Inpatient Discharges,Secondary (COVID-19 Primary),2021,6,Jun-21,2
+Stroke,Inpatient Discharges,Secondary (COVID-19 Primary),2021,7,Jul-21,8
+Stroke,Inpatient Discharges,Secondary (COVID-19 Primary),2021,8,Aug-21,41
+Stroke,Inpatient Discharges,Secondary (COVID-19 Primary),2021,9,Sep-21,50
+Stroke,Inpatient Discharges,Secondary (COVID-19 Primary),2021,10,Oct-21,41
+Stroke,Inpatient Discharges,Secondary (COVID-19 Primary),2021,11,Nov-21,31
+Stroke,Inpatient Discharges,Secondary (COVID-19 Primary),2021,12,Dec-21,34
+Substance Use Disorders,Inpatient Discharges,Secondary (COVID-19 Primary),2020,4,Apr-20,28
+Substance Use Disorders,Inpatient Discharges,Secondary (COVID-19 Primary),2020,5,May-20,46
+Substance Use Disorders,Inpatient Discharges,Secondary (COVID-19 Primary),2020,6,Jun-20,48
+Substance Use Disorders,Inpatient Discharges,Secondary (COVID-19 Primary),2020,7,Jul-20,84
+Substance Use Disorders,Inpatient Discharges,Secondary (COVID-19 Primary),2020,8,Aug-20,77
+Substance Use Disorders,Inpatient Discharges,Secondary (COVID-19 Primary),2020,9,Sep-20,44
+Substance Use Disorders,Inpatient Discharges,Secondary (COVID-19 Primary),2020,10,Oct-20,27
+Substance Use Disorders,Inpatient Discharges,Secondary (COVID-19 Primary),2020,11,Nov-20,48
+Substance Use Disorders,Inpatient Discharges,Secondary (COVID-19 Primary),2020,12,Dec-20,259
+Substance Use Disorders,Inpatient Discharges,Secondary (COVID-19 Primary),2021,1,Jan-21,385
+Substance Use Disorders,Inpatient Discharges,Secondary (COVID-19 Primary),2021,2,Feb-21,164
+Substance Use Disorders,Inpatient Discharges,Secondary (COVID-19 Primary),2021,3,Mar-21,48
+Substance Use Disorders,Inpatient Discharges,Secondary (COVID-19 Primary),2021,4,Apr-21,23
+Substance Use Disorders,Inpatient Discharges,Secondary (COVID-19 Primary),2021,5,May-21,14
+Substance Use Disorders,Inpatient Discharges,Secondary (COVID-19 Primary),2021,6,Jun-21,9
+Substance Use Disorders,Inpatient Discharges,Secondary (COVID-19 Primary),2021,7,Jul-21,26
+Substance Use Disorders,Inpatient Discharges,Secondary (COVID-19 Primary),2021,8,Aug-21,128
+Substance Use Disorders,Inpatient Discharges,Secondary (COVID-19 Primary),2021,9,Sep-21,158
+Substance Use Disorders,Inpatient Discharges,Secondary (COVID-19 Primary),2021,10,Oct-21,127
+Substance Use Disorders,Inpatient Discharges,Secondary (COVID-19 Primary),2021,11,Nov-21,110
+Substance Use Disorders,Inpatient Discharges,Secondary (COVID-19 Primary),2021,12,Dec-21,91
+Unspecified Mental Disorders,Inpatient Discharges,Secondary (COVID-19 Primary),2020,5,May-20,4
+Unspecified Mental Disorders,Inpatient Discharges,Secondary (COVID-19 Primary),2020,6,Jun-20,1
+Unspecified Mental Disorders,Inpatient Discharges,Secondary (COVID-19 Primary),2020,7,Jul-20,4
+Unspecified Mental Disorders,Inpatient Discharges,Secondary (COVID-19 Primary),2020,8,Aug-20,2
+Unspecified Mental Disorders,Inpatient Discharges,Secondary (COVID-19 Primary),2020,9,Sep-20,1
+Unspecified Mental Disorders,Inpatient Discharges,Secondary (COVID-19 Primary),2020,11,Nov-20,1
+Unspecified Mental Disorders,Inpatient Discharges,Secondary (COVID-19 Primary),2020,12,Dec-20,6
+Unspecified Mental Disorders,Inpatient Discharges,Secondary (COVID-19 Primary),2021,1,Jan-21,17
+Unspecified Mental Disorders,Inpatient Discharges,Secondary (COVID-19 Primary),2021,2,Feb-21,4
+Unspecified Mental Disorders,Inpatient Discharges,Secondary (COVID-19 Primary),2021,3,Mar-21,2
+Unspecified Mental Disorders,Inpatient Discharges,Secondary (COVID-19 Primary),2021,5,May-21,1
+Unspecified Mental Disorders,Inpatient Discharges,Secondary (COVID-19 Primary),2021,8,Aug-21,7
+Unspecified Mental Disorders,Inpatient Discharges,Secondary (COVID-19 Primary),2021,9,Sep-21,10
+Unspecified Mental Disorders,Inpatient Discharges,Secondary (COVID-19 Primary),2021,10,Oct-21,2
+Unspecified Mental Disorders,Inpatient Discharges,Secondary (COVID-19 Primary),2021,11,Nov-21,3
+Unspecified Mental Disorders,Inpatient Discharges,Secondary (COVID-19 Primary),2021,12,Dec-21,4

@@ -1,0 +1,305 @@
+{
+  "accrual_periodicity": "monthly",
+  "additional_limitations": "",
+  "citation": "Department of Health Care Access and Information: Hospital Utilization Trends, Utilization Trends by Health Category, In-Hospital Mortality Trends by Health Category, In-Hospital Mortality Trends by Diagnosis Type, In-Hospital Mortality Trends by Secondary Diagnosis",
+  "contact_email": "dataandreports@hcai.ca.gov",
+  "data_collection_tool": "",
+  "data_license": "Terms of Use",
+  "de_identification_method": "",
+  "description": "With the onset of COVID-19, hospitals statewide saw a sharp drop in inpatient discharges, emergency department utilization, and ambulatory surgeries. These datasets contain monthly counts of encounters and in-hospital mortalities in those three settings and are also broken down by the following common health conditions/categories: anxiety, asthma, behavioral syndromes, cancer, cardiac arrest, chronic obstructive pulmonary disease (COPD), COVID-19, depression, diabetes, homeless, hypertension, mood disorders (excluding depression), non-mood psychotic disorders, nonpsychotic disorders (excluding anxiety), obesity, pneumonia, respiratory arrest/failure, sepsis, stroke, substance use disorders, and unspecified mental disorders.",
+  "geo_coverage": "Statewide",
+  "geographic_granularity": "statewide",
+  "keywords": [
+    "AS Encounters",
+    "COVID-19 Coronavirus",
+    "Emergency Department",
+    "acute care hospitals",
+    "ambulatory surgery",
+    "discharges",
+    "healthcare",
+    "mortality",
+    "trends",
+    "utilization"
+  ],
+  "limitations": "Limitations",
+  "name": "effects-of-covid-19-on-hospital-utilization-trends",
+  "program_web_page": "https://hcai.ca.gov/visualizations/effects-of-covid-19-on-hospital-utilization-trends/",
+  "related_resources": "Department of Health Care Access and Information: Healthcare Utilization, Patient-Level Administrative",
+  "resources": [
+    {
+      "description": "This dataset provides medical encounter counts in three hospital settings (inpatient discharges, emergency department, and ambulatory surgery). The data is categorized by healthcare system and facility. ",
+      "format": "CSV",
+      "hash": "c158769abde6687515e07ccb39131ebb",
+      "name": "hospital-utilization-trends",
+      "path": "hospital-utilization-trends.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Setting",
+            "type": "string"
+          },
+          {
+            "name": "System",
+            "type": "string"
+          },
+          {
+            "name": "Facility Name",
+            "type": "string"
+          },
+          {
+            "name": "Date",
+            "type": "string"
+          },
+          {
+            "name": "Count",
+            "type": "string"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/499e7fb6-459a-4ad4-ba00-490eeda20680/resource/e8f473b4-e313-4564-a0d1-7363d8f21b56/download/hospital-utilization-trends.csv",
+          "title": "Hospital Utilization Trends"
+        }
+      ],
+      "title": "Hospital Utilization Trends"
+    },
+    {
+      "format": "PDF",
+      "name": "hospital-utilization-trends-data-dictionary",
+      "path": "hospital-utilization-trends-data-dictionary.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/499e7fb6-459a-4ad4-ba00-490eeda20680/resource/a508f66a-bc8a-4c2a-9e1f-9a0286198a30/download/hospital-utilization-trends-data-dictionary.pdf",
+          "title": "Hospital Utilization Trends Data Dictionary"
+        }
+      ],
+      "title": "Hospital Utilization Trends Data Dictionary"
+    },
+    {
+      "description": "This dataset provides medical encounter counts in three hospital settings (inpatient discharges, emergency department, and ambulatory surgery). The data is categorized by healthcare system, healthcare facility, and the following common health conditions/categories: anxiety, asthma, behavioral syndromes, cancer, cardiac arrest, chronic obstructive pulmonary disease (COPD), COVID-19, depression, diabetes, homeless, hypertension, mood disorders (excluding depression), non-mood psychotic disorders, nonpsychotic disorders (excluding anxiety), obesity, pneumonia, respiratory arrest/failure, sepsis, stroke, substance use disorders, and unspecified mental disorders.",
+      "format": "CSV",
+      "hash": "9c2a615d6f3140101c22971975853c60",
+      "name": "utilization-trends-by-health-category",
+      "path": "utilization-trends-by-health-category.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Date",
+            "type": "string"
+          },
+          {
+            "name": "Setting",
+            "type": "string"
+          },
+          {
+            "name": "Category",
+            "type": "string"
+          },
+          {
+            "name": "System",
+            "type": "string"
+          },
+          {
+            "name": "Facility Name",
+            "type": "string"
+          },
+          {
+            "name": "Count",
+            "type": "number"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/499e7fb6-459a-4ad4-ba00-490eeda20680/resource/7550f345-cb7d-4db6-b4a8-c0bb4f7bb09e/download/utilization-trends-by-health-category.csv",
+          "title": "Utilization Trends by Health Category"
+        }
+      ],
+      "title": "Utilization Trends by Health Category"
+    },
+    {
+      "format": "PDF",
+      "name": "utilization-trends-by-health-category-data-dictionary",
+      "path": "utilization-trends-by-health-category-data-dictionary.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/499e7fb6-459a-4ad4-ba00-490eeda20680/resource/6fd6d4a7-2177-4f84-b32c-bba4e99de651/download/utilization-trends-by-health-category-data-dictionary.pdf",
+          "title": "Utilization Trends by Health Category Data Dictionary"
+        }
+      ],
+      "title": "Utilization Trends by Health Category Data Dictionary"
+    },
+    {
+      "description": "This dataset provides counts of in-hospital deaths in three hospital settings (inpatient discharges, emergency department, and ambulatory surgery). The data is categorized by the following common health conditions/categories: anxiety, asthma, behavioral syndromes, cancer, cardiac arrest, chronic obstructive pulmonary disease (COPD), COVID-19, depression, diabetes, homeless, hypertension, mood disorders (excluding depression), non-mood psychotic disorders, nonpsychotic disorders (excluding anxiety), obesity, pneumonia, respiratory arrest/failure, sepsis, stroke, substance use disorders, and unspecified mental disorders.",
+      "format": "CSV",
+      "hash": "12535ddc5ff2d0f07d04075ed4565af4",
+      "name": "in-hospital-mortality-trends-by-health-category",
+      "path": "in-hospital-mortality-trends-by-health-category.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Date",
+            "type": "string"
+          },
+          {
+            "name": "Category",
+            "type": "string"
+          },
+          {
+            "name": "Setting",
+            "type": "string"
+          },
+          {
+            "name": "Count",
+            "type": "string"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/499e7fb6-459a-4ad4-ba00-490eeda20680/resource/6cedc25e-c508-4b8c-83be-d40f154b4eea/download/in-hospital-mortality-trends-by-health-category.csv",
+          "title": "In-Hospital Mortality Trends by Health Category"
+        }
+      ],
+      "title": "In-Hospital Mortality Trends by Health Category"
+    },
+    {
+      "format": "PDF",
+      "name": "in-hospital-mortality-trends-by-health-category-data-dictionary",
+      "path": "in-hospital-mortality-trends-by-health-category-data-dictionary.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/499e7fb6-459a-4ad4-ba00-490eeda20680/resource/da638eab-c785-4c26-8689-55aa03f48204/download/in-hospital-mortality-trends-by-health-category-data-dictionary.pdf",
+          "title": "In-Hospital Mortality Trends by Health Category Data Dictionary"
+        }
+      ],
+      "title": "In-Hospital Mortality Trends by Health Category Data Dictionary"
+    },
+    {
+      "description": "This dataset provides counts of in-hospital deaths in three hospital settings (inpatient discharges, emergency department, and ambulatory surgery). The data is categorized by the following common health conditions/categories: anxiety, asthma, behavioral syndromes, cancer, cardiac arrest, chronic obstructive pulmonary disease (COPD), COVID-19, depression, diabetes, homeless, hypertension, mood disorders (excluding depression), non-mood psychotic disorders, nonpsychotic disorders (excluding anxiety), obesity, pneumonia, respiratory arrest/failure, sepsis, stroke, substance use disorders, and unspecified mental disorders. These diagnosis groupings are further categorized as primary or secondary diagnosis based on ICD-10 codes assigned by the healthcare facility during the encounter.",
+      "format": "CSV",
+      "hash": "c06fa45bfd3e68dfb6a3f71d6357bb52",
+      "name": "in-hospital-mortality-trends-by-diagnosis-type",
+      "path": "in-hospital-mortality-trends-by-diagnosis-type.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Category",
+            "type": "string"
+          },
+          {
+            "name": "Setting",
+            "type": "string"
+          },
+          {
+            "name": "Diagnosis",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "string"
+          },
+          {
+            "name": "Month",
+            "type": "string"
+          },
+          {
+            "name": "Date",
+            "type": "string"
+          },
+          {
+            "name": "Count",
+            "type": "string"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/499e7fb6-459a-4ad4-ba00-490eeda20680/resource/32a55190-f4b0-4912-b738-2c79e924955e/download/in-hospital-mortality-trends-by-diagnosis-type.csv",
+          "title": " In-Hospital Mortality Trends by Diagnosis Type"
+        }
+      ],
+      "title": " In-Hospital Mortality Trends by Diagnosis Type"
+    },
+    {
+      "format": "PDF",
+      "name": "in-hospital-mortality-trends-by-diagnosis-type-data-dictionary",
+      "path": "in-hospital-mortality-trends-by-diagnosis-type-data-dictionary.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/499e7fb6-459a-4ad4-ba00-490eeda20680/resource/a1980634-1ad5-4d9d-853d-d14bf7363087/download/in-hospital-mortality-trends-by-diagnosis-type-data-dictionary.pdf",
+          "title": "In-Hospital Mortality Trends by Diagnosis Type Data Dictionary"
+        }
+      ],
+      "title": "In-Hospital Mortality Trends by Diagnosis Type Data Dictionary"
+    },
+    {
+      "description": "This dataset provides counts of in-hospital deaths in three hospital settings (inpatient discharges, emergency department, and ambulatory surgery). The data is categorized by the following common health conditions/categories listed within each encounter record as a secondary diagnosis: anxiety, asthma, behavioral syndromes, cancer, cardiac arrest, chronic obstructive pulmonary disease (COPD), COVID-19, depression, diabetes, homeless, hypertension, mood disorders (excluding depression), non-mood psychotic disorders, nonpsychotic disorders (excluding anxiety), obesity, pneumonia, respiratory arrest/failure, sepsis, stroke, substance use disorders, and unspecified mental disorders. This dataset also indicates whether or not COVID-19 was the primary diagnosis.",
+      "format": "CSV",
+      "hash": "e8919cdebb1305db166a7286ebd4558b",
+      "name": "in-hospital-mortality-trends-by-secondary-diagnosis",
+      "path": "in-hospital-mortality-trends-by-secondary-diagnosis.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Category",
+            "type": "string"
+          },
+          {
+            "name": "Setting",
+            "type": "string"
+          },
+          {
+            "name": "Diagnosis",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "string"
+          },
+          {
+            "name": "Month",
+            "type": "string"
+          },
+          {
+            "name": "Date",
+            "type": "string"
+          },
+          {
+            "name": "Count",
+            "type": "string"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/499e7fb6-459a-4ad4-ba00-490eeda20680/resource/e10dd2b5-a80c-4c48-ad80-12bc50cedede/download/in-hospital-mortality-trends-by-secondary-diagnosis.csv",
+          "title": " In-Hospital Mortality Trends by Secondary Diagnosis"
+        }
+      ],
+      "title": " In-Hospital Mortality Trends by Secondary Diagnosis"
+    },
+    {
+      "format": "PDF",
+      "name": "in-hospital-mortality-trends-by-secondary-diagnosis-data-dictionary",
+      "path": "in-hospital-mortality-trends-by-secondary-diagnosis-data-dictionary.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/499e7fb6-459a-4ad4-ba00-490eeda20680/resource/6b6908cb-eac9-4a8b-afce-253f0e292bf9/download/in-hospital-mortality-trends-by-secondary-diagnosis-data-dictionary.pdf",
+          "title": "In-Hospital Mortality Trends by Secondary Diagnosis Data Dictionary"
+        }
+      ],
+      "title": "In-Hospital Mortality Trends by Secondary Diagnosis Data Dictionary"
+    }
+  ],
+  "secondary_sources": "",
+  "sources": [
+    {
+      "name": "HCAI, Healthcare Analytics Branch, Clinical Data Group",
+      "web": "Healthcare Utilization"
+    }
+  ],
+  "temporal_coverage": "2018-2021",
+  "title": "Effects of COVID-19 on Hospital Utilization Trends"
+}
